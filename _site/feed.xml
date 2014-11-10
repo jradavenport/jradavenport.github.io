@@ -3,37 +3,73 @@
   <channel>
     <title>James R. A. Davenport</title>
     <description></description>
-    <link>http://jradavenport.github.io/</link>
-    <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Nov 2014 22:46:16 -0800</pubDate>
-    <lastBuildDate>Sat, 08 Nov 2014 22:46:16 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 09 Nov 2014 21:34:54 -0800</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2014 21:34:54 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Random Color X11 terminal for Mac</title>
+        <description>&lt;p&gt;I wanted to make my xterm a different color, to add spice to my life. After some quick searching, I started working from the directions &lt;a href=&quot;http://entropicprincipal.blogspot.com/2006/03/picking-random-color-for-xterms.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Of course, there needed to be some modifications. I created a &lt;a href=&quot;http://localhost:4000/assets/randomxterm.pl&quot;&gt;perl script&lt;/a&gt; and put it at this path: &lt;code&gt;~/.randomxterm.pl&lt;/code&gt; Not all the colors look good with white text, so I needed to constrain the choices. Also I had to &lt;code&gt;chmod 755&lt;/code&gt; it.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;The perl script needs to know the location of the X11 colors. For OSX Yosemite this file appears to be at &lt;code&gt;/opt/X11/share/X11/rgb.txt&lt;/code&gt;, and the file looks like this:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;255 250 250             snow
+248 248 255             ghost white
+248 248 255             GhostWhite
+245 245 245             white smoke
+...
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In X11, I then created a new terminal profile, called Color xterm, shown below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/xtermcolors.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I still get light/pink colored windows, so I should constrain the choices more… but it works well otherwise! Pointless and fun!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/xterm-random.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Mar 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/03/12/randomcolors.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/03/12/randomcolors.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My IDL Routines</title>
+        <description>&lt;p&gt;For the latest verison of my IDL routines, see my &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;GitHub page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/cubehelix_clr_sm.png&quot; onmouseover=&quot;this.src=&#39;http://localhost:4000/assets/cubehelix_bw_sm.png&#39;&quot; onmouseout=&quot;this.src=&#39;http://localhost:4000/assets/cubehelix_clr_sm.png&#39;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For my flare finding suite (FBEYE), click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt; &lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Mar 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/03/12/idl.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/03/12/idl.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gender Study</title>
+        <description>&lt;p&gt;In 2014, with a great amount of help from friends and volunteers, I undertook a unique study of the gender ratios present in conference talks. We gathered data on the gender of both speakers and questioners from over 270 talks at the 223rd AAS meeting in Washington DC. Our goal is to better understand how and when people ask questions at scientific conferences, and to help define best-practices for conferences to ensure everyone can participate equally&lt;/p&gt;
+
+&lt;p&gt;I am very interested in extending this project to future AAS meetings, as well as other scientific conferences. If you are attending/organizing an upcoming conference and wish to collect data to assist with this project, please email me!&lt;/p&gt;
+
+&lt;p&gt;Other conferences that have participated so far:
+&lt;a href=&quot;http://breedingenthusiasms.wordpress.com/2014/06/19/nam-gender-survey/&quot;&gt;NAM2014&lt;/a&gt;, Cool Stars 18, and AAS 225 (planned)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arxiv.org/abs/1403.3091&quot;&gt;Our preliminary report from AAS 223 is available!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 08 Nov 2014 12:10:40 -0800</pubDate>
-        <link>http://jradavenport.github.io/jekyll/update/2014/11/08/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://jradavenport.github.io/jekyll/update/2014/11/08/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 12 Mar 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2014/03/12/gender.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/03/12/gender.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
