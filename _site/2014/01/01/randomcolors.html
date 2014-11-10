@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>About Me</title>
+    <title>Post: Random Color X11 terminal for Mac</title>
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jradavenport.github.io/about/">
+    <link rel="canonical" href="http://jradavenport.github.io/2014/01/01/randomcolors.html">
     <!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=6668445; 
@@ -92,17 +92,30 @@ alt="iweb stats" ></a></div></noscript>
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">About Me</h1>
+    <h1 class="post-title">Post: Random Color X11 terminal for Mac</h1>
   </header>
 
   <article class="post-content">
-    <p><img src="http://jradavenport.github.io/assets/aboutme.jpg" alt="" /></p>
+    <p>I wanted to make my xterm a different color, to add spice to my life. After some quick searching, I started working from the directions <a href="http://entropicprincipal.blogspot.com/2006/03/picking-random-color-for-xterms.html">here</a>.</p>
 
-<p>I am currently a grad student at the University of Washington, pursuing my PhD in Astronomy. My undergrad (bachelors of science) was done at the UW. I then went on to get a masters of science in astronomy at San Diego State University before eventually returning to UW. I have also worked at Apache Point Observatory and interned at Microsoft Research.</p>
+<p>Of course, there needed to be some modifications. I created a <a href="http://jradavenport.github.io/assets/randomxterm.pl">perl script</a> and put it at this path: <code>~/.randomxterm.pl</code> Not all the colors look good with white text, so I needed to constrain the choices. Also I had to <code>chmod 755</code> it.</p>
 
-<p>My astronomy research interests include stellar activity, binaries, stellar populations, star clusters, time-domain astronomy, and large-scale surveys such as the SDSS, LSST, 2MASS, ZTF, and Pan-STARRS. I am particularly excited about using the time-domain astronomy to learn about stellar ages and the history of our Galaxy.</p>
+<p>The perl script needs to know the location of the X11 colors. For OSX Yosemite this file appears to be at <code>/opt/X11/share/X11/rgb.txt</code>, and the file looks like this:</p>
 
-<p>Since 2012 I have run the data visualization and science blog <a href="http://www.ifweassume.com">If We Assume</a></p>
+<pre><code>255 250 250             snow
+248 248 255             ghost white
+248 248 255             GhostWhite
+245 245 245             white smoke
+...
+</code></pre>
+
+<p>In X11, I then created a new terminal profile, called Color xterm, shown below:</p>
+
+<p><img src="http://jradavenport.github.io/assets/xtermcolors.jpg" alt="" /></p>
+
+<p>I still get light/pink colored windows, so I should constrain the choices more… but it works well otherwise! Pointless and fun!</p>
+
+<p><img src="http://jradavenport.github.io/assets/xterm-random.png" alt="" /></p>
 
   </article>
 
