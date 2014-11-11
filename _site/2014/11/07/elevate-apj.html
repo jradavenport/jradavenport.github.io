@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Posts</title>
+    <title>Project: Elevate ApJ</title>
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jradavenport.github.io/posts/">
+    <link rel="canonical" href="http://jradavenport.github.io/2014/11/07/elevate-apj.html">
     <!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=6668445; 
@@ -89,62 +89,73 @@ alt="iweb stats" ></a></div></noscript>
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  
+  <header class="post-header">
+    <h1 class="post-title">Project: Elevate ApJ</h1>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        
+  <article class="post-content">
+    <p><em>Taken from the README file of the <a href="https://github.com/jradavenport/elevate-apj">GitHub repo</a>. Ping me if you’re interested in helping!</em>
+_ _ _</p>
 
-        <h2>
-          <a class="post-link" href="/2014/11/08/gender.html">Study: Gender in Conference Talks</a>
-        </h2>
-      </li>
-    
-      <li>
-        
+<h2 id="working-to-elevate-the-readability-and-design-of-astronomy-journal-articles">Working to elevate the readability and design of astronomy journal articles.</h2>
 
-        <h2>
-          <a class="post-link" href="/2014/11/07/elevate-apj.html">Project: Elevate ApJ</a>
-        </h2>
-      </li>
-    
-      <li>
-        
+<h3 id="the-problem">The problem…</h3>
 
-        <h2>
-          <a class="post-link" href="/2014/05/01/babypapers.html">Post: How to Publish in Astronomy</a>
-        </h2>
-      </li>
-    
-      <li>
-        
+<p><img align="right" src="http://jradavenport.github.io/assets/old.png" />
+The design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper. </p>
 
-        <h2>
-          <a class="post-link" href="/2014/02/01/misc-papers.html">My Miscellaneous Papers/Talks</a>
-        </h2>
-      </li>
-    
-      <li>
-        
+<p>Nearly all journals are changing to an online-only form of publication. This raises two important issues:</p>
 
-        <h2>
-          <a class="post-link" href="/2014/01/01/randomcolors.html">Post: Random Color X11 terminal for Mac</a>
-        </h2>
-      </li>
-    
-      <li>
-        
+<ol>
+  <li>The web versions of these articles are difficult to read, and so most people avoid them and use the PDF versions instead.</li>
+  <li>The PDF versions of the articles look great on paper, but are difficult to read on a computer screen due to their layout.</li>
+</ol>
 
-        <h2>
-          <a class="post-link" href="/2013/01/01/idl.html">My IDL Routines</a>
-        </h2>
-      </li>
-    
-  </ul>
+<p>In effect journal articles are <em>not</em> becoming online-only, they’re just outsourcing the printing job to their readers. <strong>Paper is still the best medium to read astronomy journal articles today due to the article layout.</strong></p>
 
+<h3 id="we-can-fix-improve-this">We can ~~fix~~ improve this!</h3>
+
+<p>By updating the layout of journal articles we hope to:</p>
+
+<ul>
+  <li>increase use of web/PDF article versions on computers and tablet devices</li>
+  <li>improve comprehension and scientific usefulness of articles themselves</li>
+  <li>reduce use of paper, trees, ink, printer/photocopier maintenance…</li>
+</ul>
+
+<p>To accomplish this we must:</p>
+
+<ul>
+  <li>consider the screen size and shape of the devices people use.</li>
+  <li>consider the human exerience with the article, top-to-bottom flow, avoiding unnecessary scrolling, etc.</li>
+  <li>learn from the single-column layout/design of sites like medium.com, and just about every news website.</li>
+  <li>make the PDF and web versions of articles as similar as possible.</li>
+  <li>make figures/images, as well as tables, seamlessly integrated within the article.</li>
+</ul>
+
+<h3 id="astronomy6-goalsneeds">.astronomy6 Goals/Needs</h3>
+<ul>
+  <li>discuss and create a new design for journal articles</li>
+  <li>hack together a really sloppy implementation of this design in LaTeX</li>
+  <li>take the sources files for an article formatted with <a href="http://hea-www.harvard.edu/~alexey/emulateapj/">emulateapj</a> (probably from the arXiv) and apply this new design</li>
+  <li>(time/skill permitting) format the article for the web as well. </li>
+</ul>
+
+<p>I can sketch the design, but would love more people to discuss them with. Perhaps each person took a screenshot of an article or website they thought was a format inspiration? Design on a white board if possible</p>
+
+<p>I can do some hacking in LaTeX, but other expertise/thoughts would be incredibly valuable. Should we start from the article class, or emulateapj package? This LaTeX design doesn’t have to be robust, but the primary goal is to create a demo PDF that is more pleasing to read on a computer/tablet.</p>
+
+<p>To do the web version I need people who have skills. Should we try to use Markdown and MathJax? Generate a Jekyll/CSS/somethingelse template? Brute force?</p>
+
+<h3 id="resourceslinks">Resources/Links</h3>
+<ul>
+  <li>http://www.paulolyslager.com/optimal-text-layout-line-length/</li>
+  <li>http://www.dyslexiefont.com</li>
+</ul>
+
+  </article>
 
 </div>
 
