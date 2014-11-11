@@ -22,7 +22,7 @@ Nearly all journals are changing to an online-only form of publication. This rai
 
 In effect journal articles are *not* becoming online-only, they're just outsourcing the printing job to their readers. **Paper is still the best medium to read astronomy journal articles today due to the article layout.**
 
-### We can ~~fix~~ improve this!
+### We can improve this!
 
 By updating the layout of journal articles we hope to:
 
