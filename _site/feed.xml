@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Nov 2014 16:11:40 -0800</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2014 16:11:40 -0800</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 12:00:52 -0800</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 12:00:52 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -30,9 +30,9 @@
       </item>
     
       <item>
-        <title>Project: Elevate ApJ</title>
-        <description>&lt;p&gt;&lt;em&gt;Taken from the README file of the &lt;a href=&quot;https://github.com/jradavenport/elevate-apj&quot;&gt;GitHub repo&lt;/a&gt;. Ping me if you’re interested in helping!&lt;/em&gt;
-_ _ _&lt;/p&gt;
+        <title>Project: Elevate-ApJ</title>
+        <description>&lt;p&gt;&lt;em&gt;Taken from the README file of the &lt;a href=&quot;https://github.com/jradavenport/elevate-apj&quot;&gt;GitHub repo&lt;/a&gt;. Ping me if you’re interested in helping!&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;working-to-elevate-the-readability-and-design-of-astronomy-journal-articles&quot;&gt;Working to elevate the readability and design of astronomy journal articles.&lt;/h2&gt;
 
@@ -88,6 +88,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
 &lt;ul&gt;
   &lt;li&gt;http://www.paulolyslager.com/optimal-text-layout-line-length/&lt;/li&gt;
   &lt;li&gt;http://www.dyslexiefont.com&lt;/li&gt;
+  &lt;li&gt;https://www.authorea.com&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 07 Nov 2014 00:00:00 -0800</pubDate>

@@ -1,11 +1,11 @@
 ---
-title: "Project: Elevate ApJ"
+title: "Project: Elevate-ApJ"
 layout: page
 
 ---
 
 *Taken from the README file of the [GitHub repo](https://github.com/jradavenport/elevate-apj). Ping me if you're interested in helping!*
-_ _ _
+<hr>
 
 ##Working to elevate the readability and design of astronomy journal articles.
 
@@ -55,3 +55,4 @@ To do the web version I need people who have skills. Should we try to use Markdo
 ### Resources/Links
 - http://www.paulolyslager.com/optimal-text-layout-line-length/
 - http://www.dyslexiefont.com
+- https://www.authorea.com
