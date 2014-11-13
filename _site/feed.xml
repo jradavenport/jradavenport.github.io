@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Nov 2014 23:41:16 -0800</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2014 23:41:16 -0800</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2014 16:11:40 -0800</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2014 16:11:40 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -93,6 +93,43 @@ The design for most journal articles in astronomy is a two-column, highly conden
         <pubDate>Fri, 07 Nov 2014 00:00:00 -0800</pubDate>
         <link>http://jradavenport.github.io/2014/11/07/elevate-apj.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/07/elevate-apj.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Research/Data Products</title>
+        <description>&lt;h2 id=&quot;research-products&quot;&gt;Research Products&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;From Davenport et al. 2014 (submitted): analytic flare model is coded up &lt;a href=&quot;https://github.com/jradavenport/FBeye/blob/master/aflare.pro&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014MNRAS.440.3430D&quot;&gt;Davenport et al. 2014&lt;/a&gt;: The 10-dimensional stellar color locus, using &lt;em&gt;ugrizJHK&lt;/em&gt; and WISE bands 1-3. Full table is &lt;a href=&quot;https://github.com/jradavenport/wise_locus&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2012ApJ...748...58D&quot;&gt;Davenport et al. 2012&lt;/a&gt;: Predicted flare colors in SDSS and 2MASS filters for M0-M6 stars. Inlcudes IDL code, and save file, and NUV to IR spectral templates &lt;a href=&quot;https://github.com/jradavenport/flare-grid&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code-products&quot;&gt;Code Products&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;For the full-featured Python implementation of &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/cubehelix&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For the latest verison of my IDL routines, including &lt;code&gt;contour_plus&lt;/code&gt; and &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For my IDL-based flare finding suite &lt;code&gt;FBEYE&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 30 Oct 2014 00:00:00 -0700</pubDate>
+        <link>http://jradavenport.github.io/2014/10/30/data-products.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2014/10/30/data-products.html</guid>
         
         
       </item>

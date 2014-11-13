@@ -16,6 +16,8 @@ predictions for what future surveys like LSST will recover.
 
 **See my [CV](http://goo.gl/vBlVs) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
 
+For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products).
+
 <h3>Questions I am interested in include:</h3>
 
 **1. What utility does the time domain offer studies of Galactic structure/evolution?**
