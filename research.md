@@ -14,7 +14,7 @@ evolution of starspots using data from Kepler, and
 using this amazing training sample to make 
 predictions for what future surveys like LSST will recover. 
 
-**See my [CV](http://goo.gl/vBlVs) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
+**See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
 
 For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products).
 
