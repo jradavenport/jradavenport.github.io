@@ -1,0 +1,22 @@
+---
+title: Research Visualizations
+layout: page
+
+---
+
+###Here are some visualizations from my research. Use them as you please, but give attribution.
+
+
+Animated gif of starspot on rotating star (left) and resulting lightcurve (right)
+
+![](http://i.imgur.com/HiqMF5W.gif)
+
+
+Animated gif of rotating star with stylized transiting planet (used as logo in talk)
+
+![http://i.imgur.com/QUf4Yee.gif](http://i.imgur.com/QUf4Yee.gif)
+
+
+
+
+<iframe src="//player.vimeo.com/video/116912802?byline=0&amp;portrait=0&amp;color=ffffff" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

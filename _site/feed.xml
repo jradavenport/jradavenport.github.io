@@ -5,9 +5,30 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 08 Jan 2015 17:01:54 -0800</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2015 17:01:54 -0800</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2015 15:09:46 -0800</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 15:09:46 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Research Visualizations</title>
+        <description>&lt;h3 id=&quot;here-are-some-visualizations-from-my-research-use-them-as-you-please-but-give-attribution&quot;&gt;Here are some visualizations from my research. Use them as you please, but give attribution.&lt;/h3&gt;
+
+&lt;p&gt;Animated gif of starspot on rotating star (left) and resulting lightcurve (right)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/HiqMF5W.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Animated gif of rotating star with stylized transiting planet (used as logo in talk)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/QUf4Yee.gif&quot; alt=&quot;http://i.imgur.com/QUf4Yee.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/116912802?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;500&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://jradavenport.github.io/2015/01/15/vis.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/01/15/vis.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Study: Gender in Conference Talks</title>
