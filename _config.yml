@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url:  "http://jradavenport.github.io" # "http://localhost:4000" # 
 twitter_username: jradavenport
 github_username:  jradavenport
+linkedin_username: jradavenport
 cv: "http://goo.gl/rM1fb8"
 ads_link: "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=PRE"
 
