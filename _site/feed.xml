@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 30 Jan 2015 11:46:28 -0800</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2015 11:46:28 -0800</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2015 12:19:48 -0800</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2015 12:19:48 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -128,13 +128,13 @@ The design for most journal articles in astronomy is a two-column, highly conden
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;From Davenport et al. 2014 (submitted): analytic flare model is coded up &lt;a href=&quot;https://github.com/jradavenport/FBeye/blob/master/aflare.pro&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014ApJ...797..122D&quot;&gt;Davenport et al. 2014&lt;/a&gt;: the analytic M-dwarf flare model for Kepler data is coded up in IDL &lt;a href=&quot;https://github.com/jradavenport/FBeye/blob/master/aflare.pro&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014MNRAS.440.3430D&quot;&gt;Davenport et al. 2014&lt;/a&gt;: The 10-dimensional stellar color locus, using &lt;em&gt;ugrizJHK&lt;/em&gt; and WISE bands 1-3. Full table is &lt;a href=&quot;https://github.com/jradavenport/wise_locus&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014MNRAS.440.3430D&quot;&gt;Davenport et al. 2014&lt;/a&gt;: The 10-dimensional stellar color locus, using &lt;em&gt;ugrizJHK&lt;/em&gt; and WISE bands 1-3. Full machine readable tables are &lt;a href=&quot;https://github.com/jradavenport/wise_locus&quot;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2012ApJ...748...58D&quot;&gt;Davenport et al. 2012&lt;/a&gt;: Predicted flare colors in SDSS and 2MASS filters for M0-M6 stars. Inlcudes IDL code, and save file, and NUV to IR spectral templates &lt;a href=&quot;https://github.com/jradavenport/flare-grid&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2012ApJ...748...58D&quot;&gt;Davenport et al. 2012&lt;/a&gt;: Predicted flare colors in SDSS and 2MASS filters for M0-M6 stars. Inlcudes IDL code, and save file, and NUV to IR spectral templates are &lt;a href=&quot;https://github.com/jradavenport/flare-grid&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -144,7 +144,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
     &lt;p&gt;For the full-featured Python implementation of &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/cubehelix&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;For the latest verison of my IDL routines, including &lt;code&gt;contour_plus&lt;/code&gt; and &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;For the latest verison of my useful IDL routines, including &lt;code&gt;contour_plus&lt;/code&gt; and &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;For my IDL-based flare finding suite &lt;code&gt;FBEYE&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
