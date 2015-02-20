@@ -5,9 +5,29 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Feb 2015 11:20:25 -0800</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2015 11:20:25 -0800</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2015 18:20:40 -0800</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2015 18:20:40 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Making Quality Animations in IDL</title>
+        <description>&lt;h3 id=&quot;how-to-make-good-looking-animations-using-idl&quot;&gt;How to make good looking animations using IDL&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Most of these steps work for Python or any other data visualization language&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Frequently you see animations that are generated using IDL where each frame is essentially a screen shot. This is characterized by white-on-black drawing from the default (outdated) Xwindows styling, the low image resolution/clarity, and hard to read fonts.&lt;/p&gt;
+
+&lt;p&gt;I have written a step-by-step guide to rendering animation frames using IDL that get around these problems. The task is relatively simple: generate .eps file outputs, convert them to something like .jpeg using an external program, and then finally combine the frames in to a movie (or animated gif).&lt;/p&gt;
+
+&lt;p&gt;For the full run-down, check out this post on my blog:
+&lt;a href=&quot;http://www.ifweassume.com/2015/01/making-quality-animations-in-idl.html&quot;&gt;&lt;strong&gt;If We Assume: Making Quality Animations in IDL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://jradavenport.github.io/2015/02/19/animations.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/02/19/animations.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Research Visualizations (Jan 2015)</title>
