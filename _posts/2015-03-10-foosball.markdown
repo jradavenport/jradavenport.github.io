@@ -4,9 +4,9 @@ layout: page
 
 ---
 
-## Petition for Support: New Grad Foosball Table
+## Petition for Support
 
-##Current Total: <span style="color:red;">$700</span>
+##Current Total Raised: <span style="color:red;">$1020</span>
 
 ![]({{ site.url }}/assets/foos-header.JPG)
 
@@ -18,7 +18,7 @@ After nearly 15 years of glorious play, our beloved table has started to show it
 
 Contributions of any amount will be graciously accepted, and your name added to a Donor Support page.
 
-As an added incentive to support this grad student past time, we are offereing exclusive naming rights to figures for any donors of $100 or more. You may pick any player, first come first served. Only 26 available! We will write names on the figures with permanent marker. Figures that are crossed out have already been reserved.
+As an added incentive to support this grad student past time, we are offering exclusive naming rights to figures for any donors of $100 or more. You may pick any player, first come first served. Only 26 available! We will write names on the figures with permanent marker. Figures that are crossed out have already been reserved.
 
 ![]({{ site.url }}/assets/foos-names.png)
 
