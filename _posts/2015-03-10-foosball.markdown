@@ -20,6 +20,6 @@ Contributions of any amount will be graciously accepted, and your name added to 
 
 As an added incentive to support this grad student past time, we are offereing exclusive naming rights to figures for any donors of $100 or more. You may pick any player, first come first served. Only 26 available! We will write names on the figures with permanent marker. 
 
-![]({{ site.url }}/assets/foos-header.JPG)
+![]({{ site.url }}/assets/foos-names.png)
 
 If you would like to support the grads and this cherished pasttime, please contact James Davenport (jrad -at- uw.edu)
