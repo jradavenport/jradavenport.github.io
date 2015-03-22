@@ -3,7 +3,7 @@ layout: page
 
 ---
 
-<img align="right" src="{{ site.url }}/assets/davenport_head.JPG">
+<img align="left" src="{{ site.url }}/assets/davenport_head.JPG" hspace="40">
 
 
 I am currently a PhD Candidate at the University of Washington in the Astronomy department, studying time domain, large survey astronomy, and magnetically active stars with *Kepler*. In Fall 2015 I will begin as a NSF Astronomy and Astrophysics Postdoctoral Fellow. 
