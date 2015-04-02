@@ -29,6 +29,8 @@ I have two philosophical bones to pick here:
 
 ## A brighter future.
 
+**Introducing: [*SPECTRA*](https://github.com/jradavenport/spectra)**
+
 My first goal with *SPECTRA* is to provide a turn-key solution for reducing and understanding longslit spectroscopy, which could ideally be done in real time. So far I have only used data from the low/medium resolution [APO 3.5-m](http://www.apo.nmsu.edu) "Dual Imaging Spectrograph" (DIS). Therefore, many instrument specific assumptions are being made. *SPECTRA* is also known as "pyDIS" around the office. **As of now, the software works for a first-order reduction of data**, and may be good enough for some science purposes!
 
 ***SPECTRA* can reduce an entire night of DIS data in under 1 minute with almost no button clicking** (provided your data is simple, moderate S/N and you have all the right standards and calibrations...)

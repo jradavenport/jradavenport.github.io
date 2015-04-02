@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Apr 2015 18:53:53 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2015 18:53:53 -0700</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2015 18:57:12 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 18:57:12 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -33,6 +33,8 @@
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;a-brighter-future&quot;&gt;A brighter future.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Introducing: &lt;a href=&quot;https://github.com/jradavenport/spectra&quot;&gt;&lt;em&gt;SPECTRA&lt;/em&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;My first goal with &lt;em&gt;SPECTRA&lt;/em&gt; is to provide a turn-key solution for reducing and understanding longslit spectroscopy, which could ideally be done in real time. So far I have only used data from the low/medium resolution &lt;a href=&quot;http://www.apo.nmsu.edu&quot;&gt;APO 3.5-m&lt;/a&gt; “Dual Imaging Spectrograph” (DIS). Therefore, many instrument specific assumptions are being made. &lt;em&gt;SPECTRA&lt;/em&gt; is also known as “pyDIS” around the office. &lt;strong&gt;As of now, the software works for a first-order reduction of data&lt;/strong&gt;, and may be good enough for some science purposes!&lt;/p&gt;
 
