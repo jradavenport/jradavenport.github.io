@@ -5,9 +5,63 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Mar 2015 10:53:17 -0700</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 10:53:17 -0700</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2015 18:53:53 -0700</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 18:53:53 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>SPECTRA: a Python-based longslit reduction package</title>
+        <description>&lt;p&gt;A lot of people talk a big game about the need for new and open software tools in science. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/4Y55NZH.png&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On my shelf are at &lt;em&gt;least&lt;/em&gt; 4 books that could teach you how to reduce photometric (imaging) data well. There are many tutorials for writing your own aperture photometry pipeline. I even wrote one myself with about &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl/blob/master/simplephot.pro&quot;&gt;500 lines of code&lt;/a&gt;! This data analysis problem is considered “easy”.&lt;/p&gt;
+
+&lt;p&gt;Most of these books, and most people who write simple photo-pipelines like mine, ignore spectroscopy. By adding the wavelength dimension (and losing at least 1 spatial dimension) we make the problem exponentially harder. I don’t know of a good book that walks you through this - if you have one, please send me the title so I can buy it! &lt;/p&gt;
+
+&lt;p&gt;The best manual for CCD spectroscopy &lt;a href=&quot;http://iraf.noao.edu/iraf/ftp/iraf/docs/spect.ps.Z&quot;&gt;with IRAF is from 1992&lt;/a&gt;, and is seriously helpful. The best “theory” paper on CCD spectroscopy that I’ve found is &lt;a href=&quot;http://adsabs.harvard.edu/abs/1992ASPC...23..160W&quot;&gt;Wagner (1992)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In my experience, when a practitioner of astronomy wants to reduce spectroscopy, they first seek out another wizard who remembers the order of divine incantations to whisper to IRAF. Then they pray. Then they swear. &lt;/p&gt;
+
+&lt;h2 id=&quot;so-whats-wrong-with-that&quot;&gt;So, what’s wrong with that?&lt;/h2&gt;
+
+&lt;p&gt;I have two philosophical bones to pick here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Single object, longslit spectroscopy is “simple” data. It shouldn’t be daunting to use, especially when it becomes increasing valueable as a compliment to “Big Photometry”. It’s 2015, there should be a great toolbox for this!&lt;/li&gt;
+  &lt;li&gt;Data from instruments should come reduced for you! We build (custom made, hugely expensive) general-use instruments so everyone can do science without having to be an optics or electrical engineer. Large surveys know this well: people need to use their data without being a computer scientist or image processing professional. When you build an instrument, build a pipeline!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;a-brighter-future&quot;&gt;A brighter future.&lt;/h2&gt;
+
+&lt;p&gt;My first goal with &lt;em&gt;SPECTRA&lt;/em&gt; is to provide a turn-key solution for reducing and understanding longslit spectroscopy, which could ideally be done in real time. So far I have only used data from the low/medium resolution &lt;a href=&quot;http://www.apo.nmsu.edu&quot;&gt;APO 3.5-m&lt;/a&gt; “Dual Imaging Spectrograph” (DIS). Therefore, many instrument specific assumptions are being made. &lt;em&gt;SPECTRA&lt;/em&gt; is also known as “pyDIS” around the office. &lt;strong&gt;As of now, the software works for a first-order reduction of data&lt;/strong&gt;, and may be good enough for some science purposes!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;SPECTRA&lt;/em&gt; can reduce an entire night of DIS data in under 1 minute with almost no button clicking&lt;/strong&gt; (provided your data is simple, moderate S/N and you have all the right standards and calibrations…)&lt;/p&gt;
+
+&lt;p&gt;I am not an expert Python programmer, nor a deep expert on spectroscopy. I am just a frustrated scientist who wants this tool to exist!&lt;/p&gt;
+
+&lt;p&gt;My second goal is to &lt;strong&gt;“put up for shut up”&lt;/strong&gt;. I’m tired of people (like me) saying “boo IRAF”, or “we need new tools”, and not building them. That’s why I applaud projects like astropy, emcee, and astroML: they aren’t just complaining, they’re doing. So this is my attempt at doing.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-call-to-arms&quot;&gt;A call to arms.&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;SPECTRA&lt;/em&gt; is not done, and not fully stable. Still, I think it’s more complete than most other packages out there for quickly analyzing longslit spectroscopy (if you’re using DIS)&lt;/p&gt;
+
+&lt;p&gt;I know other spectroscopy pipelines exist, even some &lt;a href=&quot;https://github.com/crawfordsm/pyspectrograph&quot;&gt;powerful ones&lt;/a&gt; in Python. My plea for you is: make them simple to use! Many I have looked at appear too complicated for me to use, especially without a robust worked example (not just a Hello World). Some are basically impossible to use for other instruments (and maybe &lt;em&gt;SPECTRA&lt;/em&gt; is too…)&lt;/p&gt;
+
+&lt;p&gt;It’s is a classic argument: if you write good documentation, people will use your code.&lt;/p&gt;
+
+&lt;p&gt;If you hate what I’ve created: good! Make it better, or make something else! Does &lt;em&gt;SPECTRA&lt;/em&gt; unnecessarily reproduce or ignore functionality from your amazing codebase? Let me know how I can fix that!&lt;/p&gt;
+
+&lt;p&gt;If you like what I’ve created: help! Try to use it, send me feedback.&lt;/p&gt;
+
+&lt;p&gt;If you’re building a new general purpose instrument: please write a reduction pipeline.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
+        <link>http://jradavenport.github.io/2015/04/01/spectra.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/04/01/spectra.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>New UW Grad Foosball Table</title>
@@ -332,21 +386,6 @@ The design for most journal articles in astronomy is a two-column, highly conden
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
         <link>http://jradavenport.github.io/2014/01/01/randomcolors.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/01/01/randomcolors.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My IDL Routines</title>
-        <description>&lt;p&gt;Previously I had listed all my publicly available IDL routines. For the latest verison of my IDL routines, see my &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;GitHub page&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/cubehelix_clr_sm.png&quot; onmouseover=&quot;this.src=&#39;http://jradavenport.github.io/assets/cubehelix_bw_sm.png&#39;&quot; onmouseout=&quot;this.src=&#39;http://jradavenport.github.io/assets/cubehelix_clr_sm.png&#39;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For my flare finding suite (FBEYE), click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt; &lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-        <link>http://jradavenport.github.io/2013/01/01/idl.html</link>
-        <guid isPermaLink="true">http://jradavenport.github.io/2013/01/01/idl.html</guid>
         
         
       </item>
