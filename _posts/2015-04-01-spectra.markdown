@@ -13,7 +13,7 @@ On my shelf are at *least* 4 books that could teach you how to reduce photometri
 
 Most of these books, and most people who write simple photo-pipelines like mine, ignore spectroscopy. By adding the wavelength dimension (and losing at least 1 spatial dimension) we make the problem exponentially harder. I don't know of a good book that walks you through this - if you have one, please send me the title so I can buy it! 
 
-The best manual for CCD spectroscopy [with IRAF is from 1992](http://iraf.noao.edu/iraf/ftp/iraf/docs/spect.ps.Z), and is seriously helpful. The best "theory" paper on CCD spectroscopy that I've found is [Wagner (1992)](http://adsabs.harvard.edu/abs/1992ASPC...23..160W).
+The best manual for CCD spectroscopy [with IRAF is from 1992](http://iraf.noao.edu/iraf/ftp/iraf/docs/spect.ps.Z), and is seriously helpful. A good "theory" paper on CCD spectroscopy that I've used is [Wagner (1992)](http://adsabs.harvard.edu/abs/1992ASPC...23..160W).
 
 
 
@@ -39,12 +39,12 @@ My first goal with *SPECTRA* is to provide a turn-key solution for reducing and 
 I am not an expert Python programmer, nor a deep expert on spectroscopy. I am just a frustrated scientist who wants this tool to exist!
 
 
-My second goal is to **"put up for shut up"**. I'm tired of people (like me) saying "boo IRAF", or "we need new tools", and not building them. That's why I applaud projects like astropy, emcee, and astroML: they aren't just complaining, they're doing. So this is my attempt at doing.
+My second goal is to **"put up or shut up"**. I'm tired of people (like me) saying "boo IRAF", or "we need new tools", and not building them. That's why I applaud projects like astropy, emcee, and astroML: they aren't just complaining, they're doing. So this is my attempt at doing.
 
 
 ## A call to arms.
 
-*SPECTRA* is not done, and not fully stable. Still, I think it's more complete than most other packages out there for quickly analyzing longslit spectroscopy (if you're using DIS)
+*SPECTRA* is not done, and not fully stable. Still, I think it's more complete than most other packages out there for quickly analyzing longslit spectroscopy (well, if you're using DIS).
 
 I know other spectroscopy pipelines exist, even some [powerful ones](https://github.com/crawfordsm/pyspectrograph) in Python. My plea for you is: make them simple to use! Many I have looked at appear too complicated for me to use, especially without a robust worked example (not just a Hello World). Some are basically impossible to use for other instruments (and maybe *SPECTRA* is too...)
 

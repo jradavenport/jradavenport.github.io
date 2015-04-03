@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Apr 2015 18:57:12 -0700</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2015 18:57:12 -0700</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2015 23:17:56 -0700</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2015 23:17:56 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;Most of these books, and most people who write simple photo-pipelines like mine, ignore spectroscopy. By adding the wavelength dimension (and losing at least 1 spatial dimension) we make the problem exponentially harder. I don’t know of a good book that walks you through this - if you have one, please send me the title so I can buy it! &lt;/p&gt;
 
-&lt;p&gt;The best manual for CCD spectroscopy &lt;a href=&quot;http://iraf.noao.edu/iraf/ftp/iraf/docs/spect.ps.Z&quot;&gt;with IRAF is from 1992&lt;/a&gt;, and is seriously helpful. The best “theory” paper on CCD spectroscopy that I’ve found is &lt;a href=&quot;http://adsabs.harvard.edu/abs/1992ASPC...23..160W&quot;&gt;Wagner (1992)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The best manual for CCD spectroscopy &lt;a href=&quot;http://iraf.noao.edu/iraf/ftp/iraf/docs/spect.ps.Z&quot;&gt;with IRAF is from 1992&lt;/a&gt;, and is seriously helpful. A good “theory” paper on CCD spectroscopy that I’ve used is &lt;a href=&quot;http://adsabs.harvard.edu/abs/1992ASPC...23..160W&quot;&gt;Wagner (1992)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In my experience, when a practitioner of astronomy wants to reduce spectroscopy, they first seek out another wizard who remembers the order of divine incantations to whisper to IRAF. Then they pray. Then they swear. &lt;/p&gt;
 
@@ -42,11 +42,11 @@
 
 &lt;p&gt;I am not an expert Python programmer, nor a deep expert on spectroscopy. I am just a frustrated scientist who wants this tool to exist!&lt;/p&gt;
 
-&lt;p&gt;My second goal is to &lt;strong&gt;“put up for shut up”&lt;/strong&gt;. I’m tired of people (like me) saying “boo IRAF”, or “we need new tools”, and not building them. That’s why I applaud projects like astropy, emcee, and astroML: they aren’t just complaining, they’re doing. So this is my attempt at doing.&lt;/p&gt;
+&lt;p&gt;My second goal is to &lt;strong&gt;“put up or shut up”&lt;/strong&gt;. I’m tired of people (like me) saying “boo IRAF”, or “we need new tools”, and not building them. That’s why I applaud projects like astropy, emcee, and astroML: they aren’t just complaining, they’re doing. So this is my attempt at doing.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-call-to-arms&quot;&gt;A call to arms.&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;SPECTRA&lt;/em&gt; is not done, and not fully stable. Still, I think it’s more complete than most other packages out there for quickly analyzing longslit spectroscopy (if you’re using DIS)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SPECTRA&lt;/em&gt; is not done, and not fully stable. Still, I think it’s more complete than most other packages out there for quickly analyzing longslit spectroscopy (well, if you’re using DIS).&lt;/p&gt;
 
 &lt;p&gt;I know other spectroscopy pipelines exist, even some &lt;a href=&quot;https://github.com/crawfordsm/pyspectrograph&quot;&gt;powerful ones&lt;/a&gt; in Python. My plea for you is: make them simple to use! Many I have looked at appear too complicated for me to use, especially without a robust worked example (not just a Hello World). Some are basically impossible to use for other instruments (and maybe &lt;em&gt;SPECTRA&lt;/em&gt; is too…)&lt;/p&gt;
 
