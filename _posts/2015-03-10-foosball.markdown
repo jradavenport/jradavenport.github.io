@@ -6,7 +6,7 @@ layout: page
 
 ## Petition for Support.
 
-##Current Total Raised: <span style="color:red;">$1849</span>
+##Current Total Raised: <span style="color:red;">$1949</span>
 
 ![]({{ site.url }}/assets/foos-header.JPG)
 
