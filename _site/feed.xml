@@ -5,15 +5,48 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Apr 2015 09:37:36 -0700</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2015 09:37:36 -0700</lastBuildDate>
+    <pubDate>Thu, 07 May 2015 10:15:49 -0700</pubDate>
+    <lastBuildDate>Thu, 07 May 2015 10:15:49 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>A Step-by-Step Guide to 1D Spectroscopy with SPECTRA</title>
-        <description>&lt;p&gt;Here is a step-by-step guide that I &lt;a href=&quot;https://github.com/jradavenport/spectra/wiki/Manual-Reduction-Guide&quot;&gt;originally wrote&lt;/a&gt; for the GitHub Wiki on the &lt;em&gt;SPECRTRA&lt;/em&gt; repo. &lt;/p&gt;
+        <title>CubeHelix</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/cubehelix.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This guide explains how to reduce DIS data from start to finish with &lt;em&gt;SPECTRA&lt;/em&gt;. Note, this entire process is reproduced in the &lt;a href=&quot;https://github.com/jradavenport/spectra/wiki/function:-autoreduce&quot;&gt;autoreduce&lt;/a&gt; helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.&lt;/p&gt;
+&lt;p&gt;In August of 2011 I stumbled across a paper about color schemes for use in astronomical images (&lt;a href=&quot;http://arxiv.org/abs/1108.5083&quot;&gt;Dave Green 2011&lt;/a&gt;). I immediately translated the included Fortran code into IDL for use in my own research, and became a &lt;a href=&quot;http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html&quot;&gt;vocal advocate&lt;/a&gt; for the use of “CubeHelix”.&lt;/p&gt;
+
+&lt;p&gt;CubeHelix can now be used in many visualiation languages, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl/blob/master/cubehelix.pro&quot;&gt;IDL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/cubehelix&quot;&gt;Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bl.ocks.org/mbostock/11415064&quot;&gt;d3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ifweassume.com/2013/08/cubehelix-now-for-tableau.html&quot;&gt;Tableau&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My CubeHelix code has been incorporated in several other packages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Fanning’s &lt;a href=&quot;https://www.idlcoyote.com/idldoc/cg/cgloadct.html&quot;&gt;Coyote IDL library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Michael Galloy’s &lt;a href=&quot;http://docs.idldev.com/mglib/vis/color/mg_cubehelix.html&quot;&gt;IDL Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HEALPix &lt;a href=&quot;http://healpix.sourceforge.net/html/idlnode44.htm&quot;&gt;IDL library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://p3d.sourceforge.net/index.php?page=refs&quot;&gt;P3D&lt;/a&gt; Fiber-fed spectrograph reduction tool&lt;/li&gt;
+  &lt;li&gt;Randolph Voorhies’ OpenCV &lt;a href=&quot;http://randvoorhies.github.io/rcv/classrcv_1_1cubehelix.html&quot;&gt;Python library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Matt Davis’ palettable &lt;a href=&quot;https://github.com/jiffyclub/palettable/tree/master/palettable/cubehelix&quot;&gt;Python module&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 06 May 2015 00:00:00 -0700</pubDate>
+        <link>http://jradavenport.github.io/2015/05/06/cubehelix.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/05/06/cubehelix.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Step-by-Step Guide to 1D Spectroscopy with SPECTRA</title>
+        <description>&lt;p&gt;&lt;strong&gt;For the most up to date version of this guide, see the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This guide explains how to reduce DIS data from start to finish with &lt;em&gt;pyDIS&lt;/em&gt;. Note, this entire process is reproduced in the &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/function:-autoreduce&quot;&gt;autoreduce&lt;/a&gt; helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.&lt;/p&gt;
 
 &lt;h1 id=&quot;organizing-the-data-to-reduce&quot;&gt;Organizing the data to reduce&lt;/h1&gt;
 &lt;p&gt;First we need to create some lists to group the calibration files (flats, biases). Note, darks are currently not supported explicitly. In your terminal you might say:&lt;/p&gt;
@@ -25,28 +58,28 @@ ls bias.0*r.fits &amp;gt; rbias.lis
 &lt;h1 id=&quot;make-master-calibration-files&quot;&gt;Make master calibration files&lt;/h1&gt;
 &lt;p&gt;We’ll switch to Python from here on. You might want to save these commands in a script that you could run again. As in IRAF, we must combine the biases and flats that will be applied to the science frame.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;import spectra
+&lt;pre&gt;&lt;code&gt;import pydis
 
-bias = spectra.biascombine(&#39;rbias.lis&#39;, trim=True)
+bias = pydis.biascombine(&#39;rbias.lis&#39;, trim=True)
 
-flat,fmask_out = spectra.flatcombine(&#39;rflat.lis&#39;, bias, trim=True, 
+flat,fmask_out = pydis.flatcombine(&#39;rflat.lis&#39;, bias, trim=True, 
                                  mode=&#39;spline&#39;, response=True, display=True)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Now there should be newly created files named &lt;strong&gt;FLAT.fits&lt;/strong&gt; and &lt;strong&gt;BIAS.fits&lt;/strong&gt; in your directory. Note all the extra keyword arguments (aka “kwargs”) for  &lt;code&gt;flatcombine&lt;/code&gt;, which are used for removing the flatfield lamp’s spectrum (called RESPONSE in IRAF).&lt;/p&gt;
 
-&lt;p&gt;Next, let’s define the wavelength solution that will be used for our science image. This is the most tedious manual step. We’ll mimic IRAF and do the “identify” manually. While &lt;em&gt;SPECTRA&lt;/em&gt; can do this automatically (set &lt;code&gt;interac=False&lt;/code&gt;), the solution is often too crude for science use. If you have previously done the manual identify and picked out lines, you can skip the identify step by setting &lt;code&gt;previous=True&lt;/code&gt;. We’ll start with a random guess at the &lt;code&gt;fit_order&lt;/code&gt; parameter, but if &lt;code&gt;interac=True&lt;/code&gt; then we’ll be prompted to adjust this interactively.&lt;/p&gt;
+&lt;p&gt;Next, let’s define the wavelength solution that will be used for our science image. This is the most tedious manual step. We’ll mimic IRAF and do the “identify” manually. While &lt;em&gt;pyDIS&lt;/em&gt; can do this automatically (set &lt;code&gt;interac=False&lt;/code&gt;), the solution is often too crude for science use. If you have previously done the manual identify and picked out lines, you can skip the identify step by setting &lt;code&gt;previous=True&lt;/code&gt;. We’ll start with a random guess at the &lt;code&gt;fit_order&lt;/code&gt; parameter, but if &lt;code&gt;interac=True&lt;/code&gt; then we’ll be prompted to adjust this interactively.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;HeNeAr_file = &#39;HeNeAr.0030r.fits&#39;
-wfit = spectra.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
+wfit = pydis.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
                           interac=True, mode=&#39;poly&#39;, fit_order=5)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;em&gt;SPECTRA&lt;/em&gt; will pull the very rough wavelength solution out of the header, take a slice through the image, and show you the 1-d emission line spectrum. Click on prominent peaks in the image (sample arc lamp spectra for DIS is provided by APO &lt;a href=&quot;http://www.apo.nmsu.edu/arc35m/Instruments/DIS/#4p2&quot;&gt;here&lt;/a&gt;), then in the Python terminal type the wavelength of the line you identified and press &lt;return&gt;. Each line is fit with a Gaussian to find the exact center. Repeat this until you&#39;ve identified as many lines as you can. If you mess one up, click on it and enter a &quot;d&quot; for the wavelength. &lt;/return&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;pyDIS&lt;/em&gt; will pull the very rough wavelength solution out of the header, take a slice through the image, and show you the 1-d emission line spectrum. Click on prominent peaks in the image (sample arc lamp spectra for DIS is provided by APO &lt;a href=&quot;http://www.apo.nmsu.edu/arc35m/Instruments/DIS/#4p2&quot;&gt;here&lt;/a&gt;), then in the Python terminal type the wavelength of the line you identified and press &lt;return&gt;. Each line is fit with a Gaussian to find the exact center. Repeat this until you&#39;ve identified as many lines as you can. If you mess one up, click on it and enter a &quot;d&quot; for the wavelength. &lt;/return&gt;&lt;/p&gt;
 
 &lt;p&gt;After the lines are identified, you need to fit a smooth function between them. The polynomial fit and residual will be shown. Close this window and then in the terminal answer the question: should the polynomial order be changed (if so, enter an integer number) or is it OK (if so, enter a “d” for done)? &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;SPECTRA&lt;/em&gt; will then trace these lines along the y-axis, producing a full 2-d wavelength solution for the image. Be sure to keep this solution &lt;code&gt;wfit&lt;/code&gt; around, as we’ll need to apply to every image we want a spectrum from (science and flux standard).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;pyDIS&lt;/em&gt; will then trace these lines along the y-axis, producing a full 2-d wavelength solution for the image. Be sure to keep this solution &lt;code&gt;wfit&lt;/code&gt; around, as we’ll need to apply to every image we want a spectrum from (science and flux standard).&lt;/p&gt;
 
 &lt;h1 id=&quot;reduce-the-science-image&quot;&gt;Reduce the science image&lt;/h1&gt;
 &lt;p&gt;This is the “reduction” step, where we actually remove the bias and flat from the science image, and divide by the exposure time. The result is an image with units of counts/second. Everything (almost) is stored in numpy arrays, so performing simple math on them is trivial.&lt;/p&gt;
@@ -55,7 +88,7 @@ wfit = spectra.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
 spec = &#39;object.0035r.fits&#39;
 
 # open the image, get the data and a couple important numbers
-raw, exptime, airmass = spectra.OpenImg(spec, trim=True)
+raw, exptime, airmass = pydis.OpenImg(spec, trim=True)
 
 # remove bias and flat, divide by exptime
 data = ((raw - bias) / flat) / exptime
@@ -65,7 +98,7 @@ data = ((raw - bias) / flat) / exptime
 
 &lt;h1 id=&quot;the-flux-standard-file-name&quot;&gt;the flux standard file name&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;stdspec = &#39;Feige34.0065r.fits&#39;
-stdraw, stdexptime, stdairmass = spectra.OpenImg(stdspec, trim=True)
+stdraw, stdexptime, stdairmass = pydis.OpenImg(stdspec, trim=True)
 stddata= ((stdraw - bias) / flat) / stdexptime
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -85,17 +118,17 @@ plt.show()
 &lt;p&gt;Set &lt;code&gt;display=True&lt;/code&gt; to see the trace over-plotted on the image. Make sure it doesn’t wander. If it’s not accurate enough, adjust the number of steps. For low Signal/Noise images, sometimes you have to use small values like &lt;code&gt;nsteps=7&lt;/code&gt; to trace the spectrum.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;# trace the science image
-trace = spectra.ap_trace(data, fmask=fmask_out, nsteps=50, interac=False, display=True)
+trace = pydis.ap_trace(data, fmask=fmask_out, nsteps=50, interac=False, display=True)
 
 # trace the flux standard image
-stdtrace = spectra.ap_trace(stddata, fmask=fmask_out, nsteps=50, interac=False, display=True)
+stdtrace = pydis.ap_trace(stddata, fmask=fmask_out, nsteps=50, interac=False, display=True)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Now we extract the observed spectrum along this trace, for both the reduced object and the flux standard spectra. The result is a 1-d spectrum made by summing up the flux in each column in a range of +/- the aperture width. The sky is determined by fitting a polynomial along the column in two regions near the trace. Important consideration: if you choose a large sky region, or separate it a lot from the aperture, the sky will not be a good fit. This is because the HeNeAr lines (lines of constant wavelength) are bent and not perfectly vertical on the chip. Thus it is good to choose a small sky region. The &lt;code&gt;skydeg&lt;/code&gt; parameter is the polynomial order to fit between the sky regions in each column. The default is &lt;code&gt;skydeg=0&lt;/code&gt;, which is simply a median. A sky value at each pixel along the trace is returned. This routine also computes a flux error at each pixel along the trace.&lt;/p&gt;
+&lt;p&gt;Now we extract the observed spectrum along this trace, for both the reduced object and the flux standard pydis. The result is a 1-d spectrum made by summing up the flux in each column in a range of +/- the aperture width. The sky is determined by fitting a polynomial along the column in two regions near the trace. Important consideration: if you choose a large sky region, or separate it a lot from the aperture, the sky will not be a good fit. This is because the HeNeAr lines (lines of constant wavelength) are bent and not perfectly vertical on the chip. Thus it is good to choose a small sky region. The &lt;code&gt;skydeg&lt;/code&gt; parameter is the polynomial order to fit between the sky regions in each column. The default is &lt;code&gt;skydeg=0&lt;/code&gt;, which is simply a median. A sky value at each pixel along the trace is returned. This routine also computes a flux error at each pixel along the trace.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;ext_spec, sky, fluxerr = spectra.ap_extract(data, trace, apwidth=5,skysep=1,
+&lt;pre&gt;&lt;code&gt;ext_spec, sky, fluxerr = pydis.ap_extract(data, trace, apwidth=5,skysep=1,
                                     skywidth=7, skydeg=0)
-ext_std, stdsky, stderr = spectra.ap_extract(stddata, stdtrace, apwidth=5,
+ext_std, stdsky, stderr = pydis.ap_extract(stddata, stdtrace, apwidth=5,
                                      skysep=1, skywidth=7, skydeg=0)
 
 # subtract the sky from the 1-d spectrum
@@ -130,29 +163,29 @@ plt.show()
 &lt;h1 id=&quot;calibrate-the-spectrum&quot;&gt;Calibrate the spectrum&lt;/h1&gt;
 &lt;p&gt;We have a raw 1-d spectrum now, with flux measured at each pixel along the x-axis of the image along the trace. However, we want to calibrate the x-axis to use the wavelength solution we created before. You probably want to use &lt;code&gt;mode=&#39;poly&#39;&lt;/code&gt;, which is the default and thus optional to write.&lt;/p&gt;
 
-&lt;p&gt;The spectrum itself is currently in units of counts/second, and we need to apply a wavelength dependent correction for the observed airmass. We’ll use the airmass file for APO included with &lt;em&gt;SPECTRA&lt;/em&gt;. Note, this is different from the file that APO provided prior to April 2015 (an error in this file was noticed during the development of &lt;em&gt;SPECTRA&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;The spectrum itself is currently in units of counts/second, and we need to apply a wavelength dependent correction for the observed airmass. We’ll use the airmass file for APO included with &lt;em&gt;pyDIS&lt;/em&gt;. Note, this is different from the file that APO provided prior to April 2015 (an error in this file was noticed during the development of &lt;em&gt;pyDIS&lt;/em&gt;).&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;# map the wavelength using the HeNeAr fit
-wfinal = spectra.mapwavelength(trace, wfit, mode=&#39;poly&#39;)
-wfinalstd = spectra.mapwavelength(stdtrace, wfit, mode=&#39;poly&#39;)
+wfinal = pydis.mapwavelength(trace, wfit, mode=&#39;poly&#39;)
+wfinalstd = pydis.mapwavelength(stdtrace, wfit, mode=&#39;poly&#39;)
 
 # correct the object and flux std for airmass extinction
-flux_red_x = spectra.AirmassCor(wfinal, flux_red, airmass,
+flux_red_x = pydis.AirmassCor(wfinal, flux_red, airmass,
                                 airmass_file=&#39;apoextinct.dat&#39;)
-flux_std_x = spectra.AirmassCor(wfinalstd, flux_std, stdairmass,
+flux_std_x = pydis.AirmassCor(wfinalstd, flux_std, stdairmass,
                                 airmass_file=&#39;apoextinct.dat&#39;)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;h1 id=&quot;flux-calibration&quot;&gt;Flux calibration&lt;/h1&gt;
-&lt;p&gt;Now that we have the actual wavelength mapped to both the science target and the flux standard, and we’ve corrected them for their respective airmass, it’s time for the final step: flux calibration. This is done by comparing the flux standard observation to a library of standard stars. For &lt;em&gt;SPECTRA&lt;/em&gt; we have hard-coded the IRAF library “spec50cal”. Any other standard could be put in this directory and used, or a different library could be used with a little hacking to the code if you’re brave or desperate. &lt;code&gt;DefFluxCal&lt;/code&gt; will try to avoid Balmer lines, but at present does not have a sophisticated interactive mode where you can delete bad points. Set &lt;code&gt;display=True&lt;/code&gt; in &lt;code&gt;DefFluxCal&lt;/code&gt; to see if the fit looks smooth and good and does not blow up at the edges.&lt;/p&gt;
+&lt;p&gt;Now that we have the actual wavelength mapped to both the science target and the flux standard, and we’ve corrected them for their respective airmass, it’s time for the final step: flux calibration. This is done by comparing the flux standard observation to a library of standard stars. For &lt;em&gt;pyDIS&lt;/em&gt; we have hard-coded the IRAF library “spec50cal”. Any other standard could be put in this directory and used, or a different library could be used with a little hacking to the code if you’re brave or desperate. &lt;code&gt;DefFluxCal&lt;/code&gt; will try to avoid Balmer lines, but at present does not have a sophisticated interactive mode where you can delete bad points. Set &lt;code&gt;display=True&lt;/code&gt; in &lt;code&gt;DefFluxCal&lt;/code&gt; to see if the fit looks smooth and good and does not blow up at the edges.&lt;/p&gt;
 
-&lt;p&gt;The sensitivity function is computed for the standard star, and has units of (erg/s/cm2/A) / (counts/s/cm2/A). The final step is to apply this sensfunc to the science target, which simply resamples the sensfunc on to the exact wavelengths as the target and then multiplies the observed 1-d spectrum by the sensitivity function. Note &lt;em&gt;SPECTRA&lt;/em&gt; works in flux units, not magnitude units used by IRAF. As a reality check, you can also apply the sensfunc back to the standard star spectrum to make sure it looks right! &lt;/p&gt;
+&lt;p&gt;The sensitivity function is computed for the standard star, and has units of (erg/s/cm2/A) / (counts/s/cm2/A). The final step is to apply this sensfunc to the science target, which simply resamples the sensfunc on to the exact wavelengths as the target and then multiplies the observed 1-d spectrum by the sensitivity function. Note &lt;em&gt;pyDIS&lt;/em&gt; works in flux units, not magnitude units used by IRAF. As a reality check, you can also apply the sensfunc back to the standard star spectrum to make sure it looks right! &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;sensfunc = spectra.DefFluxCal(wfinalstd, flux_std_x,
+&lt;pre&gt;&lt;code&gt;sensfunc = pydis.DefFluxCal(wfinalstd, flux_std_x,
                               stdstar=&#39;feige34&#39;, mode=&#39;spline&#39;)
 
 # final step in reduction, apply sensfunc
-ffinal,efinal = spectra.ApplyFluxCal(wfinal, flux_red_x, fluxerr, 
+ffinal,efinal = pydis.ApplyFluxCal(wfinal, flux_red_x, fluxerr, 
                                     wfinalstd, sensfunc)
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -175,7 +208,7 @@ plt.show()
 
 &lt;p&gt;The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in in &lt;code&gt;autoreduce&lt;/code&gt;. &lt;/p&gt;
 
-&lt;p&gt;I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in &lt;em&gt;SPECTRA&lt;/em&gt; will accommodate automatic solutions of multiple HeNeAr files.&lt;/p&gt;
+&lt;p&gt;I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in &lt;em&gt;pyDIS&lt;/em&gt; will accommodate automatic solutions of multiple HeNeAr files.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Apr 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/04/13/spectra2.html</link>
@@ -244,7 +277,7 @@ plt.show()
         <title>New UW Grad Foosball Table</title>
         <description>&lt;h2 id=&quot;petition-for-support&quot;&gt;Petition for Support.&lt;/h2&gt;
 
-&lt;h2 id=&quot;current-total-raised-span-stylecolorred2049span&quot;&gt;Current Total Raised: &lt;span style=&quot;color:red;&quot;&gt;$2049&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;update-span-stylecolorredwe-made-itspan&quot;&gt;Update: &lt;span style=&quot;color:red;&quot;&gt;We made it!&lt;/span&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-header.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -252,7 +285,7 @@ plt.show()
 
 &lt;p&gt;After nearly 15 years of glorious play, our beloved table has started to show it’s age. Therefore we are reaching out to you for financial support. Help us replace the foosball table with one that will last another 15 years! Do it for the Qual studying stress relief, the w(h)ine time fueled match-ups, the afternoon frivolity… and most of all, do it for the next generation of grad students.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;We have already received $700 of support from GPSS towards our new table!&lt;/strong&gt; Our goal is to purchase a &lt;a href=&quot;http://www.amazon.com/Tornado-Tournament-3000-Foosball-Table/dp/B001FTH4OA&quot;&gt;Tornado Tournament 3000&lt;/a&gt; (approx. $2069 + tax). &lt;/p&gt;
+&lt;p&gt;Our goal is to purchase a &lt;a href=&quot;http://www.amazon.com/Tornado-Tournament-3000-Foosball-Table/dp/B001FTH4OA&quot;&gt;Tornado Tournament 3000&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Contributions of any amount will be graciously accepted, and your name added to a Donor Support page.&lt;/p&gt;
 
@@ -260,7 +293,7 @@ plt.show()
 
 &lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-names.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;If you would like to support the grads and this cherished pasttime, please contact James Davenport (jrad -at- uw.edu)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: We have placed the order for our new Tornado Tournament 3000. Many thanks to the current and former grad students, and the UW GPSS, for their support!&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/03/10/foosball.html</link>
@@ -498,41 +531,6 @@ The design for most journal articles in astronomy is a two-column, highly conden
         <pubDate>Thu, 01 May 2014 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2014/05/01/babypapers.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/05/01/babypapers.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My Miscellaneous Papers/Talks</title>
-        <description>&lt;p&gt;Here are some miscellaneous papers and talks that I have written. I’m not sure if this is at all useful to anyone, but if you find this via websearch (or sent here by someone) and make use of it, I’d sure appreciate you letting me know!&lt;/p&gt;
-
-&lt;h3 id=&quot;talks&quot;&gt;Talks&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Slides: &lt;a href=&quot;http://goo.gl/nLUiT&quot;&gt;Evidence for Multiple Populations in Globular Clusters (2012)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Video: &lt;a href=&quot;http://www.youtube.com/watch?v=vINb5GCtDR8&quot;&gt;The United States of Starbucks&lt;/a&gt; (2013 - Based on this &lt;a href=&quot;http://www.ifweassume.com/2012/10/the-united-states-of-starbucks.html&quot;&gt;project from my blog&lt;/a&gt;)
-    &lt;ul&gt;
-      &lt;li&gt;More talks related to my blog are &lt;a href=&quot;http://www.ifweassume.com/p/presentations.html&quot;&gt;listed here&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;miscellaneous-papers&quot;&gt;Miscellaneous Papers&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://arxiv.org/abs/1303.7433&quot;&gt;Unidentified Moving Objects in Next Generation Time Domain Surveys (April 1, 2013)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://goo.gl/XadH0&quot;&gt;Understanding Fowler Sampling with NIC-FPS (updated 2011)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;grad-school-term-papers&quot;&gt;Grad School Term Papers&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://goo.gl/gQJhO&quot;&gt;Multiple Populations in Globular Clusters (SDSU, 2008)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://goo.gl/nmH0q&quot;&gt;Herbig Haro Jets: Tracers of Accretion (SDSU 2009)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://goo.gl/IGwPS&quot;&gt;Globular Clusters in Hierarchical Cosmology (SDSU 2009)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://goo.gl/PSwVU&quot;&gt;Habitability of Planets around M Dwarfs (UW, 2010)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 01 Feb 2014 00:00:00 -0800</pubDate>
-        <link>http://jradavenport.github.io/2014/02/01/misc-papers.html</link>
-        <guid isPermaLink="true">http://jradavenport.github.io/2014/02/01/misc-papers.html</guid>
         
         
       </item>

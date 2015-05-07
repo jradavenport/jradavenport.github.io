@@ -6,7 +6,7 @@ layout: page
 
 ## Petition for Support.
 
-##Current Total Raised: <span style="color:red;">$2049</span>
+##Update: <span style="color:red;">We made it!</span>
 
 ![]({{ site.url }}/assets/foos-header.JPG)
 
@@ -14,7 +14,7 @@ A cornerstone of the graduate education and experience offered by the Astronomy 
 
 After nearly 15 years of glorious play, our beloved table has started to show it's age. Therefore we are reaching out to you for financial support. Help us replace the foosball table with one that will last another 15 years! Do it for the Qual studying stress relief, the w(h)ine time fueled match-ups, the afternoon frivolity... and most of all, do it for the next generation of grad students.
 
-**We have already received $700 of support from GPSS towards our new table!** Our goal is to purchase a [Tornado Tournament 3000](http://www.amazon.com/Tornado-Tournament-3000-Foosball-Table/dp/B001FTH4OA) (approx. $2069 + tax). 
+Our goal is to purchase a [Tornado Tournament 3000](http://www.amazon.com/Tornado-Tournament-3000-Foosball-Table/dp/B001FTH4OA).
 
 Contributions of any amount will be graciously accepted, and your name added to a Donor Support page.
 
@@ -22,4 +22,5 @@ As an added incentive to support this grad student past time, we are offering ex
 
 ![]({{ site.url }}/assets/foos-names.png)
 
-If you would like to support the grads and this cherished pasttime, please contact James Davenport (jrad -at- uw.edu)
+
+*Update*: We have placed the order for our new Tornado Tournament 3000. Many thanks to the current and former grad students, and the UW GPSS, for their support!

@@ -96,9 +96,9 @@ alt="iweb stats" ></a></div></noscript>
   </header>
 
   <article class="post-content">
-    <p>Here is a step-by-step guide that I <a href="https://github.com/jradavenport/spectra/wiki/Manual-Reduction-Guide">originally wrote</a> for the GitHub Wiki on the <em>SPECRTRA</em> repo. </p>
+    <p><strong>For the most up to date version of this guide, see the <em>pyDIS</em> <a href="https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide">GitHub Wiki</a>.</strong></p>
 
-<p>This guide explains how to reduce DIS data from start to finish with <em>SPECTRA</em>. Note, this entire process is reproduced in the <a href="https://github.com/jradavenport/spectra/wiki/function:-autoreduce">autoreduce</a> helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.</p>
+<p>This guide explains how to reduce DIS data from start to finish with <em>pyDIS</em>. Note, this entire process is reproduced in the <a href="https://github.com/jradavenport/pydis/wiki/function:-autoreduce">autoreduce</a> helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.</p>
 
 <h1 id="organizing-the-data-to-reduce">Organizing the data to reduce</h1>
 <p>First we need to create some lists to group the calibration files (flats, biases). Note, darks are currently not supported explicitly. In your terminal you might say:</p>
@@ -110,28 +110,28 @@ ls bias.0*r.fits &gt; rbias.lis
 <h1 id="make-master-calibration-files">Make master calibration files</h1>
 <p>We’ll switch to Python from here on. You might want to save these commands in a script that you could run again. As in IRAF, we must combine the biases and flats that will be applied to the science frame.</p>
 
-<pre><code>import spectra
+<pre><code>import pydis
 
-bias = spectra.biascombine('rbias.lis', trim=True)
+bias = pydis.biascombine('rbias.lis', trim=True)
 
-flat,fmask_out = spectra.flatcombine('rflat.lis', bias, trim=True, 
+flat,fmask_out = pydis.flatcombine('rflat.lis', bias, trim=True, 
                                  mode='spline', response=True, display=True)
 </code></pre>
 
 <p>Now there should be newly created files named <strong>FLAT.fits</strong> and <strong>BIAS.fits</strong> in your directory. Note all the extra keyword arguments (aka “kwargs”) for  <code>flatcombine</code>, which are used for removing the flatfield lamp’s spectrum (called RESPONSE in IRAF).</p>
 
-<p>Next, let’s define the wavelength solution that will be used for our science image. This is the most tedious manual step. We’ll mimic IRAF and do the “identify” manually. While <em>SPECTRA</em> can do this automatically (set <code>interac=False</code>), the solution is often too crude for science use. If you have previously done the manual identify and picked out lines, you can skip the identify step by setting <code>previous=True</code>. We’ll start with a random guess at the <code>fit_order</code> parameter, but if <code>interac=True</code> then we’ll be prompted to adjust this interactively.</p>
+<p>Next, let’s define the wavelength solution that will be used for our science image. This is the most tedious manual step. We’ll mimic IRAF and do the “identify” manually. While <em>pyDIS</em> can do this automatically (set <code>interac=False</code>), the solution is often too crude for science use. If you have previously done the manual identify and picked out lines, you can skip the identify step by setting <code>previous=True</code>. We’ll start with a random guess at the <code>fit_order</code> parameter, but if <code>interac=True</code> then we’ll be prompted to adjust this interactively.</p>
 
 <pre><code>HeNeAr_file = 'HeNeAr.0030r.fits'
-wfit = spectra.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
+wfit = pydis.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
                           interac=True, mode='poly', fit_order=5)
 </code></pre>
 
-<p><em>SPECTRA</em> will pull the very rough wavelength solution out of the header, take a slice through the image, and show you the 1-d emission line spectrum. Click on prominent peaks in the image (sample arc lamp spectra for DIS is provided by APO <a href="http://www.apo.nmsu.edu/arc35m/Instruments/DIS/#4p2">here</a>), then in the Python terminal type the wavelength of the line you identified and press <return>. Each line is fit with a Gaussian to find the exact center. Repeat this until you've identified as many lines as you can. If you mess one up, click on it and enter a "d" for the wavelength. </return></p>
+<p><em>pyDIS</em> will pull the very rough wavelength solution out of the header, take a slice through the image, and show you the 1-d emission line spectrum. Click on prominent peaks in the image (sample arc lamp spectra for DIS is provided by APO <a href="http://www.apo.nmsu.edu/arc35m/Instruments/DIS/#4p2">here</a>), then in the Python terminal type the wavelength of the line you identified and press <return>. Each line is fit with a Gaussian to find the exact center. Repeat this until you've identified as many lines as you can. If you mess one up, click on it and enter a "d" for the wavelength. </return></p>
 
 <p>After the lines are identified, you need to fit a smooth function between them. The polynomial fit and residual will be shown. Close this window and then in the terminal answer the question: should the polynomial order be changed (if so, enter an integer number) or is it OK (if so, enter a “d” for done)? </p>
 
-<p><em>SPECTRA</em> will then trace these lines along the y-axis, producing a full 2-d wavelength solution for the image. Be sure to keep this solution <code>wfit</code> around, as we’ll need to apply to every image we want a spectrum from (science and flux standard).</p>
+<p><em>pyDIS</em> will then trace these lines along the y-axis, producing a full 2-d wavelength solution for the image. Be sure to keep this solution <code>wfit</code> around, as we’ll need to apply to every image we want a spectrum from (science and flux standard).</p>
 
 <h1 id="reduce-the-science-image">Reduce the science image</h1>
 <p>This is the “reduction” step, where we actually remove the bias and flat from the science image, and divide by the exposure time. The result is an image with units of counts/second. Everything (almost) is stored in numpy arrays, so performing simple math on them is trivial.</p>
@@ -140,7 +140,7 @@ wfit = spectra.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
 spec = 'object.0035r.fits'
 
 # open the image, get the data and a couple important numbers
-raw, exptime, airmass = spectra.OpenImg(spec, trim=True)
+raw, exptime, airmass = pydis.OpenImg(spec, trim=True)
 
 # remove bias and flat, divide by exptime
 data = ((raw - bias) / flat) / exptime
@@ -150,7 +150,7 @@ data = ((raw - bias) / flat) / exptime
 
 <h1 id="the-flux-standard-file-name">the flux standard file name</h1>
 <pre><code>stdspec = 'Feige34.0065r.fits'
-stdraw, stdexptime, stdairmass = spectra.OpenImg(stdspec, trim=True)
+stdraw, stdexptime, stdairmass = pydis.OpenImg(stdspec, trim=True)
 stddata= ((stdraw - bias) / flat) / stdexptime
 </code></pre>
 
@@ -170,17 +170,17 @@ plt.show()
 <p>Set <code>display=True</code> to see the trace over-plotted on the image. Make sure it doesn’t wander. If it’s not accurate enough, adjust the number of steps. For low Signal/Noise images, sometimes you have to use small values like <code>nsteps=7</code> to trace the spectrum.</p>
 
 <pre><code># trace the science image
-trace = spectra.ap_trace(data, fmask=fmask_out, nsteps=50, interac=False, display=True)
+trace = pydis.ap_trace(data, fmask=fmask_out, nsteps=50, interac=False, display=True)
 
 # trace the flux standard image
-stdtrace = spectra.ap_trace(stddata, fmask=fmask_out, nsteps=50, interac=False, display=True)
+stdtrace = pydis.ap_trace(stddata, fmask=fmask_out, nsteps=50, interac=False, display=True)
 </code></pre>
 
-<p>Now we extract the observed spectrum along this trace, for both the reduced object and the flux standard spectra. The result is a 1-d spectrum made by summing up the flux in each column in a range of +/- the aperture width. The sky is determined by fitting a polynomial along the column in two regions near the trace. Important consideration: if you choose a large sky region, or separate it a lot from the aperture, the sky will not be a good fit. This is because the HeNeAr lines (lines of constant wavelength) are bent and not perfectly vertical on the chip. Thus it is good to choose a small sky region. The <code>skydeg</code> parameter is the polynomial order to fit between the sky regions in each column. The default is <code>skydeg=0</code>, which is simply a median. A sky value at each pixel along the trace is returned. This routine also computes a flux error at each pixel along the trace.</p>
+<p>Now we extract the observed spectrum along this trace, for both the reduced object and the flux standard pydis. The result is a 1-d spectrum made by summing up the flux in each column in a range of +/- the aperture width. The sky is determined by fitting a polynomial along the column in two regions near the trace. Important consideration: if you choose a large sky region, or separate it a lot from the aperture, the sky will not be a good fit. This is because the HeNeAr lines (lines of constant wavelength) are bent and not perfectly vertical on the chip. Thus it is good to choose a small sky region. The <code>skydeg</code> parameter is the polynomial order to fit between the sky regions in each column. The default is <code>skydeg=0</code>, which is simply a median. A sky value at each pixel along the trace is returned. This routine also computes a flux error at each pixel along the trace.</p>
 
-<pre><code>ext_spec, sky, fluxerr = spectra.ap_extract(data, trace, apwidth=5,skysep=1,
+<pre><code>ext_spec, sky, fluxerr = pydis.ap_extract(data, trace, apwidth=5,skysep=1,
                                     skywidth=7, skydeg=0)
-ext_std, stdsky, stderr = spectra.ap_extract(stddata, stdtrace, apwidth=5,
+ext_std, stdsky, stderr = pydis.ap_extract(stddata, stdtrace, apwidth=5,
                                      skysep=1, skywidth=7, skydeg=0)
 
 # subtract the sky from the 1-d spectrum
@@ -215,29 +215,29 @@ plt.show()
 <h1 id="calibrate-the-spectrum">Calibrate the spectrum</h1>
 <p>We have a raw 1-d spectrum now, with flux measured at each pixel along the x-axis of the image along the trace. However, we want to calibrate the x-axis to use the wavelength solution we created before. You probably want to use <code>mode='poly'</code>, which is the default and thus optional to write.</p>
 
-<p>The spectrum itself is currently in units of counts/second, and we need to apply a wavelength dependent correction for the observed airmass. We’ll use the airmass file for APO included with <em>SPECTRA</em>. Note, this is different from the file that APO provided prior to April 2015 (an error in this file was noticed during the development of <em>SPECTRA</em>).</p>
+<p>The spectrum itself is currently in units of counts/second, and we need to apply a wavelength dependent correction for the observed airmass. We’ll use the airmass file for APO included with <em>pyDIS</em>. Note, this is different from the file that APO provided prior to April 2015 (an error in this file was noticed during the development of <em>pyDIS</em>).</p>
 
 <pre><code># map the wavelength using the HeNeAr fit
-wfinal = spectra.mapwavelength(trace, wfit, mode='poly')
-wfinalstd = spectra.mapwavelength(stdtrace, wfit, mode='poly')
+wfinal = pydis.mapwavelength(trace, wfit, mode='poly')
+wfinalstd = pydis.mapwavelength(stdtrace, wfit, mode='poly')
 
 # correct the object and flux std for airmass extinction
-flux_red_x = spectra.AirmassCor(wfinal, flux_red, airmass,
+flux_red_x = pydis.AirmassCor(wfinal, flux_red, airmass,
                                 airmass_file='apoextinct.dat')
-flux_std_x = spectra.AirmassCor(wfinalstd, flux_std, stdairmass,
+flux_std_x = pydis.AirmassCor(wfinalstd, flux_std, stdairmass,
                                 airmass_file='apoextinct.dat')
 </code></pre>
 
 <h1 id="flux-calibration">Flux calibration</h1>
-<p>Now that we have the actual wavelength mapped to both the science target and the flux standard, and we’ve corrected them for their respective airmass, it’s time for the final step: flux calibration. This is done by comparing the flux standard observation to a library of standard stars. For <em>SPECTRA</em> we have hard-coded the IRAF library “spec50cal”. Any other standard could be put in this directory and used, or a different library could be used with a little hacking to the code if you’re brave or desperate. <code>DefFluxCal</code> will try to avoid Balmer lines, but at present does not have a sophisticated interactive mode where you can delete bad points. Set <code>display=True</code> in <code>DefFluxCal</code> to see if the fit looks smooth and good and does not blow up at the edges.</p>
+<p>Now that we have the actual wavelength mapped to both the science target and the flux standard, and we’ve corrected them for their respective airmass, it’s time for the final step: flux calibration. This is done by comparing the flux standard observation to a library of standard stars. For <em>pyDIS</em> we have hard-coded the IRAF library “spec50cal”. Any other standard could be put in this directory and used, or a different library could be used with a little hacking to the code if you’re brave or desperate. <code>DefFluxCal</code> will try to avoid Balmer lines, but at present does not have a sophisticated interactive mode where you can delete bad points. Set <code>display=True</code> in <code>DefFluxCal</code> to see if the fit looks smooth and good and does not blow up at the edges.</p>
 
-<p>The sensitivity function is computed for the standard star, and has units of (erg/s/cm2/A) / (counts/s/cm2/A). The final step is to apply this sensfunc to the science target, which simply resamples the sensfunc on to the exact wavelengths as the target and then multiplies the observed 1-d spectrum by the sensitivity function. Note <em>SPECTRA</em> works in flux units, not magnitude units used by IRAF. As a reality check, you can also apply the sensfunc back to the standard star spectrum to make sure it looks right! </p>
+<p>The sensitivity function is computed for the standard star, and has units of (erg/s/cm2/A) / (counts/s/cm2/A). The final step is to apply this sensfunc to the science target, which simply resamples the sensfunc on to the exact wavelengths as the target and then multiplies the observed 1-d spectrum by the sensitivity function. Note <em>pyDIS</em> works in flux units, not magnitude units used by IRAF. As a reality check, you can also apply the sensfunc back to the standard star spectrum to make sure it looks right! </p>
 
-<pre><code>sensfunc = spectra.DefFluxCal(wfinalstd, flux_std_x,
+<pre><code>sensfunc = pydis.DefFluxCal(wfinalstd, flux_std_x,
                               stdstar='feige34', mode='spline')
 
 # final step in reduction, apply sensfunc
-ffinal,efinal = spectra.ApplyFluxCal(wfinal, flux_red_x, fluxerr, 
+ffinal,efinal = pydis.ApplyFluxCal(wfinal, flux_red_x, fluxerr, 
                                     wfinalstd, sensfunc)
 </code></pre>
 
@@ -260,7 +260,7 @@ plt.show()
 
 <p>The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in in <code>autoreduce</code>. </p>
 
-<p>I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in <em>SPECTRA</em> will accommodate automatic solutions of multiple HeNeAr files.</p>
+<p>I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in <em>pyDIS</em> will accommodate automatic solutions of multiple HeNeAr files.</p>
 
   </article>
 
