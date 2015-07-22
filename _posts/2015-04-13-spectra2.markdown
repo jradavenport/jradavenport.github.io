@@ -1,12 +1,12 @@
 ---
-title: "A Step-by-Step Guide to 1D Spectroscopy with SPECTRA"
+title: "A Step-by-Step Guide to 1D Spectroscopy in Python"
 layout: page
 
 ---
 
-**For the most up to date version of this guide, see the *pyDIS* [GitHub Wiki](https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide).**
+###As the code evolves, watch the *pyDIS* [GitHub Wiki](https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide) for the latest details!
 
-This guide explains how to reduce DIS data from start to finish with *pyDIS*. Note, this entire process is reproduced in the [autoreduce](https://github.com/jradavenport/pydis/wiki/function:-autoreduce) helper function. In this simple example we'll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.
+This guide is a rough draft explanation of how to reduce DIS data from start to finish with *pyDIS*. Note, this entire process is reproduced in the [autoreduce](https://github.com/jradavenport/pydis/wiki/function:-autoreduce) helper function. In this simple example we'll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.
 
 
 # Organizing the data to reduce
