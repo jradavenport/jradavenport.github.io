@@ -96,7 +96,7 @@ alt="iweb stats" ></a></div></noscript>
   </header>
 
   <article class="post-content">
-    <h3 id="as-the-code-evolves-watch-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-details">As the code evolves, watch the <em>pyDIS</em> <a href="https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide">GitHub Wiki</a> for the latest details!</h3>
+    <h2 id="look-at-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-version-of-this-guide">Look at the <em>pyDIS</em> <a href="https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide">GitHub Wiki</a> for the latest version of this guide!</h2>
 
 <p>This guide is a rough draft explanation of how to reduce DIS data from start to finish with <em>pyDIS</em>. Note, this entire process is reproduced in the <a href="https://github.com/jradavenport/pydis/wiki/function:-autoreduce">autoreduce</a> helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.</p>
 
@@ -258,7 +258,7 @@ plt.show()
 <h1 id="closing-thoughts">Closing thoughts…</h1>
 <p>This procedure replicates (sometimes poorly) IRAF functions. We are also skipping a couple lesser-used functions, such as the illumination correction. You should be plotting things every step of the way, always making sure it looks sensible. Crazy things can happen if you’re not careful…</p>
 
-<p>The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in in <code>autoreduce</code>. </p>
+<p>The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in <code>autoreduce</code>. </p>
 
 <p>I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in <em>pyDIS</em> will accommodate automatic solutions of multiple HeNeAr files.</p>
 

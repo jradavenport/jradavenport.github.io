@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 Aug 2015 09:49:15 -0700</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2015 09:49:15 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2015 09:17:19 -1000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2015 09:17:19 -1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -35,7 +35,7 @@
   &lt;li&gt;Matt Davis’ palettable &lt;a href=&quot;https://github.com/jiffyclub/palettable/tree/master/palettable/cubehelix&quot;&gt;Python module&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 06 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 06 May 2015 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2015/05/06/cubehelix.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/05/06/cubehelix.html</guid>
         
@@ -44,7 +44,7 @@
     
       <item>
         <title>A Step-by-Step Guide to 1D Spectroscopy in Python</title>
-        <description>&lt;h3 id=&quot;as-the-code-evolves-watch-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-details&quot;&gt;As the code evolves, watch the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest details!&lt;/h3&gt;
+        <description>&lt;h2 id=&quot;look-at-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-version-of-this-guide&quot;&gt;Look at the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest version of this guide!&lt;/h2&gt;
 
 &lt;p&gt;This guide is a rough draft explanation of how to reduce DIS data from start to finish with &lt;em&gt;pyDIS&lt;/em&gt;. Note, this entire process is reproduced in the &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/function:-autoreduce&quot;&gt;autoreduce&lt;/a&gt; helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.&lt;/p&gt;
 
@@ -206,11 +206,11 @@ plt.show()
 &lt;h1 id=&quot;closing-thoughts&quot;&gt;Closing thoughts…&lt;/h1&gt;
 &lt;p&gt;This procedure replicates (sometimes poorly) IRAF functions. We are also skipping a couple lesser-used functions, such as the illumination correction. You should be plotting things every step of the way, always making sure it looks sensible. Crazy things can happen if you’re not careful…&lt;/p&gt;
 
-&lt;p&gt;The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in in &lt;code&gt;autoreduce&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in &lt;code&gt;autoreduce&lt;/code&gt;. &lt;/p&gt;
 
 &lt;p&gt;I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in &lt;em&gt;pyDIS&lt;/em&gt; will accommodate automatic solutions of multiple HeNeAr files.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 13 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 13 Apr 2015 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2015/04/13/spectra2.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/04/13/spectra2.html</guid>
         
@@ -266,7 +266,7 @@ plt.show()
 
 &lt;p&gt;If you’re building a new general purpose instrument: please write a reduction pipeline.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2015/04/01/spectra.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/04/01/spectra.html</guid>
         
@@ -295,7 +295,7 @@ plt.show()
 
 &lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: We have placed the order for our new Tornado Tournament 3000. Many thanks to the current and former grad students, and the UW GPSS, for their support!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 10 Mar 2015 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2015/03/10/foosball.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/03/10/foosball.html</guid>
         
@@ -315,7 +315,7 @@ plt.show()
 &lt;p&gt;For the full run-down, check out this post on my blog:
 &lt;a href=&quot;http://www.ifweassume.com/2015/01/making-quality-animations-in-idl.html&quot;&gt;&lt;strong&gt;If We Assume: Making Quality Animations in IDL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Feb 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 19 Feb 2015 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2015/02/19/animations.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/02/19/animations.html</guid>
         
@@ -336,7 +336,7 @@ plt.show()
 
 &lt;iframe src=&quot;//player.vimeo.com/video/116912802?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;500&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2015/01/15/vis.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/01/15/vis.html</guid>
         
@@ -359,7 +359,7 @@ plt.show()
 
 &lt;p&gt;Stay tuned for more!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 08 Nov 2014 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2014/11/08/gender.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/08/gender.html</guid>
         
@@ -428,7 +428,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
   &lt;li&gt;https://www.authorea.com&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 07 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 07 Nov 2014 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2014/11/07/elevate-apj.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/07/elevate-apj.html</guid>
         
@@ -465,7 +465,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Thu, 30 Oct 2014 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Oct 2014 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2014/10/30/data-products.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/10/30/data-products.html</guid>
         
@@ -528,7 +528,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
 
 &lt;p&gt;… and that is where baby papers come from&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 May 2014 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 01 May 2014 00:00:00 -1000</pubDate>
         <link>http://jradavenport.github.io/2014/05/01/babypapers.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/05/01/babypapers.html</guid>
         

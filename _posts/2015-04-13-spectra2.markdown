@@ -4,7 +4,7 @@ layout: page
 
 ---
 
-###As the code evolves, watch the *pyDIS* [GitHub Wiki](https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide) for the latest details!
+## Look at the *pyDIS* [GitHub Wiki](https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide) for the latest version of this guide!
 
 This guide is a rough draft explanation of how to reduce DIS data from start to finish with *pyDIS*. Note, this entire process is reproduced in the [autoreduce](https://github.com/jradavenport/pydis/wiki/function:-autoreduce) helper function. In this simple example we'll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.
 
@@ -165,6 +165,6 @@ Our final parameters for the science target are now `(wfinal, ffinal, efinal)`, 
 # Closing thoughts...
 This procedure replicates (sometimes poorly) IRAF functions. We are also skipping a couple lesser-used functions, such as the illumination correction. You should be plotting things every step of the way, always making sure it looks sensible. Crazy things can happen if you're not careful...
 
-The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in in `autoreduce`. 
+The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in `autoreduce`. 
 
 I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in *pyDIS* will accommodate automatic solutions of multiple HeNeAr files.
