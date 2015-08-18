@@ -218,6 +218,11 @@ pre {
   list-style: none;
   margin-left: 0; }
 
+.cya {
+  font-size: 10px;
+  list-style: none;
+  margin-left: 0; }
+
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
@@ -237,8 +242,8 @@ pre {
   width: calc(20% - (30px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2)); }
+  width: -webkit-calc(40% - (30px / 3));
+  width: calc(40% - (30px / 3)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,

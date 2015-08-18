@@ -102,10 +102,17 @@
 }
 
 .contact-list,
-.social-media-list {
+.social-media-list{
     list-style: none;
     margin-left: 0;
 }
+
+.cya{
+    font-size: 10px;
+    list-style: none;
+    margin-left: 0;
+}
+
 
 .footer-col-wrapper {
     font-size: 15px;
@@ -131,8 +138,8 @@
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(40% - (#{$spacing-unit} / 3));
+    width:         calc(40% - (#{$spacing-unit} / 3));
 }
 
 @include media-query($on-laptop) {
