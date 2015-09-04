@@ -1,0 +1,11 @@
+---
+title: Organizing Your Citations
+layout: page
+
+---
+
+When you write a paper in astronomy, you need to provide references back to the papers. Rather than manually writing out every citation and ensuring you get the reference correct in your bibliography, make use of the \cite command and point your bibliography at a master reference library! This is all driven by a wonderful piece of tex-nology called BibTex.
+
+You'll need to organize that library, and I've written a helpful tutorial about doing this using BibDesk on my blog. Check it out!
+
+## [If We Assume: How I Cite](http://www.ifweassume.com/2015/09/how-i-cite.html)

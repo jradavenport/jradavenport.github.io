@@ -5,9 +5,24 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Aug 2015 09:55:19 -0700</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 09:55:19 -0700</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2015 13:40:46 -0700</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2015 13:40:46 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Organizing Your Citations</title>
+        <description>&lt;p&gt;When you write a paper in astronomy, you need to provide references back to the papers. Rather than manually writing out every citation and ensuring you get the reference correct in your bibliography, make use of the \cite command and point your bibliography at a master reference library! This is all driven by a wonderful piece of tex-nology called BibTex.&lt;/p&gt;
+
+&lt;p&gt;You’ll need to organize that library, and I’ve written a helpful tutorial about doing this using BibDesk on my blog. Check it out!&lt;/p&gt;
+
+&lt;h2 id=&quot;if-we-assume-how-i-citehttpwwwifweassumecom201509how-i-citehtml&quot;&gt;&lt;a href=&quot;http://www.ifweassume.com/2015/09/how-i-cite.html&quot;&gt;If We Assume: How I Cite&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2015 00:00:00 -0700</pubDate>
+        <link>http://jradavenport.github.io/2015/09/04/bibdesk.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/09/04/bibdesk.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>CubeHelix</title>
@@ -468,69 +483,6 @@ The design for most journal articles in astronomy is a two-column, highly conden
         <pubDate>Thu, 30 Oct 2014 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2014/10/30/data-products.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/10/30/data-products.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Post: How to Publish in Astronomy</title>
-        <description>&lt;p&gt;A younger student recently asked me what we meant by having a paper “reviewed by a referee”. This caused me to realize that “refereeing” is a term of art, and is not completely obvious to new students or laypeople. I had similar discussions with CS colleagues when I interned at MSR; we were each surprised at the differences in publication procedures between our fields.&lt;/p&gt;
-
-&lt;p&gt;So because it may someday help someone (or the process will improve and we can look back on this as an historical curiosity) here is my brief email review of how papers get published in astronomy (in the US):&lt;/p&gt;
-
-&lt;h3 id=&quot;begin-email&quot;&gt;&lt;em&gt;Begin Email:&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;Ah, “referee”! Let me explain with a quick intro to the paper-publishing procedure used in Astronomy (note: this is NOT the same between all academic fields)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;work super hard on a paper for a long time, make it as absolutely good as possible, typo free, i’s dotted, p’s and q’s minded&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;submit online to the journal of choice (how to choose a journal is a subtle thing, no universal agreement). you send them the latex file and all figures, they compile it in to a PDF. At this stage, your paper is “submitted” (you might see that written places)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the journal assigns it an “editor” who makes sure the whole procedure from here on out works smooth. this is the person you go to w/ Q’s or problems along the way&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the editor looks over your paper and finds a “referee” (assuming your paper isn’t obviously nonsense). The referee is a colleague with some experience related to your paper, and may likely be one of the people you cite in the paper.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;if the astronomer agrees to be the referee, they have a window of time (roughly a month) to read your paper and judge it. they will decide if it is quality science, done rigorously, explain well, appears honest, etc. If you’re just making shit up, they should be able to sniff this out.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;the referee will write her “report”, which usually will highlight what they like about the paper, and what Q’s they have. Standard practice seems to be to try and give you about 10-20 things they didn’t like, or wanted more clarification on. This report can be very harsh sometimes, and you must always remind yourself that we WANT strict referees (even when you’re cursing them about their comments on your brilliant work).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;you receive the report, and then address all the referee’s points (or don’t, but explain in detail why). When you think the paper is tuned up and better than ever, you send it BACK in.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The referee has the option to either then recommend your paper for publication or send you another report…. I’ve had this process repeat 4 times once, and it was brutal. But the paper was better for it in the end.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;once your paper is recommended for publication, the editor will probably (99.999% chance) accept it and begin the slow process of “publishing it”. This can take a few months, as the journal tunes up the language a bit in places, fixes commas, makes the paper fit the the standard rules of english for the journal (we get lots of non-native english speaking authors). In this processes your paper is “in press”, or sometimes just written as “accepted”.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;at this step you can send the paper to the arXiv. Some people do this after step (2), and I have at times, but usually you should wait until it is accepted.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;you will then pay for the paper in most astro journals. “Page Charges” come from the author(s), and run something like $125/page (they have varying ways of calculating cost now). Thus a big paper can easily run you $2k… but this cost nominally goes towards making the articles available for everyone for free (after a year or something). this part of the system sucks, but no viable solution has been presented for astro yet.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;finally your groundbreaking work of earth-shattering brilliance is published, between 2 and 10 months usually from when you submitted, and you have a full proper reference for your CV&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Most papers submitted in astronomy are eventually accepted. This is very different from other fields. Humanities can have a hard time getting articles published. In Comp Sci they use conferences like we use journals, and the acceptance rate is close to 20% for most, but no pages charges. There are many other fascinating differences, like average numbers of authors per paper, etc. CS conferences (and many other fields) usually have multiple referees per paper also.&lt;/p&gt;
-
-&lt;p&gt;… and that is where baby papers come from&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 May 2014 00:00:00 -0700</pubDate>
-        <link>http://jradavenport.github.io/2014/05/01/babypapers.html</link>
-        <guid isPermaLink="true">http://jradavenport.github.io/2014/05/01/babypapers.html</guid>
         
         
       </item>
