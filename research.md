@@ -9,10 +9,8 @@ My research interests are widespread, and generally involve large datasets of st
 
 My [MS thesis](http://adsabs.harvard.edu/abs/2010ApJ...711..559D) work was studying the open cluster M67 with a powerful algorithm for separating the cluster population from the background field stars. 
 
-My PhD thesis involves studying flare properties and the 
-evolution of starspots using data from Kepler, and 
-using this amazing training sample to make 
-predictions for what future surveys like LSST will recover. 
+My PhD thesis involved studying flare properties and the 
+evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover. 
 
 **See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
 
