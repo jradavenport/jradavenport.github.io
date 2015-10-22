@@ -5,9 +5,9 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Sep 2015 16:13:53 -0700</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2015 16:13:53 -0700</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Thu, 22 Oct 2015 15:09:19 -0600</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2015 15:09:19 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Organizing Your Citations</title>
@@ -17,7 +17,7 @@
 
 &lt;h2 id=&quot;if-we-assume-how-i-citehttpwwwifweassumecom201509how-i-citehtml&quot;&gt;&lt;a href=&quot;http://www.ifweassume.com/2015/09/how-i-cite.html&quot;&gt;If We Assume: How I Cite&lt;/a&gt;&lt;/h2&gt;
 </description>
-        <pubDate>Fri, 04 Sep 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 04 Sep 2015 00:00:00 -0600</pubDate>
         <link>http://jradavenport.github.io/2015/09/04/bibdesk.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/09/04/bibdesk.html</guid>
         
@@ -50,7 +50,7 @@
   &lt;li&gt;Matt Davis’ palettable &lt;a href=&quot;https://github.com/jiffyclub/palettable/tree/master/palettable/cubehelix&quot;&gt;Python module&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 06 May 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 06 May 2015 00:00:00 -0600</pubDate>
         <link>http://jradavenport.github.io/2015/05/06/cubehelix.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/05/06/cubehelix.html</guid>
         
@@ -59,173 +59,13 @@
     
       <item>
         <title>A Step-by-Step Guide to 1D Spectroscopy in Python</title>
-        <description>&lt;h2 id=&quot;look-at-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-version-of-this-guide&quot;&gt;Look at the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest version of this guide!&lt;/h2&gt;
+        <description>&lt;p&gt;This guide is a rough draft explanation of how to reduce DIS data from start to finish with &lt;em&gt;pyDIS&lt;/em&gt;. Note, this entire process is reproduced in the &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/function:-autoreduce&quot;&gt;autoreduce&lt;/a&gt; helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.&lt;/p&gt;
 
-&lt;p&gt;This guide is a rough draft explanation of how to reduce DIS data from start to finish with &lt;em&gt;pyDIS&lt;/em&gt;. Note, this entire process is reproduced in the &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/function:-autoreduce&quot;&gt;autoreduce&lt;/a&gt; helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.&lt;/p&gt;
+&lt;p&gt;Because the code has been evolving, this guide has been moved. In a future version of this page I will have a complete guide including sample data and images…&lt;/p&gt;
 
-&lt;h1 id=&quot;organizing-the-data-to-reduce&quot;&gt;Organizing the data to reduce&lt;/h1&gt;
-&lt;p&gt;First we need to create some lists to group the calibration files (flats, biases). Note, darks are currently not supported explicitly. In your terminal you might say:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;ls flat.0*r.fits &amp;gt; rflat.lis
-ls bias.0*r.fits &amp;gt; rbias.lis
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&quot;make-master-calibration-files&quot;&gt;Make master calibration files&lt;/h1&gt;
-&lt;p&gt;We’ll switch to Python from here on. You might want to save these commands in a script that you could run again. As in IRAF, we must combine the biases and flats that will be applied to the science frame.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;import pydis
-
-bias = pydis.biascombine(&#39;rbias.lis&#39;, trim=True)
-
-flat,fmask_out = pydis.flatcombine(&#39;rflat.lis&#39;, bias, trim=True, 
-                                 mode=&#39;spline&#39;, response=True, display=True)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now there should be newly created files named &lt;strong&gt;FLAT.fits&lt;/strong&gt; and &lt;strong&gt;BIAS.fits&lt;/strong&gt; in your directory. Note all the extra keyword arguments (aka “kwargs”) for  &lt;code&gt;flatcombine&lt;/code&gt;, which are used for removing the flatfield lamp’s spectrum (called RESPONSE in IRAF).&lt;/p&gt;
-
-&lt;p&gt;Next, let’s define the wavelength solution that will be used for our science image. This is the most tedious manual step. We’ll mimic IRAF and do the “identify” manually. While &lt;em&gt;pyDIS&lt;/em&gt; can do this automatically (set &lt;code&gt;interac=False&lt;/code&gt;), the solution is often too crude for science use. If you have previously done the manual identify and picked out lines, you can skip the identify step by setting &lt;code&gt;previous=True&lt;/code&gt;. We’ll start with a random guess at the &lt;code&gt;fit_order&lt;/code&gt; parameter, but if &lt;code&gt;interac=True&lt;/code&gt; then we’ll be prompted to adjust this interactively.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;HeNeAr_file = &#39;HeNeAr.0030r.fits&#39;
-wfit = pydis.HeNeAr_fit(HeNeAr_file, trim=True, fmask=fmask_out,
-                          interac=True, mode=&#39;poly&#39;, fit_order=5)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;pyDIS&lt;/em&gt; will pull the very rough wavelength solution out of the header, take a slice through the image, and show you the 1-d emission line spectrum. Click on prominent peaks in the image (sample arc lamp spectra for DIS is provided by APO &lt;a href=&quot;http://www.apo.nmsu.edu/arc35m/Instruments/DIS/#4p2&quot;&gt;here&lt;/a&gt;), then in the Python terminal type the wavelength of the line you identified and press &lt;return&gt;. Each line is fit with a Gaussian to find the exact center. Repeat this until you&#39;ve identified as many lines as you can. If you mess one up, click on it and enter a &quot;d&quot; for the wavelength. &lt;/return&gt;&lt;/p&gt;
-
-&lt;p&gt;After the lines are identified, you need to fit a smooth function between them. The polynomial fit and residual will be shown. Close this window and then in the terminal answer the question: should the polynomial order be changed (if so, enter an integer number) or is it OK (if so, enter a “d” for done)? &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;pyDIS&lt;/em&gt; will then trace these lines along the y-axis, producing a full 2-d wavelength solution for the image. Be sure to keep this solution &lt;code&gt;wfit&lt;/code&gt; around, as we’ll need to apply to every image we want a spectrum from (science and flux standard).&lt;/p&gt;
-
-&lt;h1 id=&quot;reduce-the-science-image&quot;&gt;Reduce the science image&lt;/h1&gt;
-&lt;p&gt;This is the “reduction” step, where we actually remove the bias and flat from the science image, and divide by the exposure time. The result is an image with units of counts/second. Everything (almost) is stored in numpy arrays, so performing simple math on them is trivial.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# the science image file name
-spec = &#39;object.0035r.fits&#39;
-
-# open the image, get the data and a couple important numbers
-raw, exptime, airmass = pydis.OpenImg(spec, trim=True)
-
-# remove bias and flat, divide by exptime
-data = ((raw - bias) / flat) / exptime
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You should also read in and reduce the flux standard star the same way:&lt;/p&gt;
-
-&lt;h1 id=&quot;the-flux-standard-file-name&quot;&gt;the flux standard file name&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;stdspec = &#39;Feige34.0065r.fits&#39;
-stdraw, stdexptime, stdairmass = pydis.OpenImg(stdspec, trim=True)
-stddata= ((stdraw - bias) / flat) / stdexptime
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If we wanted to look at the science image in python, you might do this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;import numpy as np
-import matplotlib.pyplot as plt
-
-plt.figure()
-plt.imshow(np.log10(data), origin=&#39;lower&#39;,aspect=&#39;auto&#39;,cmap=cm.Greys_r)
-plt.show()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&quot;find-and-trace-the-spectrum&quot;&gt;Find and trace the spectrum&lt;/h1&gt;
-&lt;p&gt;Examining the image above you should see the bright horizontal spectrum across the chip. We want to quantify this shape, tracing the flux across the chip along the wavelength dimension. If the target is bright and the spectrum is not too curved, this should be pretty simple! If there are multiple objects on the slit (multiple bright horizontal streaks in the image) then you want to select the target manually (&lt;code&gt;interac=True&lt;/code&gt;). &lt;/p&gt;
-
-&lt;p&gt;Set &lt;code&gt;display=True&lt;/code&gt; to see the trace over-plotted on the image. Make sure it doesn’t wander. If it’s not accurate enough, adjust the number of steps. For low Signal/Noise images, sometimes you have to use small values like &lt;code&gt;nsteps=7&lt;/code&gt; to trace the spectrum.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# trace the science image
-trace = pydis.ap_trace(data, fmask=fmask_out, nsteps=50, interac=False, display=True)
-
-# trace the flux standard image
-stdtrace = pydis.ap_trace(stddata, fmask=fmask_out, nsteps=50, interac=False, display=True)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now we extract the observed spectrum along this trace, for both the reduced object and the flux standard pydis. The result is a 1-d spectrum made by summing up the flux in each column in a range of +/- the aperture width. The sky is determined by fitting a polynomial along the column in two regions near the trace. Important consideration: if you choose a large sky region, or separate it a lot from the aperture, the sky will not be a good fit. This is because the HeNeAr lines (lines of constant wavelength) are bent and not perfectly vertical on the chip. Thus it is good to choose a small sky region. The &lt;code&gt;skydeg&lt;/code&gt; parameter is the polynomial order to fit between the sky regions in each column. The default is &lt;code&gt;skydeg=0&lt;/code&gt;, which is simply a median. A sky value at each pixel along the trace is returned. This routine also computes a flux error at each pixel along the trace.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;ext_spec, sky, fluxerr = pydis.ap_extract(data, trace, apwidth=5,skysep=1,
-                                    skywidth=7, skydeg=0)
-ext_std, stdsky, stderr = pydis.ap_extract(stddata, stdtrace, apwidth=5,
-                                     skysep=1, skywidth=7, skydeg=0)
-
-# subtract the sky from the 1-d spectrum
-flux_red = (ext_spec - sky) # the reduced object
-flux_std = (ext_std - stdsky) # the reduced flux standard
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You could make sure these values for the aperture and sky regions were sensible by plotting the image with the lines overlaid:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;xbins = np.arange(data.shape[1])
-
-plt.figure()
-plt.imshow(np.log10(data), origin=&#39;lower&#39;,aspect=&#39;auto&#39;,cmap=cm.Greys_r)
-
-# the trace
-plt.plot(xbins, trace,&#39;b&#39;,lw=1)
-
-# the aperture
-plt.plot(xbins, trace-apwidth,&#39;r&#39;,lw=1)
-plt.plot(xbins, trace+apwidth,&#39;r&#39;,lw=1)
-
-# the sky regions
-plt.plot(xbins, trace-apwidth-skysep,&#39;g&#39;,lw=1)
-plt.plot(xbins, trace-apwidth-skysep-skywidth,&#39;g&#39;,lw=1)
-plt.plot(xbins, trace+apwidth+skysep,&#39;g&#39;,lw=1)
-plt.plot(xbins, trace+apwidth+skysep+skywidth,&#39;g&#39;,lw=1)
-
-plt.title(&#39;(with trace, aperture, and sky regions)&#39;)
-plt.show()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&quot;calibrate-the-spectrum&quot;&gt;Calibrate the spectrum&lt;/h1&gt;
-&lt;p&gt;We have a raw 1-d spectrum now, with flux measured at each pixel along the x-axis of the image along the trace. However, we want to calibrate the x-axis to use the wavelength solution we created before. You probably want to use &lt;code&gt;mode=&#39;poly&#39;&lt;/code&gt;, which is the default and thus optional to write.&lt;/p&gt;
-
-&lt;p&gt;The spectrum itself is currently in units of counts/second, and we need to apply a wavelength dependent correction for the observed airmass. We’ll use the airmass file for APO included with &lt;em&gt;pyDIS&lt;/em&gt;. Note, this is different from the file that APO provided prior to April 2015 (an error in this file was noticed during the development of &lt;em&gt;pyDIS&lt;/em&gt;).&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# map the wavelength using the HeNeAr fit
-wfinal = pydis.mapwavelength(trace, wfit, mode=&#39;poly&#39;)
-wfinalstd = pydis.mapwavelength(stdtrace, wfit, mode=&#39;poly&#39;)
-
-# correct the object and flux std for airmass extinction
-flux_red_x = pydis.AirmassCor(wfinal, flux_red, airmass,
-                                airmass_file=&#39;apoextinct.dat&#39;)
-flux_std_x = pydis.AirmassCor(wfinalstd, flux_std, stdairmass,
-                                airmass_file=&#39;apoextinct.dat&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&quot;flux-calibration&quot;&gt;Flux calibration&lt;/h1&gt;
-&lt;p&gt;Now that we have the actual wavelength mapped to both the science target and the flux standard, and we’ve corrected them for their respective airmass, it’s time for the final step: flux calibration. This is done by comparing the flux standard observation to a library of standard stars. For &lt;em&gt;pyDIS&lt;/em&gt; we have hard-coded the IRAF library “spec50cal”. Any other standard could be put in this directory and used, or a different library could be used with a little hacking to the code if you’re brave or desperate. &lt;code&gt;DefFluxCal&lt;/code&gt; will try to avoid Balmer lines, but at present does not have a sophisticated interactive mode where you can delete bad points. Set &lt;code&gt;display=True&lt;/code&gt; in &lt;code&gt;DefFluxCal&lt;/code&gt; to see if the fit looks smooth and good and does not blow up at the edges.&lt;/p&gt;
-
-&lt;p&gt;The sensitivity function is computed for the standard star, and has units of (erg/s/cm2/A) / (counts/s/cm2/A). The final step is to apply this sensfunc to the science target, which simply resamples the sensfunc on to the exact wavelengths as the target and then multiplies the observed 1-d spectrum by the sensitivity function. Note &lt;em&gt;pyDIS&lt;/em&gt; works in flux units, not magnitude units used by IRAF. As a reality check, you can also apply the sensfunc back to the standard star spectrum to make sure it looks right! &lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sensfunc = pydis.DefFluxCal(wfinalstd, flux_std_x,
-                              stdstar=&#39;feige34&#39;, mode=&#39;spline&#39;)
-
-# final step in reduction, apply sensfunc
-ffinal,efinal = pydis.ApplyFluxCal(wfinal, flux_red_x, fluxerr, 
-                                    wfinalstd, sensfunc)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Our final parameters for the science target are now &lt;code&gt;(wfinal, ffinal, efinal)&lt;/code&gt;, the wavelength, flux, and flux error. Congratulations, you have fully reduced one spectrum in Python! If you’d like to view the result, you could do this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;plt.figure()
-# plt.plot(wfinal, ffinal)
-plt.errorbar(wfinal, ffinal, yerr=efinal)
-plt.xlabel(&#39;Wavelength&#39;)
-plt.ylabel(&#39;Flux&#39;)
-plt.title(spec)
-#plot within percentile limits
-plt.ylim( (np.percentile(ffinal,2),
-           np.percentile(ffinal,98)) )
-plt.show()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&quot;closing-thoughts&quot;&gt;Closing thoughts…&lt;/h1&gt;
-&lt;p&gt;This procedure replicates (sometimes poorly) IRAF functions. We are also skipping a couple lesser-used functions, such as the illumination correction. You should be plotting things every step of the way, always making sure it looks sensible. Crazy things can happen if you’re not careful…&lt;/p&gt;
-
-&lt;p&gt;The reduction script can be applied to many science targets from the same night, using the same calibration files and flux standards. In fact, this exact procedure is carried out in &lt;code&gt;autoreduce&lt;/code&gt;. &lt;/p&gt;
-
-&lt;p&gt;I would not recommend using calibrations from another night if possible. To get better wavelength calibrations, use a HeNeAr image taken right before or after the science target, or even a different HeNeAr for each science image. Future helper-scripts in &lt;em&gt;pyDIS&lt;/em&gt; will accommodate automatic solutions of multiple HeNeAr files.&lt;/p&gt;
+&lt;h2 id=&quot;look-at-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-version-of-this-guide&quot;&gt;Look at the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest version of this guide!&lt;/h2&gt;
 </description>
-        <pubDate>Mon, 13 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 13 Apr 2015 00:00:00 -0600</pubDate>
         <link>http://jradavenport.github.io/2015/04/13/spectra2.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/04/13/spectra2.html</guid>
         
@@ -234,17 +74,17 @@ plt.show()
     
       <item>
         <title>pyDIS: a Python-based longslit reduction package</title>
-        <description>&lt;p&gt;A lot of people talk a big game about the need for new and open software tools in science. &lt;/p&gt;
+        <description>&lt;p&gt;A lot of people talk a big game about the need for new and open software tools in science.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/4Y55NZH.png&quot; style=&quot;width: 700px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On my shelf are at &lt;em&gt;least&lt;/em&gt; 4 books that could teach you how to reduce photometric (imaging) data well. There are many tutorials for writing your own aperture photometry pipeline. I even wrote one myself with about &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl/blob/master/simplephot.pro&quot;&gt;500 lines of code&lt;/a&gt;! This data analysis problem is considered “easy”.&lt;/p&gt;
 
-&lt;p&gt;Most of these books, and most people who write simple photo-pipelines like mine, ignore spectroscopy. By adding the wavelength dimension (and losing at least 1 spatial dimension) we make the problem exponentially harder. I don’t know of a good book that walks you through this - if you have one, please send me the title so I can buy it! &lt;/p&gt;
+&lt;p&gt;Most of these books, and most people who write simple photo-pipelines like mine, ignore spectroscopy. By adding the wavelength dimension (and losing at least 1 spatial dimension) we make the problem exponentially harder. I don’t know of a good book that walks you through this - if you have one, please send me the title so I can buy it!&lt;/p&gt;
 
 &lt;p&gt;The best manual for CCD spectroscopy &lt;a href=&quot;http://iraf.noao.edu/iraf/ftp/iraf/docs/spect.ps.Z&quot;&gt;with IRAF is from 1992&lt;/a&gt;, and is seriously helpful. A good “theory” paper on CCD spectroscopy that I’ve used is &lt;a href=&quot;http://adsabs.harvard.edu/abs/1992ASPC...23..160W&quot;&gt;Wagner (1992)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In my experience, when a practitioner of astronomy wants to reduce spectroscopy, they first seek out another wizard who remembers the order of divine incantations to whisper to IRAF. Then they pray. Then they swear. &lt;/p&gt;
+&lt;p&gt;In my experience, when a practitioner of astronomy wants to reduce spectroscopy, they first seek out another wizard who remembers the order of divine incantations to whisper to IRAF. Then they pray. Then they swear.&lt;/p&gt;
 
 &lt;h2 id=&quot;so-whats-wrong-with-that&quot;&gt;So, what’s wrong with that?&lt;/h2&gt;
 
@@ -281,7 +121,7 @@ plt.show()
 
 &lt;p&gt;If you’re building a new general purpose instrument: please write a reduction pipeline.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 -0600</pubDate>
         <link>http://jradavenport.github.io/2015/04/01/spectra.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/04/01/spectra.html</guid>
         
@@ -296,7 +136,7 @@ plt.show()
 
 &lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-header.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A cornerstone of the graduate education and experience offered by the Astronomy Department is the grad foosball table. Generations of grad students have gathered around for countless games, and in doing so forming bonds of friendship and rivalry that will last the ages. &lt;/p&gt;
+&lt;p&gt;A cornerstone of the graduate education and experience offered by the Astronomy Department is the grad foosball table. Generations of grad students have gathered around for countless games, and in doing so forming bonds of friendship and rivalry that will last the ages.&lt;/p&gt;
 
 &lt;p&gt;After nearly 15 years of glorious play, our beloved table has started to show it’s age. Therefore we are reaching out to you for financial support. Help us replace the foosball table with one that will last another 15 years! Do it for the Qual studying stress relief, the w(h)ine time fueled match-ups, the afternoon frivolity… and most of all, do it for the next generation of grad students.&lt;/p&gt;
 
@@ -310,7 +150,7 @@ plt.show()
 
 &lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: We have placed the order for our new Tornado Tournament 3000. Many thanks to the current and former grad students, and the UW GPSS, for their support!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 10 Mar 2015 00:00:00 -0600</pubDate>
         <link>http://jradavenport.github.io/2015/03/10/foosball.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/03/10/foosball.html</guid>
         
@@ -330,7 +170,7 @@ plt.show()
 &lt;p&gt;For the full run-down, check out this post on my blog:
 &lt;a href=&quot;http://www.ifweassume.com/2015/01/making-quality-animations-in-idl.html&quot;&gt;&lt;strong&gt;If We Assume: Making Quality Animations in IDL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Feb 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 19 Feb 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/02/19/animations.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/02/19/animations.html</guid>
         
@@ -351,7 +191,7 @@ plt.show()
 
 &lt;iframe src=&quot;//player.vimeo.com/video/116912802?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;500&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/01/15/vis.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2015/01/15/vis.html</guid>
         
@@ -370,11 +210,11 @@ plt.show()
 
 &lt;p&gt;This study was reproduced at NAM 2014, and their excellent report is &lt;strong&gt;&lt;a href=&quot;http://astrogeo.oxfordjournals.org/content/55/6/6.8&quot;&gt;available online&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt; We are working on the analysis of data from AAS 225 currently. A paper will be posted to the arXiv and the AAS.org website this semester with our new results. One interesting preliminary result appears to be: if women ask the first question of a talk, women are &lt;em&gt;much&lt;/em&gt; more likely to ask additional questions! &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt; We are working on the analysis of data from AAS 225 currently. A paper will be posted to the arXiv and the AAS.org website this semester with our new results. One interesting preliminary result appears to be: if women ask the first question of a talk, women are &lt;em&gt;much&lt;/em&gt; more likely to ask additional questions!&lt;/p&gt;
 
 &lt;p&gt;Stay tuned for more!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 08 Nov 2014 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2014/11/08/gender.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/08/gender.html</guid>
         
@@ -391,7 +231,7 @@ plt.show()
 &lt;h3 id=&quot;the-problem&quot;&gt;The problem…&lt;/h3&gt;
 
 &lt;p&gt;&lt;img align=&quot;right&quot; src=&quot;http://jradavenport.github.io/assets/old.png&quot; /&gt;
-The design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper. &lt;/p&gt;
+The design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper.&lt;/p&gt;
 
 &lt;p&gt;Nearly all journals are changing to an online-only form of publication. This raises two important issues:&lt;/p&gt;
 
@@ -427,7 +267,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
   &lt;li&gt;discuss and create a new design for journal articles&lt;/li&gt;
   &lt;li&gt;hack together a really sloppy implementation of this design in LaTeX&lt;/li&gt;
   &lt;li&gt;take the sources files for an article formatted with &lt;a href=&quot;http://hea-www.harvard.edu/~alexey/emulateapj/&quot;&gt;emulateapj&lt;/a&gt; (probably from the arXiv) and apply this new design&lt;/li&gt;
-  &lt;li&gt;(time/skill permitting) format the article for the web as well. &lt;/li&gt;
+  &lt;li&gt;(time/skill permitting) format the article for the web as well.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I can sketch the design, but would love more people to discuss them with. Perhaps each person took a screenshot of an article or website they thought was a format inspiration? Design on a white board if possible&lt;/p&gt;
@@ -443,7 +283,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
   &lt;li&gt;https://www.authorea.com&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 07 Nov 2014 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 07 Nov 2014 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2014/11/07/elevate-apj.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/07/elevate-apj.html</guid>
         
@@ -480,7 +320,7 @@ The design for most journal articles in astronomy is a two-column, highly conden
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Thu, 30 Oct 2014 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 30 Oct 2014 00:00:00 -0600</pubDate>
         <link>http://jradavenport.github.io/2014/10/30/data-products.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/10/30/data-products.html</guid>
         
