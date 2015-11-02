@@ -24,6 +24,11 @@ The schematic figure below shows a number of stages/processes in stellar evoluti
 
 ![]({{ site.url }}/assets/age_mass_overview.png)
 
+Currently I am working to find every flare in the Kepler long- and short-cadence data. Stay tuned for flare rates on thousands of stars!
+
+![]({{ site.url }}/assets/flare_figure_sm.png)
+
+
 **2. How does stellar activity affect exoplanet habitability?**
 
 Below is a cartoon version of how the flare rate for main sequence stars may change as a function of stellar mass and age. Besides being a unique and powerful age indicator (above), studying stellar activity across the main sequence is critical for understanding the effects host have on their planets. Planet habitability may be greatly impacted by the occurrence rates during key formation phases.
