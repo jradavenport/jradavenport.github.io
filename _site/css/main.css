@@ -11,12 +11,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #fcfdfd;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -64,10 +64,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #3983E4;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #195eb7; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -175,7 +175,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #fdfdfd;
+      background-color: #fcfdfd;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
