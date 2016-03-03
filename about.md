@@ -13,4 +13,4 @@ My astronomy research interests include stellar activity, binaries, stellar popu
 
 Since 2012 I have run the data visualization and science blog, [If We Assume](http://www.ifweassume.com)
 
-I also love coffee.
+<i class="fa fa-coffee"></i> I also love coffee.
