@@ -3,15 +3,17 @@ layout: page
 
 ---
 
-<img align="left" src="{{ site.url }}/assets/davenport_head.JPG" hspace="40">
+
+<img align="left" src="{{ site.url }}/assets/davenport_head.JPG" hspace="60">
 
 
-I am a [NSF Astronomy and Astrophysics Postdoctoral Fellow](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5291) at [Western Washington University](http://www.wwu.edu/physics/index.shtml). Previously I was a PhD Candidate at the University of Washington. My research program focuses on studying time domain, large survey astronomy, with an emphasis on magnetically active stars in *Kepler*. For the latest results of my research see my [CV](http://goo.gl/rM1fb8) or [ADS page](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST).
+I am a <a href='https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5291'>
+NSF Astronomy and Astrophysics Postdoctoral Fellow</a> at Western Washington University. My research program focuses on studying time domain, large survey astronomy, with an emphasis currently on magnetically active stars in <em>Kepler</em>. For the latest results of my research see my CV, ADS page, or GitHub profile below.
 
-I am the author of the data science and visualization blog [**If We Assume**](http://www.ifweassume.com), which has received national and international [media coverage](http://www.ifweassume.com/p/press.html).
 
-<br>
 
-I am co-creating a new email list for sharing academic SETI research: [SETI.news](http://seti.news)
+I am the author of [**If We Assume**](http://www.ifweassume.com), a blog on data, science, and visualization
 
-For more information on my ongoing Gender in Astronomy Talks project, see [this page](http://jradavenport.github.io/2014/11/08/gender.html).
+Check out [SETI.news](http://seti.news), a new monthly email list for sharing academic SETI research I'm co-creating!
+
+For information on my ongoing Gender in Astronomy Talks project, see [this page](http://jradavenport.github.io/2014/11/08/gender.html).

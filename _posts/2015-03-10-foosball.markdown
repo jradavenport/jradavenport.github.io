@@ -4,13 +4,16 @@ layout: page
 
 ---
 
-## Petition for Support.
+<h2> Petition for Support. </h2>
 
-##Update: <span style="color:red;">We made it!</span>
+<h2> Update: <span style="color:red;">We made it!</span> </h2>
 
 ![]({{ site.url }}/assets/foos-header.JPG)
 
-A cornerstone of the graduate education and experience offered by the Astronomy Department is the grad foosball table. Generations of grad students have gathered around for countless games, and in doing so forming bonds of friendship and rivalry that will last the ages. 
+
+
+A cornerstone of the graduate education and experience offered by the Astronomy Department is the grad foosball table. Generations of grad students have gathered around for countless games, and in doing so forming bonds of friendship and rivalry that will last the ages.
+
 
 After nearly 15 years of glorious play, our beloved table has started to show it's age. Therefore we are reaching out to you for financial support. Help us replace the foosball table with one that will last another 15 years! Do it for the Qual studying stress relief, the w(h)ine time fueled match-ups, the afternoon frivolity... and most of all, do it for the next generation of grad students.
 
@@ -23,4 +26,4 @@ As an added incentive to support this grad student past time, we are offering ex
 ![]({{ site.url }}/assets/foos-names.png)
 
 
-*Update*: We have placed the order for our new Tornado Tournament 3000. Many thanks to the current and former grad students, and the UW GPSS, for their support!
+*Many thanks to the current and former grad students, and the UW GPSS, for their support!*

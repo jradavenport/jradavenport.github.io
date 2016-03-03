@@ -5,9 +5,9 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 25 Jan 2016 00:02:29 -0800</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 00:02:29 -0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 03 Mar 2016 00:12:32 -0800</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 00:12:32 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Organizing Your Citations</title>
@@ -130,9 +130,9 @@
     
       <item>
         <title>New UW Grad Foosball Table</title>
-        <description>&lt;h2 id=&quot;petition-for-support&quot;&gt;Petition for Support.&lt;/h2&gt;
+        <description>&lt;h2&gt; Petition for Support. &lt;/h2&gt;
 
-&lt;h2 id=&quot;update-span-stylecolorredwe-made-itspan&quot;&gt;Update: &lt;span style=&quot;color:red;&quot;&gt;We made it!&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt; Update: &lt;span style=&quot;color:red;&quot;&gt;We made it!&lt;/span&gt; &lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-header.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -148,7 +148,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-names.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: We have placed the order for our new Tornado Tournament 3000. Many thanks to the current and former grad students, and the UW GPSS, for their support!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Many thanks to the current and former grad students, and the UW GPSS, for their support!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/03/10/foosball.html</link>
@@ -179,7 +179,7 @@
     
       <item>
         <title>Research Visualizations (Jan 2015)</title>
-        <description>&lt;h3 id=&quot;here-are-some-visualizations-from-my-research-use-them-as-you-please-but-give-attribution&quot;&gt;Here are some visualizations from my research. Use them as you please, but give attribution.&lt;/h3&gt;
+        <description>&lt;p&gt;###Here are some visualizations from my research. Use them as you please, but give attribution.&lt;/p&gt;
 
 &lt;p&gt;Animated gif of starspot on rotating star (left) and resulting lightcurve (right)&lt;/p&gt;
 
@@ -206,7 +206,7 @@
 
 &lt;p&gt;I am very interested in extending this project to future AAS meetings, as well as other scientific conferences. If you are attending/organizing an upcoming conference and wish to collect data to assist with this project, please email me!&lt;/p&gt;
 
-&lt;h3 id=&quot;our-preliminary-report-from-aas-223-is-availablehttparxivorgabs14033091&quot;&gt;&lt;a href=&quot;http://arxiv.org/abs/1403.3091&quot;&gt;Our preliminary report from AAS 223 is available!&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;###&lt;a href=&quot;http://arxiv.org/abs/1403.3091&quot;&gt;Our preliminary report from AAS 223 is available!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This study was reproduced at NAM 2014, and their excellent report is &lt;strong&gt;&lt;a href=&quot;http://astrogeo.oxfordjournals.org/content/55/6/6.8&quot;&gt;available online&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
@@ -226,7 +226,7 @@
         <description>&lt;p&gt;&lt;em&gt;Taken from the README file of the &lt;a href=&quot;https://github.com/jradavenport/elevate-apj&quot;&gt;GitHub repo&lt;/a&gt;. Ping me if you’re interested in helping!&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;working-to-elevate-the-readability-and-design-of-astronomy-journal-articles&quot;&gt;Working to elevate the readability and design of astronomy journal articles.&lt;/h2&gt;
+&lt;p&gt;##Working to elevate the readability and design of astronomy journal articles.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-problem&quot;&gt;The problem…&lt;/h3&gt;
 
@@ -309,13 +309,13 @@ The design for most journal articles in astronomy is a two-column, highly conden
 &lt;h2 id=&quot;code-products&quot;&gt;Code Products&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;For the full-featured Python implementation of &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/cubehelix&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;For the full-featured Python implementation of &lt;code class=&quot;highlighter-rouge&quot;&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/cubehelix&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;For the latest verison of my useful IDL routines, including &lt;code&gt;contour_plus&lt;/code&gt; and &lt;code&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;For the latest verison of my useful IDL routines, including &lt;code class=&quot;highlighter-rouge&quot;&gt;contour_plus&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;For my IDL-based flare finding suite &lt;code&gt;FBEYE&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;For my IDL-based flare finding suite &lt;code class=&quot;highlighter-rouge&quot;&gt;FBEYE&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 

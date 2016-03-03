@@ -1,9 +1,11 @@
 ---
-title: Pages
+title: Posts
 layout: default
 permalink: /posts/
 
 ---
+
+**Here you'll find links to projects, short blog posts, and miscellaneous tips I've jotted down.**
 
 <div class="home">
 
@@ -12,11 +14,9 @@ permalink: /posts/
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-
-
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>
