@@ -13,6 +13,8 @@ The goal of this course is not to make you data scientists. Nor is it to make yo
 
 ## Planned Lessons
 
+Each lesson will point to a GitHub repository with notes, code, example data, etc. Students should submit their "homework" as Pull Requests.
+
 1. Tools of the trade
 2. Algorithm 1: Do something!
 3. Algorithm 2: Try to break your code

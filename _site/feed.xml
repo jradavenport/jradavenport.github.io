@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Apr 2016 17:01:47 -0700</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 17:01:47 -0700</lastBuildDate>
+    <pubDate>Fri, 01 Apr 2016 17:05:53 -0700</pubDate>
+    <lastBuildDate>Fri, 01 Apr 2016 17:05:53 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -18,6 +18,8 @@
 &lt;p&gt;The goal of this course is not to make you data scientists. Nor is it to make you highly skilled astronomers. Instead I hope to give you a broad overview of the content that exists, so that you are empowered to learn more! Each lesson will use actual modern astronomical data for teaching.&lt;/p&gt;
 
 &lt;h2 id=&quot;planned-lessons&quot;&gt;Planned Lessons&lt;/h2&gt;
+
+&lt;p&gt;Each lesson will point to a GitHub repository with notes, code, example data, etc. Students should submit their “homework” as Pull Requests.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Tools of the trade&lt;/li&gt;
