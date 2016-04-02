@@ -10,7 +10,7 @@ In 2014, with help from friends and volunteers, I undertook a unique study of th
 
 I am very interested in extending this project to future AAS meetings, as well as other scientific conferences. If you are attending/organizing an upcoming conference and wish to collect data to assist with this project, please email me!
 
-###[Our preliminary report from AAS 223 is available!](http://arxiv.org/abs/1403.3091)
+### [Our preliminary report from AAS 223 is available!](http://arxiv.org/abs/1403.3091)
 
 
 This study was reproduced at NAM 2014, and their excellent report is **[available online](http://astrogeo.oxfordjournals.org/content/55/6/6.8).**

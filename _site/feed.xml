@@ -5,9 +5,38 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Mar 2016 11:15:21 -0800</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 11:15:21 -0800</lastBuildDate>
+    <pubDate>Fri, 01 Apr 2016 17:01:47 -0700</pubDate>
+    <lastBuildDate>Fri, 01 Apr 2016 17:01:47 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>WWU Data Science Seminar</title>
+        <description>&lt;h2 id=&quot;spring-2016&quot;&gt;Spring 2016&lt;/h2&gt;
+
+&lt;p&gt;I am running a seminar this quarter on computational techniques for physics &amp;amp; astronomy undergraduates. This will be a series of short lectures and labs that demonstrate techniques, with optional homework “assignments”.&lt;/p&gt;
+
+&lt;p&gt;The goal of this course is not to make you data scientists. Nor is it to make you highly skilled astronomers. Instead I hope to give you a broad overview of the content that exists, so that you are empowered to learn more! Each lesson will use actual modern astronomical data for teaching.&lt;/p&gt;
+
+&lt;h2 id=&quot;planned-lessons&quot;&gt;Planned Lessons&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tools of the trade&lt;/li&gt;
+  &lt;li&gt;Algorithm 1: Do something!&lt;/li&gt;
+  &lt;li&gt;Algorithm 2: Try to break your code&lt;/li&gt;
+  &lt;li&gt;Data wrangling, file Input/Output&lt;/li&gt;
+  &lt;li&gt;Data visualization, what makes a “good” plot&lt;/li&gt;
+  &lt;li&gt;Fitting a model to data, making measurements&lt;/li&gt;
+  &lt;li&gt;Intro to machine learning&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;The development of this seminar is supported by the National Science Foundation&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+        <link>http://jradavenport.github.io/2016/03/02/seminar.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2016/03/02/seminar.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Organizing Your Citations</title>
@@ -206,7 +235,7 @@
 
 &lt;p&gt;I am very interested in extending this project to future AAS meetings, as well as other scientific conferences. If you are attending/organizing an upcoming conference and wish to collect data to assist with this project, please email me!&lt;/p&gt;
 
-&lt;p&gt;###&lt;a href=&quot;http://arxiv.org/abs/1403.3091&quot;&gt;Our preliminary report from AAS 223 is available!&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;our-preliminary-report-from-aas-223-is-availablehttparxivorgabs14033091&quot;&gt;&lt;a href=&quot;http://arxiv.org/abs/1403.3091&quot;&gt;Our preliminary report from AAS 223 is available!&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;This study was reproduced at NAM 2014, and their excellent report is &lt;strong&gt;&lt;a href=&quot;http://astrogeo.oxfordjournals.org/content/55/6/6.8&quot;&gt;available online&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
@@ -286,43 +315,6 @@ The design for most journal articles in astronomy is a two-column, highly conden
         <pubDate>Fri, 07 Nov 2014 00:00:00 -0800</pubDate>
         <link>http://jradavenport.github.io/2014/11/07/elevate-apj.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/07/elevate-apj.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Research/Data Products</title>
-        <description>&lt;h2 id=&quot;research-products&quot;&gt;Research Products&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014ApJ...797..122D&quot;&gt;Davenport et al. 2014&lt;/a&gt;: the analytic M-dwarf flare model for Kepler data is coded up in IDL &lt;a href=&quot;https://github.com/jradavenport/FBeye/blob/master/aflare.pro&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014MNRAS.440.3430D&quot;&gt;Davenport et al. 2014&lt;/a&gt;: The 10-dimensional stellar color locus, using &lt;em&gt;ugrizJHK&lt;/em&gt; and WISE bands 1-3. Full machine readable tables are &lt;a href=&quot;https://github.com/jradavenport/wise_locus&quot;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;From &lt;a href=&quot;http://adsabs.harvard.edu/abs/2012ApJ...748...58D&quot;&gt;Davenport et al. 2012&lt;/a&gt;: Predicted flare colors in SDSS and 2MASS filters for M0-M6 stars. Inlcudes IDL code, and save file, and NUV to IR spectral templates are &lt;a href=&quot;https://github.com/jradavenport/flare-grid&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;code-products&quot;&gt;Code Products&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;For the full-featured Python implementation of &lt;code class=&quot;highlighter-rouge&quot;&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/cubehelix&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For the latest verison of my useful IDL routines, including &lt;code class=&quot;highlighter-rouge&quot;&gt;contour_plus&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;cubehelix&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/jradavenport_idl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For my IDL-based flare finding suite &lt;code class=&quot;highlighter-rouge&quot;&gt;FBEYE&lt;/code&gt;, click &lt;a href=&quot;https://github.com/jradavenport/FBeye&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 30 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://jradavenport.github.io/2014/10/30/data-products.html</link>
-        <guid isPermaLink="true">http://jradavenport.github.io/2014/10/30/data-products.html</guid>
         
         
       </item>

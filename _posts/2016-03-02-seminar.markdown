@@ -1,0 +1,25 @@
+---
+title: WWU Data Science Seminar
+layout: page
+
+---
+## Spring 2016
+
+
+I am running a seminar this quarter on computational techniques for physics & astronomy undergraduates. This will be a series of short lectures and labs that demonstrate techniques, with optional homework "assignments".
+
+The goal of this course is not to make you data scientists. Nor is it to make you highly skilled astronomers. Instead I hope to give you a broad overview of the content that exists, so that you are empowered to learn more! Each lesson will use actual modern astronomical data for teaching.
+
+
+## Planned Lessons
+
+1. Tools of the trade
+2. Algorithm 1: Do something!
+3. Algorithm 2: Try to break your code
+4. Data wrangling, file Input/Output
+5. Data visualization, what makes a "good" plot
+6. Fitting a model to data, making measurements
+7. Intro to machine learning
+
+
+*The development of this seminar is supported by the National Science Foundation*
