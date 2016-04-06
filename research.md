@@ -15,7 +15,7 @@ My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/335
 
 **[Work by my student collaborators](http://jradavenport.github.io/students/)**
 
-**[A (partial) list of available research projects](http://jradavenport.github.io/project_ideas/)**
+**[A (partial) list of available research projects](http://jradavenport.github.io/projects/)**
 
 For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products).
 
