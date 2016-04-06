@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>A Step-by-Step Guide to 1D Spectroscopy in Python</title>
+    <title>James R. A. Davenport</title>
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jradavenport.github.io/2015/04/13/spectra2.html">
+    <link rel="canonical" href="http://jradavenport.github.io/project_ideas/">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -101,15 +101,97 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">A Step-by-Step Guide to 1D Spectroscopy in Python</h1>
+    <h1 class="post-title"></h1>
   </header>
 
   <article class="post-content">
-    <p>This guide is a rough draft explanation of how to reduce DIS data from start to finish with <em>pyDIS</em>. Note, this entire process is reproduced in the <a href="https://github.com/jradavenport/pydis/wiki/function:-autoreduce">autoreduce</a> helper function. In this simple example we’ll assume you have all the needed calibration files in the working directory, that you are on a linux/mac for a couple shell commands, and that there is only 1 science frame to analyze. We will only do the RED chip in this case. The procedure is identical for the BLUE chip, but due to different Signal/Noise or color of the source some parameters may need tweaking.</p>
+    <h1 id="research-project-ideas">Research Project Ideas</h1>
 
-<p>Because the code has been evolving, this guide has been moved. In a future version of this page I will have a complete guide including sample data and images…</p>
+<p>Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work on! I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you’d like to collaborate on, please reach out to me!</p>
 
-<h2 id="look-at-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-version-of-this-guide">Look at the <em>pyDIS</em> <a href="https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide">GitHub Wiki</a> for the latest version of this guide!</h2>
+<ul>
+  <li><strong>Recovering differential rotation from <em>Kepler</em> light curves</strong>
+    <ul>
+      <li>use machine learning to learn features in the periodogram that correlate with differential rotation</li>
+      <li>some more details are at <a href="http://astro.ifweassume.com//2015/11/14/diffrot-ml/">this blog post</a></li>
+    </ul>
+  </li>
+  <li><strong>Flux calibration of the TESS data</strong>
+    <ul>
+      <li>This should be done, but currently is not planned for the TESS full frame images.</li>
+      <li>some more details are at <a href="http://astro.ifweassume.com//2016/01/07/fluxcal-in-tess/">this blog post</a></li>
+    </ul>
+  </li>
+  <li><strong>Detailed Properties of Stellar Flares versus Spectral Type</strong>
+    <ul>
+      <li>Use flare sample from active stars in <em>Kepler</em></li>
+      <li>Look at classical flare morphology, like in <a href="http://adsabs.harvard.edu/abs/2014ApJ...797..122D">this paper</a></li>
+      <li>Look at details of complex flares, like in <a href="http://adsabs.harvard.edu/abs/2015IAUGA..2253851D">this paper</a></li>
+    </ul>
+  </li>
+  <li><strong>Could circumbinary exoplanets form very tight (contact) binary systems?</strong>
+    <ul>
+      <li>some shaky details for this idea <a href="http://astro.ifweassume.com//2015/12/15/planets-binaries/">are here</a></li>
+    </ul>
+  </li>
+  <li><strong>Project Dust Storm: Can we see the proper motions of dust within the Galaxy?</strong>
+    <ul>
+      <li>could we directly image (e.g. with ALMA) dust moving over a decade-long timeline? (I’m not sure how good ALMA’s astrometry is…)</li>
+      <li>could we imply clouds moving due to changes in the foreground dust extinction for background stars/objects over time?</li>
+      <li>Would be good to do order-of-magnitude calculation about spherical cloud of dust moving…</li>
+      <li>some more details of this longtime pet project <a href="http://astro.ifweassume.com//2015/12/13/duststorm/">are here</a></li>
+    </ul>
+  </li>
+  <li><strong>How many eclipsing binary stars do we expect to see in an open cluster?</strong>
+    <ul>
+      <li>A straight forward numerical question. Take all known probability distributions of stars/clusters/binaries, as well as observability constraints, and multiply them together.</li>
+      <li>compare to best known catalogs of eclipsing binaries in open clusters (e.g. M67). Do we get roughly the right number?</li>
+      <li>Can we improve constraint on eclipsing binary population statistics (e.g. period distribution) based on results of our forward modeling?</li>
+      <li>a few more details are in <a href="http://astro.ifweassume.com//2015/11/15/binaries-in-clusters/">this blog post</a></li>
+    </ul>
+  </li>
+  <li><strong>Variability studies of the <em>Kepler</em> Full Frame Images</strong>
+    <ul>
+      <li>working on getting funding for this idea</li>
+      <li>a few details from the AAS 227 Hack Day <a href="http://astro.ifweassume.com//2015/12/04/hackidea2016/">are here</a></li>
+      <li>a work-in-progress GitHub repo is <a href="https://github.com/jradavenport/FFIorBUST">here</a></li>
+    </ul>
+  </li>
+  <li><strong>Validating a weird short period Eclipsing Binary</strong>
+    <ul>
+      <li>I’ve got an object with data, and I think I know what it is, but need to analyze the data</li>
+      <li>would help to generate a full eclipsing binary model of the system using PHOEBE or similar</li>
+    </ul>
+  </li>
+  <li><strong>PyDIS: The Python-based long slit spectroscopy pipeline</strong>
+    <ul>
+      <li>I’m always looking for help on PyDIS! Especially testing, and writing more examples</li>
+      <li><a href="https://github.com/jradavenport/pydis">GitHub repo</a></li>
+      <li><a href="http://jradavenport.github.io/2015/04/01/spectra.html">project mantra</a></li>
+    </ul>
+  </li>
+  <li><strong>Gender in Astronomy Conferences</strong>
+    <ul>
+      <li>Ongoing project that needs help analyzing data!</li>
+      <li>Data is simple to read, basic plots and analysis are needed!</li>
+      <li>More info <a href="http://aasgender.wwu.edu">here</a></li>
+    </ul>
+  </li>
+  <li><strong>Tricycle: Looking for eclipsing binary systems with two rotation periods</strong>
+    <ul>
+      <li>“3 periods, 2 stars, 1 age”</li>
+      <li>Possibly interesting systems from standpoint of “gyrochronology”, as well as binary dynamics!</li>
+      <li>working with collaborators at UW (<a href="https://github.com/StellarArmy/tricycle">GitHub project</a>)</li>
+    </ul>
+  </li>
+  <li><strong>“Chemical cartography” using SDSS M dwarfs</strong>
+    <ul>
+      <li>given huge spectroscopic sample of M dwarfs from SDSS (and now LAMOST), can we use rough [Fe/H] measurements to trace abundances nearby?</li>
+      <li>can we re-cast these [Fe/H] measurements in to more useful relative line measurements, and/or use photometric colors?</li>
+      <li>I started working on this <a href="http://adsabs.harvard.edu/abs/2014AAS...22440404W">a few years ago</a>, but have lost steam.</li>
+    </ul>
+  </li>
+</ul>
 
   </article>
 

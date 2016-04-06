@@ -16,4 +16,4 @@ I am the author of [**If We Assume**](http://www.ifweassume.com), a blog on data
 
 Check out [SETI.news](http://seti.news), a new monthly email list for sharing academic SETI research I'm co-creating!
 
-For information on my ongoing Gender in Astronomy Talks project, see [this page](http://jradavenport.github.io/2014/11/08/gender.html).
+For information on my ongoing Gender in Astronomy Talks project, see [this page](http://aasgender.wwu.edu).
