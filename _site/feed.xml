@@ -5,13 +5,15 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Apr 2016 17:11:03 -0700</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 17:11:03 -0700</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2016 09:36:07 -0700</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2016 09:36:07 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>WWU Data Science Seminar</title>
         <description>&lt;h2 id=&quot;spring-2016&quot;&gt;Spring 2016&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;(Most) Tuesdays at 4pm in the Astro Lab&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I am running a seminar this quarter on computational techniques for physics &amp;amp; astronomy undergraduates. This will be a series of short lectures and labs that demonstrate techniques, with optional homework “assignments”.&lt;/p&gt;
 
@@ -30,6 +32,20 @@
   &lt;li&gt;Fitting a model to data, making measurements&lt;/li&gt;
   &lt;li&gt;Intro to machine learning&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&quot;links-for-class&quot;&gt;Links for class&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.continuum.io/downloads&quot;&gt;Anaconda&lt;/a&gt;, the awesome bundled Python install. &lt;strong&gt;required&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;, &lt;strong&gt;you will need an account here&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;you can install the &lt;a href=&quot;https://desktop.github.com&quot;&gt;GitHub desktop client&lt;/a&gt; if you don’t have git on your computer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.wwu.edu/fls/&quot;&gt;WWU Computer Science &lt;em&gt;Fraser Lecture Series&lt;/em&gt;&lt;/a&gt;: The Big Data Revolution in Human and Environmental Health&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The development of this seminar is supported by the National Science Foundation&lt;/em&gt;&lt;/p&gt;
 </description>

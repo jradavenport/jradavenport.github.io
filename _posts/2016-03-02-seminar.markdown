@@ -5,6 +5,7 @@ layout: page
 ---
 ## Spring 2016
 
+**(Most) Tuesdays at 4pm in the Astro Lab**
 
 I am running a seminar this quarter on computational techniques for physics & astronomy undergraduates. This will be a series of short lectures and labs that demonstrate techniques, with optional homework "assignments".
 
@@ -22,6 +23,16 @@ Each lesson will point to a GitHub repository with notes, code, example data, et
 5. Data visualization, what makes a "good" plot
 6. Fitting a model to data, making measurements
 7. Intro to machine learning
+
+
+## Links for class
+
+- [Anaconda](https://www.continuum.io/downloads), the awesome bundled Python install. **required**
+- [GitHub](http://github.com), **you will need an account here**
+	- you can install the [GitHub desktop client](https://desktop.github.com) if you don't have git on your computer
+- [WWU Computer Science *Fraser Lecture Series*](https://wp.wwu.edu/fls/): The Big Data Revolution in Human and Environmental Health
+
+<br/>
 
 
 *The development of this seminar is supported by the National Science Foundation*
