@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Apr 2016 09:36:07 -0700</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2016 09:36:07 -0700</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 11:59:47 -0700</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 11:59:47 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -40,6 +40,8 @@
   &lt;li&gt;&lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;, &lt;strong&gt;you will need an account here&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;you can install the &lt;a href=&quot;https://desktop.github.com&quot;&gt;GitHub desktop client&lt;/a&gt; if you don’t have git on your computer&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/stephtdouglas/teaching-git-and-github&quot;&gt;Notes&lt;/a&gt; from Stephanie Douglas’ lecture on Git and GitHub&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vallandingham.me/Quick_Git.html&quot;&gt;Really Quick Git&lt;/a&gt; by Jim Vallandingham, quick tips on setting up and using Git/GitHub&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://wp.wwu.edu/fls/&quot;&gt;WWU Computer Science &lt;em&gt;Fraser Lecture Series&lt;/em&gt;&lt;/a&gt;: The Big Data Revolution in Human and Environmental Health&lt;/li&gt;
