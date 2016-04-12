@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Apr 2016 11:59:47 -0700</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 11:59:47 -0700</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 15:18:26 -0700</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 15:18:26 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -24,7 +24,7 @@
 &lt;p&gt;Each lesson will point to a GitHub repository with notes, code, example data, etc. Students should submit their “homework” as Pull Requests.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Tools of the trade&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab1&quot;&gt;Tools of the trade&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Algorithm 1: Do something!&lt;/li&gt;
   &lt;li&gt;Algorithm 2: Try to break your code&lt;/li&gt;
   &lt;li&gt;Data wrangling, file Input/Output&lt;/li&gt;
