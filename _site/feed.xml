@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Apr 2016 15:18:26 -0700</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 15:18:26 -0700</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2016 10:42:28 -0700</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2016 10:42:28 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -25,7 +25,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab1&quot;&gt;Tools of the trade&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Algorithm 1: Do something!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab2&quot;&gt;Algorithm 1: Do something!&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Algorithm 2: Try to break your code&lt;/li&gt;
   &lt;li&gt;Data wrangling, file Input/Output&lt;/li&gt;
   &lt;li&gt;Data visualization, what makes a “good” plot&lt;/li&gt;
