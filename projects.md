@@ -33,6 +33,7 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 	- compare to best known catalogs of eclipsing binaries in open clusters (e.g. M67). Do we get roughly the right number?
 	- Can we improve constraint on eclipsing binary population statistics (e.g. period distribution) based on results of our forward modeling?
 	- a few more details are in [this blog post](http://astro.ifweassume.com//2015/11/15/binaries-in-clusters/)
+	- Kepler/K2 data for M67 is [now available](http://adsabs.harvard.edu/abs/2016MNRAS.459.1060G)
 - **Variability studies of the *Kepler* Full Frame Images**
 	- working on getting funding for this idea
 	- a few details from the AAS 227 Hack Day [are here](http://astro.ifweassume.com//2015/12/04/hackidea2016/)
