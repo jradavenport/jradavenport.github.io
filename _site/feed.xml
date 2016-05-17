@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 May 2016 15:12:57 -0700</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 15:12:57 -0700</lastBuildDate>
+    <pubDate>Tue, 17 May 2016 15:06:42 -0700</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 15:06:42 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -28,7 +28,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab2&quot;&gt;Algorithm 1: Do something!&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab3&quot;&gt;Algorithm 2: Try to break your code&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab4&quot;&gt;Data wrangling, file Input/Output&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Data visualization, what makes a “good” plot&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab5&quot;&gt;Data visualization, what makes a “good” plot&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Fitting a model to data, making measurements&lt;/li&gt;
   &lt;li&gt;Intro to machine learning&lt;/li&gt;
 &lt;/ol&gt;

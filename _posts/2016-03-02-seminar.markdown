@@ -20,7 +20,7 @@ Each lesson will point to a GitHub repository with notes, code, example data, et
 2. [Algorithm 1: Do something!](https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab2)
 3. [Algorithm 2: Try to break your code](https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab3)
 4. [Data wrangling, file Input/Output](https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab4)
-5. Data visualization, what makes a "good" plot
+5. [Data visualization, what makes a "good" plot](https://github.com/jradavenport/WWU-seminar-2016/tree/master/lab5)
 6. Fitting a model to data, making measurements
 7. Intro to machine learning
 
