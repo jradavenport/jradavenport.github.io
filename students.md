@@ -5,6 +5,8 @@ permalink: /students/
 
 ---
 
+![](assets/students2016.JPG)
+
 
 # Student Collaborators
 
