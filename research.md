@@ -11,6 +11,8 @@ My [MS thesis](http://adsabs.harvard.edu/abs/2010ApJ...711..559D) work was study
 
 My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/33558) involved studying flare properties and the evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover. 
 
+**[Preprints and works in progress](http://jradavenport.github.io/preprints)**
+
 **See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
 
 **[Work by my student collaborators](http://jradavenport.github.io/students/)**
