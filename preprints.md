@@ -6,8 +6,9 @@ permalink: /preprints/
 ---
 
 
-# Paper Preprints
+# Recent Papers and Preprints
 
-![]({{ site.url }}/assets/davenport_cs19_poster.png)
+![]({{ site.url }}/assets/davenport_flares_submitted.png)
 
-[Poster from Cool Stars 19]({{ site.url }}/assets/davenport_cs19_poster.pdf)
+[The Kepler Catalog of Stellar Flares]({{ site.url }}/assets/davenport_flares_submitted.pdf), Davenport (2016) *ApJ* Submitted
+
