@@ -5,9 +5,68 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Jul 2016 09:48:59 -0700</pubDate>
-    <lastBuildDate>Tue, 12 Jul 2016 09:48:59 -0700</lastBuildDate>
+    <pubDate>Wed, 24 Aug 2016 11:50:11 -0700</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2016 11:50:11 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Flares on Proxima Cen</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/proxima_header.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today a majorly exciting astronomical discovery was announced: a planet has been found around our &lt;a href=&quot;https://en.wikipedia.org/wiki/Proxima_Centauri&quot;&gt;nearest neighbor&lt;/a&gt;, and it’s named &lt;a href=&quot;http://www.nature.com/nature/journal/v536/n7617/full/nature19106.html&quot;&gt;&lt;strong&gt;Proxima b&lt;/strong&gt;&lt;/a&gt;. The planet is near Earth-mass, and orbiting right in the habitable zone for Proxima Cen – It’s a huge deal!&lt;/p&gt;
+
+&lt;p&gt;While I wasn’t involved with the discovery of Proxima b, I have been working with a team of other astronomers (led primarily by &lt;a href=&quot;http://www.davidkipping.co.uk/&quot;&gt;David Kipping&lt;/a&gt;) to study Proxima Cen. One byproduct of this work, which we are announcing today in conjunction with the Proxima b excitement, is a study of the flares from Proxima Cen. After coordinating with Guillem Anglada Escudé and the &lt;a href=&quot;https://twitter.com/pale_red_dot&quot;&gt;Pale Red Dot&lt;/a&gt; team, we’re releasing this work today because it provides an important look at the stellar environment that Proxima b orbits in. This is naturally a critical piece of the habitability question!&lt;/p&gt;
+
+&lt;p&gt;##Our Work&lt;/p&gt;
+
+&lt;p&gt;As many pundits and armchair astronomers will tell you, Proxima Cen is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Flare_star&quot;&gt;flare star&lt;/a&gt;, meaning it produces many high energy flares on its surface. These events are driven by the star’s magnetic field, and occur on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Solar_flare&quot;&gt;Sun too&lt;/a&gt;. Proxima Cen is a low mass star, called an M dwarf, which are known for sometimes exhibiting very high levels of flare activity.  M dwarf flares can produce much more X-ray and UV radiation than Solar flares. This radiation might be harmful for life, and a constant bombardment from it could even destroy a planet’s atmosphere. Ouch.&lt;/p&gt;
+
+&lt;p&gt;Our data come from &lt;a href=&quot;https://en.wikipedia.org/wiki/MOST_(satellite)&quot;&gt;MOST&lt;/a&gt;, a nifty &lt;em&gt;suitcase sized&lt;/em&gt; space telescope, which also happens to be Canada’s first space telescope! While the Hubble this ain’t, MOST is designed for pointing at bright stars and staring at them for long periods of time – perfect if you’re in the business of finding these randomly occurring flare events.&lt;/p&gt;
+
+&lt;p&gt;As expected, Proxima flares a lot (not as much as some other flare stars, mind you). In 37 days of monitoring data on Proxima we found more than 60 flares. These events have energies comparable to the larger end of Solar flares… but keep in mind Proxima is only 12% the size of the Sun! &lt;strong&gt;These flares can be so bright they can raise the total brightness of Proxima (in the visible light) by 20-50%!&lt;/strong&gt; Here’s a couple as examples from our data:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/bigflares.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If the Sun got 50% brighter for 5 or 10 minutes… that would be a very uncomfortable day.&lt;/p&gt;
+
+&lt;p&gt;See the characteristic shape of the flares? Very rapid rise, exponential decay. I found in a previous paper using Kepler that M dwarf flares typically have two phases of decay that are general among most all flare events. What’s interesting, though I don’t fully have my head around it yet: The example at Left of Proxima follows this 2-decay law, the example on the Right does not. Huh…&lt;/p&gt;
+
+&lt;p&gt;##The rate of flares on Proxima Cen&lt;/p&gt;
+
+&lt;p&gt;Stellar (and Solar) flares occur with a range of energies and durations. Typically we describe the “flare rate” as a &lt;a href=&quot;https://en.wikipedia.org/wiki/Power_law&quot;&gt;power law&lt;/a&gt; distribution, with infrequent large energy events, and tons of small ones. We see this on the Sun, and for basically every other star we’ve &lt;a href=&quot;https://arxiv.org/abs/1607.03494&quot;&gt;studied for flares&lt;/a&gt;. Proxima is no different, and shows a clear power law shape in the flare energy versus rate. Here is that result from our paper, with a few relevant energies highlighted:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/rate_fig.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The red line is the “power law” model. The key takeaways are both the high and low energy ends: small flares happen a lot on Proxima. While they don’t appear to produce a worrisome amount of constant UV or X-ray radiation, these small flares will (and have!) definitely made searches for any transiting Earth-mass exoplanets difficult. &lt;strong&gt;Proxima produces on average about 66 flares per day with similar amplitudes in visible light as an Earth-mass planet would block.&lt;/strong&gt; That’s frustrating!&lt;/p&gt;
+
+&lt;p&gt;On the large-energy flare end, we still don’t understand the full impact a &lt;a href=&quot;https://en.wikipedia.org/wiki/Superflare&quot;&gt;“superflare”&lt;/a&gt; would have on an Earth-like atmosphere, though there has been some great work on the subject (and much more is being done!) What is important for this star is that the newly discovered Proxima b is being subjected to a lot of these big flares. &lt;strong&gt;We estimate Proxima produces roughly 8 of these superflares per year.&lt;/strong&gt; If even only a few of these were to impact Proxima b, this might be very bad news for the atmosphere and anyone vacationing there… So more detailed models of how the atmosphere would truly respond (or even if it would survive) are needed, and thankfully smarter folks than me are working on it!&lt;/p&gt;
+
+&lt;p&gt;##The Future&lt;/p&gt;
+
+&lt;p&gt;Of course, in the near future everybody and their uncle will be studying Proxima, trying to learn more about the planet (e.g. it’s size, radius, maybe even the composition).  I believe this will soon produce a “paper flare”, with a huge rise and then exponential decay in the number of papers on the Proxima Cen system.&lt;/p&gt;
+
+&lt;p&gt;A less talked about aspect of this important low mass star is it’s rotation. Proxima rotates quite slowly,  83 days compared to ~25 days on the Sun. &lt;a href=&quot;https://arxiv.org/abs/1607.03494&quot;&gt;Typically&lt;/a&gt; we see an &lt;em&gt;inverse&lt;/em&gt; connection between rotation and flare rates, with short rotation period (fast spinning) stars showing higher flare rates. Since rotation probably helps drive the star’s magnetic field, this is thought to be an age effect: stars spin slower as they age (just like a child’s top spinning on a table), which also leads to lower flare rates as they get older. Proxima flies in the face of this assumption, and flares A LOT compared to its rotation period. Interesting!&lt;/p&gt;
+
+&lt;p&gt;Since we only have 37 days of data for Proxima, we couldn’t track the full rotation. But here’s what we caught:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/rotation.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This matches nicely with the less dense tracking (but over a longer time period) shown &lt;a href=&quot;http://arxiv.org/abs/1608.06291&quot;&gt;here&lt;/a&gt;. With the flurry of activity I expect to follow the announcement of Proxima b, we’ll hopefully get a TON of monitoring for Proxima. With this we could track the detailed spot sizes and positions over many rotation periods, and try to determine how long the spots &lt;a href=&quot;http://www.ifweassume.com/2014/04/starspots-on-kepler186.html&quot;&gt;live&lt;/a&gt;, and maybe something about their properties.&lt;/p&gt;
+
+&lt;p&gt;For our part, we’re still processing the MOST data, looking for any &lt;a href=&quot;https://www.youtube.com/watch?v=z5LVcfzRDI8&quot;&gt;sign of a transit&lt;/a&gt;. Results soon on that front!&lt;/p&gt;
+
+&lt;p&gt;Our paper (temporary link &lt;a href=&quot;https://dl.dropboxusercontent.com/u/47240764/davenport_proxima_flares.pdf&quot;&gt;here!&lt;/a&gt;) will appear tonight on the arXiv, and is submitted for review to the Astrophysical Journal Letters.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://westerntoday.wwu.edu/features/western-researcher-on-team-examining-the-impact-of-parent-star-on-newly-discovered-planet&quot;&gt;&lt;strong&gt;Checkout the Press Release on this work!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This work is supported by an NSF Astronomy and Astrophysics Postdoctoral Fellowship under award AST-1501418&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Aug 2016 00:00:00 -0700</pubDate>
+        <link>http://jradavenport.github.io/2016/08/24/proxima.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2016/08/24/proxima.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>WWU Data Science Seminar</title>
@@ -266,75 +325,6 @@
         <pubDate>Sat, 08 Nov 2014 00:00:00 -0800</pubDate>
         <link>http://jradavenport.github.io/2014/11/08/gender.html</link>
         <guid isPermaLink="true">http://jradavenport.github.io/2014/11/08/gender.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Project: Elevate-ApJ</title>
-        <description>&lt;p&gt;&lt;em&gt;Taken from the README file of the &lt;a href=&quot;https://github.com/jradavenport/elevate-apj&quot;&gt;GitHub repo&lt;/a&gt;. Ping me if you’re interested in helping!&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;##Working to elevate the readability and design of astronomy journal articles.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-problem&quot;&gt;The problem…&lt;/h3&gt;
-
-&lt;p&gt;&lt;img align=&quot;right&quot; src=&quot;http://jradavenport.github.io/assets/old.png&quot; /&gt;
-The design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper.&lt;/p&gt;
-
-&lt;p&gt;Nearly all journals are changing to an online-only form of publication. This raises two important issues:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;The web versions of these articles are difficult to read, and so most people avoid them and use the PDF versions instead.&lt;/li&gt;
-  &lt;li&gt;The PDF versions of the articles look great on paper, but are difficult to read on a computer screen due to their layout.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In effect journal articles are &lt;em&gt;not&lt;/em&gt; becoming online-only, they’re just outsourcing the printing job to their readers. &lt;strong&gt;Paper is still the best medium to read astronomy journal articles today due to the article layout.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;we-can-improve-this&quot;&gt;We can improve this!&lt;/h3&gt;
-
-&lt;p&gt;By updating the layout of journal articles we hope to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;increase use of web/PDF article versions on computers and tablet devices&lt;/li&gt;
-  &lt;li&gt;improve comprehension and scientific usefulness of articles themselves&lt;/li&gt;
-  &lt;li&gt;reduce use of paper, trees, ink, printer/photocopier maintenance…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To accomplish this we must:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;consider the screen size and shape of the devices people use.&lt;/li&gt;
-  &lt;li&gt;consider the human exerience with the article, top-to-bottom flow, avoiding unnecessary scrolling, etc.&lt;/li&gt;
-  &lt;li&gt;learn from the single-column layout/design of sites like medium.com, and just about every news website.&lt;/li&gt;
-  &lt;li&gt;make the PDF and web versions of articles as similar as possible.&lt;/li&gt;
-  &lt;li&gt;make figures/images, as well as tables, seamlessly integrated within the article.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;astronomy6-goalsneeds&quot;&gt;.astronomy6 Goals/Needs&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;discuss and create a new design for journal articles&lt;/li&gt;
-  &lt;li&gt;hack together a really sloppy implementation of this design in LaTeX&lt;/li&gt;
-  &lt;li&gt;take the sources files for an article formatted with &lt;a href=&quot;http://hea-www.harvard.edu/~alexey/emulateapj/&quot;&gt;emulateapj&lt;/a&gt; (probably from the arXiv) and apply this new design&lt;/li&gt;
-  &lt;li&gt;(time/skill permitting) format the article for the web as well.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I can sketch the design, but would love more people to discuss them with. Perhaps each person took a screenshot of an article or website they thought was a format inspiration? Design on a white board if possible&lt;/p&gt;
-
-&lt;p&gt;I can do some hacking in LaTeX, but other expertise/thoughts would be incredibly valuable. Should we start from the article class, or emulateapj package? This LaTeX design doesn’t have to be robust, but the primary goal is to create a demo PDF that is more pleasing to read on a computer/tablet.&lt;/p&gt;
-
-&lt;p&gt;To do the web version I need people who have skills. Should we try to use Markdown and MathJax? Generate a Jekyll/CSS/somethingelse template? Brute force?&lt;/p&gt;
-
-&lt;h3 id=&quot;resourceslinks&quot;&gt;Resources/Links&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;http://www.paulolyslager.com/optimal-text-layout-line-length/&lt;/li&gt;
-  &lt;li&gt;http://www.dyslexiefont.com&lt;/li&gt;
-  &lt;li&gt;https://www.authorea.com&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 07 Nov 2014 00:00:00 -0800</pubDate>
-        <link>http://jradavenport.github.io/2014/11/07/elevate-apj.html</link>
-        <guid isPermaLink="true">http://jradavenport.github.io/2014/11/07/elevate-apj.html</guid>
         
         
       </item>

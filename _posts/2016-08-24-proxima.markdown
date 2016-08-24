@@ -1,0 +1,59 @@
+---
+title: Flares on Proxima Cen
+layout: page
+
+---
+![]({{ site.url }}/assets/proxima_header.png)
+
+
+Today a majorly exciting astronomical discovery was announced: a planet has been found around our [nearest neighbor](https://en.wikipedia.org/wiki/Proxima_Centauri), and it's named [**Proxima b**](http://www.nature.com/nature/journal/v536/n7617/full/nature19106.html). The planet is near Earth-mass, and orbiting right in the habitable zone for Proxima Cen – It's a huge deal!
+
+While I wasn't involved with the discovery of Proxima b, I have been working with a team of other astronomers (led primarily by [David Kipping](http://www.davidkipping.co.uk/)) to study Proxima Cen. One byproduct of this work, which we are announcing today in conjunction with the Proxima b excitement, is a study of the flares from Proxima Cen. After coordinating with Guillem Anglada Escudé and the [Pale Red Dot](https://twitter.com/pale_red_dot) team, we're releasing this work today because it provides an important look at the stellar environment that Proxima b orbits in. This is naturally a critical piece of the habitability question!
+
+##Our Work
+
+As many pundits and armchair astronomers will tell you, Proxima Cen is a [flare star](https://en.wikipedia.org/wiki/Flare_star), meaning it produces many high energy flares on its surface. These events are driven by the star's magnetic field, and occur on the [Sun too](https://en.wikipedia.org/wiki/Solar_flare). Proxima Cen is a low mass star, called an M dwarf, which are known for sometimes exhibiting very high levels of flare activity.  M dwarf flares can produce much more X-ray and UV radiation than Solar flares. This radiation might be harmful for life, and a constant bombardment from it could even destroy a planet's atmosphere. Ouch.
+
+Our data come from [MOST](https://en.wikipedia.org/wiki/MOST_(satellite)), a nifty *suitcase sized* space telescope, which also happens to be Canada's first space telescope! While the Hubble this ain't, MOST is designed for pointing at bright stars and staring at them for long periods of time – perfect if you're in the business of finding these randomly occurring flare events.
+
+As expected, Proxima flares a lot (not as much as some other flare stars, mind you). In 37 days of monitoring data on Proxima we found more than 60 flares. These events have energies comparable to the larger end of Solar flares... but keep in mind Proxima is only 12% the size of the Sun! **These flares can be so bright they can raise the total brightness of Proxima (in the visible light) by 20-50%!** Here's a couple as examples from our data:
+
+![]({{ site.url }}/assets/bigflares.png)
+
+
+If the Sun got 50% brighter for 5 or 10 minutes... that would be a very uncomfortable day.
+
+See the characteristic shape of the flares? Very rapid rise, exponential decay. I found in a previous paper using Kepler that M dwarf flares typically have two phases of decay that are general among most all flare events. What's interesting, though I don't fully have my head around it yet: The example at Left of Proxima follows this 2-decay law, the example on the Right does not. Huh...
+
+
+##The rate of flares on Proxima Cen
+
+Stellar (and Solar) flares occur with a range of energies and durations. Typically we describe the "flare rate" as a [power law](https://en.wikipedia.org/wiki/Power_law) distribution, with infrequent large energy events, and tons of small ones. We see this on the Sun, and for basically every other star we've [studied for flares](https://arxiv.org/abs/1607.03494). Proxima is no different, and shows a clear power law shape in the flare energy versus rate. Here is that result from our paper, with a few relevant energies highlighted:
+
+![]({{ site.url }}/assets/rate_fig.png)
+
+
+The red line is the "power law" model. The key takeaways are both the high and low energy ends: small flares happen a lot on Proxima. While they don't appear to produce a worrisome amount of constant UV or X-ray radiation, these small flares will (and have!) definitely made searches for any transiting Earth-mass exoplanets difficult. **Proxima produces on average about 66 flares per day with similar amplitudes in visible light as an Earth-mass planet would block.** That's frustrating!
+
+On the large-energy flare end, we still don't understand the full impact a ["superflare"](https://en.wikipedia.org/wiki/Superflare) would have on an Earth-like atmosphere, though there has been some great work on the subject (and much more is being done!) What is important for this star is that the newly discovered Proxima b is being subjected to a lot of these big flares. **We estimate Proxima produces roughly 8 of these superflares per year.** If even only a few of these were to impact Proxima b, this might be very bad news for the atmosphere and anyone vacationing there... So more detailed models of how the atmosphere would truly respond (or even if it would survive) are needed, and thankfully smarter folks than me are working on it!
+
+
+##The Future
+
+Of course, in the near future everybody and their uncle will be studying Proxima, trying to learn more about the planet (e.g. it's size, radius, maybe even the composition).  I believe this will soon produce a "paper flare", with a huge rise and then exponential decay in the number of papers on the Proxima Cen system.
+
+A less talked about aspect of this important low mass star is it's rotation. Proxima rotates quite slowly,  83 days compared to ~25 days on the Sun. [Typically](https://arxiv.org/abs/1607.03494) we see an *inverse* connection between rotation and flare rates, with short rotation period (fast spinning) stars showing higher flare rates. Since rotation probably helps drive the star's magnetic field, this is thought to be an age effect: stars spin slower as they age (just like a child's top spinning on a table), which also leads to lower flare rates as they get older. Proxima flies in the face of this assumption, and flares A LOT compared to its rotation period. Interesting!
+
+Since we only have 37 days of data for Proxima, we couldn't track the full rotation. But here's what we caught:
+
+![]({{ site.url }}/assets/rotation.png)
+
+This matches nicely with the less dense tracking (but over a longer time period) shown [here](http://arxiv.org/abs/1608.06291). With the flurry of activity I expect to follow the announcement of Proxima b, we'll hopefully get a TON of monitoring for Proxima. With this we could track the detailed spot sizes and positions over many rotation periods, and try to determine how long the spots [live](http://www.ifweassume.com/2014/04/starspots-on-kepler186.html), and maybe something about their properties.
+
+For our part, we're still processing the MOST data, looking for any [sign of a transit](https://www.youtube.com/watch?v=z5LVcfzRDI8). Results soon on that front!
+
+Our paper (temporary link [here!](https://dl.dropboxusercontent.com/u/47240764/davenport_proxima_flares.pdf)) will appear tonight on the arXiv, and is submitted for review to the Astrophysical Journal Letters.
+
+[**Checkout the Press Release on this work!**](https://westerntoday.wwu.edu/features/western-researcher-on-team-examining-the-impact-of-parent-star-on-newly-discovered-planet)
+
+*This work is supported by an NSF Astronomy and Astrophysics Postdoctoral Fellowship under award AST-1501418*
