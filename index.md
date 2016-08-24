@@ -19,4 +19,4 @@ Check out [SETI.news](http://seti.news), a new monthly email list for sharing ac
 
 For information on my ongoing Gender in Astronomy Talks project, see [this page](http://aasgender.wwu.edu).
 
-For more info on **Flares on Proxima Cen**, see [this page]({{ site.url }}/2016/08/02/proxima.html)!
+For more info on **Flares on Proxima Cen**, see [this page]({{ site.url }}/2016/08/24/proxima.html)!
