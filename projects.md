@@ -11,6 +11,13 @@ permalink: /projects/
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work on! I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out to me!
 
 
+- **Searching for M dwarf flares in WISE**
+	- use the NEOWISE light curves
+	- pick M dwarfs using J-W2 color
+	- use best sampled light curves from polar regions with most visits
+	- also look at previously known flaring M dwarfs
+		- e.g (UV Ceti, AD Leo, YZ CMi, CN Leo, Proxima Cen...)
+	- some looking @ M dwarf variability with WISE [already](http://www.aanda.org/articles/aa/abs/2012/12/aa19783-12/aa19783-12.html)
 - **Recovering differential rotation from *Kepler* light curves**
 	- use machine learning to learn features in the periodogram that correlate with differential rotation
 	- some more details are at [this blog post](http://astro.ifweassume.com//2015/11/14/diffrot-ml/)
