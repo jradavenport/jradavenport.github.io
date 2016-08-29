@@ -52,7 +52,7 @@ This matches nicely with the less dense tracking (but over a longer time period)
 
 For our part, we're still processing the MOST data, looking for any [sign of a transit](https://www.youtube.com/watch?v=z5LVcfzRDI8). Results soon on that front!
 
-Our paper (temporary link [here!](https://dl.dropboxusercontent.com/u/47240764/davenport_proxima_flares.pdf)) will appear tonight on the arXiv, and is submitted for review to the Astrophysical Journal Letters.
+Our paper is available [on the arXiv](http://arxiv.org/abs/1608.06672), and is submitted for review to the Astrophysical Journal Letters.
 
 [**Checkout the Press Release on this work!**](https://westerntoday.wwu.edu/features/western-researcher-on-team-examining-the-impact-of-parent-star-on-newly-discovered-planet)
 
