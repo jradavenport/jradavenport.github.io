@@ -5,21 +5,22 @@ permalink: /research/
 
 ---
 
-My research interests generally involve large datasets of stars, time domain astronomy, and stellar populations. Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases to understand the history of our Galaxy. 
+My research interests generally involve large datasets of stars, time domain astronomy, and stellar populations. Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases to understand the history of our Galaxy.
 
-My [MS thesis](http://adsabs.harvard.edu/abs/2010ApJ...711..559D) work was studying the open cluster M67 with a powerful algorithm for separating the cluster population from the background field stars. 
+<!-- My [MS thesis](http://adsabs.harvard.edu/abs/2010ApJ...711..559D) work was studying the open cluster M67 with a powerful algorithm for separating the cluster population from the background field stars.
 
-My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/33558) involved studying flare properties and the evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover. 
-
-**[Preprints and works in progress](http://jradavenport.github.io/preprints)**
-
-**See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
+My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/33558) involved studying flare properties and the evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover.  -->
 
 **[Work by my student collaborators](http://jradavenport.github.io/students/)**
 
 **[A (partial) list of available research projects](http://jradavenport.github.io/projects/)**
 
-For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products).
+**[Preprints and works in progress](http://jradavenport.github.io/preprints)**
+
+**See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
+
+
+<!-- For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products). -->
 
 
 <br/>
@@ -33,9 +34,9 @@ The schematic figure below shows a number of stages/processes in stellar evoluti
 
 ![]({{ site.url }}/assets/age_mass_overview.png)
 
-Currently I am working to find every flare in the Kepler long- and short-cadence data. Stay tuned for flare rates on thousands of stars!
+<!-- Currently I am working to find every flare in the Kepler long- and short-cadence data. Stay tuned for flare rates on thousands of stars!
 
-![]({{ site.url }}/assets/flare_figure_sm.png)
+![]({{ site.url }}/assets/flare_figure_sm.png) -->
 
 <br/>
 
@@ -47,4 +48,3 @@ I emphasize this figure is only a cartoon, and does not have an accurate assumpt
 
 
 ![]({{ site.url }}/assets/flare_rate_model.png)
-
