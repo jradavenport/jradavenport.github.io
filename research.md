@@ -2,7 +2,7 @@
 layout: page
 title: Research Interests
 permalink: /research/
-
+show_in_nav: true
 ---
 
 My research interests generally involve large datasets of stars, time domain astronomy, and stellar populations. Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases to understand the history of our Galaxy.

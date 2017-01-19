@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
 permalink: /projects/
-
+show_in_nav: false
 ---
 
 
@@ -22,7 +21,7 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 	- use machine learning to learn features in the periodogram that correlate with differential rotation
 	- some more details are at [this blog post](http://astro.ifweassume.com//2015/11/14/diffrot-ml/)
 - **Flux calibration of the TESS data**
-	- This should be done, but currently is not planned for the TESS full frame images. 
+	- This should be done, but currently is not planned for the TESS full frame images.
 	- some more details are at [this blog post](http://astro.ifweassume.com//2016/01/07/fluxcal-in-tess/)
 - **Detailed Properties of Stellar Flares versus Spectral Type**
 	- Use flare sample from active stars in *Kepler*
@@ -32,11 +31,11 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 	- some shaky details for this idea [are here](http://astro.ifweassume.com//2015/12/15/planets-binaries/)
 - **Project Dust Storm: Can we see the proper motions of dust within the Galaxy?**
 	- could we directly image (e.g. with ALMA) dust moving over a decade-long timeline? (I'm not sure how good ALMA's astrometry is...)
-	- could we imply clouds moving due to changes in the foreground dust extinction for background stars/objects over time? 
+	- could we imply clouds moving due to changes in the foreground dust extinction for background stars/objects over time?
 	- Would be good to do order-of-magnitude calculation about spherical cloud of dust moving...
 	- some more details of this longtime pet project [are here](http://astro.ifweassume.com//2015/12/13/duststorm/)
 - **How many eclipsing binary stars do we expect to see in an open cluster?**
-	- A straight forward numerical question. Take all known probability distributions of stars/clusters/binaries, as well as observability constraints, and multiply them together. 
+	- A straight forward numerical question. Take all known probability distributions of stars/clusters/binaries, as well as observability constraints, and multiply them together.
 	- compare to best known catalogs of eclipsing binaries in open clusters (e.g. M67). Do we get roughly the right number?
 	- Can we improve constraint on eclipsing binary population statistics (e.g. period distribution) based on results of our forward modeling?
 	- a few more details are in [this blog post](http://astro.ifweassume.com//2015/11/15/binaries-in-clusters/)

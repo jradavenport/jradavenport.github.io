@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /preprints/
-hidden: true
+show_in_nav: false
 
 ---
 

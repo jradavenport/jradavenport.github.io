@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+show_in_nav: true
 ---
 ![]({{ site.url }}/assets/aboutme.jpg)
 

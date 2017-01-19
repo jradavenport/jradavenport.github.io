@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
 permalink: /students/
-
+show_in_nav: false
 ---
 
 ![]({{ site.url }}/assets/students2016.JPG)
