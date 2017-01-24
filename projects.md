@@ -9,7 +9,11 @@ show_in_nav: false
 
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work on! I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out to me!
 
-
+- **Eclipsing Binary Stars across entire galaxies**
+	- use data from OGLE survey, over 48k binaries in SMC/LMC
+	- look for variations in orbit period distribution
+	- compare to star formation histories of SMC/LMC, look for connection to age
+	- more thoughts on [this blog post](http://astro.ifweassume.com//2017/02/24/EB-LMC/)
 - **Searching for M dwarf flares in WISE**
 	- use the NEOWISE light curves
 	- pick M dwarfs using J-W2 color
