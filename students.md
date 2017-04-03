@@ -5,14 +5,19 @@ show_in_nav: false
 ---
 
 ![]({{ site.url }}/assets/students2016.JPG)
-
+*Me with my 2016 student collaborators after their excellent Scholar's Week presentation*
 
 # Student Collaborators
 
 I am fortunate to have a group of wonderful students working with me on a variety of topics. Here is an overview of their projects:
 
+## 2016-2017 Projects
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field.
 
-## 2015-2016 Projects 
+**[Zachery Laycock](https://github.com/ZacheryLaycock):**: Searching for stellar activity variations in Mt Wilson stars with GALEX.
+
+
+## 2015-2016 Projects
 **[Austin Boeck](https://github.com/austin-boeck):** Searching for connection between flares, starspots, and photometric flicker with *Kepler*.
 
 **[Jonathan Cornet](https://github.com/cornetj2):** Comparing flare rates between stars in *Kepler*.

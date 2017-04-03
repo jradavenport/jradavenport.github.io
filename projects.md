@@ -9,12 +9,21 @@ show_in_nav: false
 
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work on! I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out to me!
 
+- **Searching for "missing transits" in Kepler**
+	- this one's a bit harebrained...
+	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
+	- a potential SETI signal, according to a recent paper
+	- a more detailed explanation is on [this blog post](http://astro.ifweassume.com//2017/03/09/missing/)
+- **Stellar Activity variations using GALEX**
+	- can we see evidence of solar cycles or other long-term variability?
+	- involves searching for "non stationary" variability (e.g. not periodic within data span)
+	- some initial thoughts on [this blog post](http://astro.ifweassume.com//2017/03/06/galex/)
 - **Eclipsing Binary Stars across entire galaxies**
 	- use data from OGLE survey, over 48k binaries in SMC/LMC
 	- look for variations in orbit period distribution
 	- compare to star formation histories of SMC/LMC, look for connection to age
 	- more thoughts on [this blog post](http://astro.ifweassume.com//2017/02/24/EB-LMC/)
-- **Searching for M dwarf flares in WISE**
+- **Searching for M dwarf flares/variability in WISE**
 	- use the NEOWISE light curves
 	- pick M dwarfs using J-W2 color
 	- use best sampled light curves from polar regions with most visits
