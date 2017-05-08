@@ -11,20 +11,18 @@ My research interests generally involve large datasets of stars, time domain ast
 
 My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/33558) involved studying flare properties and the evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover.  -->
 
-**[Work by my student collaborators](http://jradavenport.github.io/students/)**
+- **[Available Projects](http://jradavenport.github.io/projects/):** A partial list of available projects for students or collaborators
+- **[astro.ifweassume.com](http://astro.ifweassume.com):** Notes on various research project ideas
+- **[Student Collaborators](http://jradavenport.github.io/students/):** Present and past student work
 
-**[A (partial) list of available research projects](http://jradavenport.github.io/projects/)**
 
-**[Preprints and works in progress](http://jradavenport.github.io/preprints)**
+<!-- **[Preprints and works in progress](http://jradavenport.github.io/preprints)** -->
 
 **See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
 
 
 <!-- For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products). -->
 
-
-<br/>
-<br/>
 
 <h3>Questions I am interested in include:</h3>
 
@@ -34,11 +32,6 @@ The schematic figure below shows a number of stages/processes in stellar evoluti
 
 ![]({{ site.url }}/assets/age_mass_overview.png)
 
-<!-- Currently I am working to find every flare in the Kepler long- and short-cadence data. Stay tuned for flare rates on thousands of stars!
-
-![]({{ site.url }}/assets/flare_figure_sm.png) -->
-
-<br/>
 
 **2. How does stellar activity affect exoplanet habitability?**
 
