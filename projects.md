@@ -1,11 +1,12 @@
 ---
 layout: page
+title: Research Project Ideas
 permalink: /projects/
 show_in_nav: false
 ---
 
 
-# Research Project Ideas
+<!-- # Research Project Ideas -->
 
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work on! I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out to me!
 

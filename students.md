@@ -1,10 +1,11 @@
 ---
 layout: page
+title: Student Collaborators
 permalink: /students/
 show_in_nav: false
 ---
 
-# Student Collaborators
+<!-- # Student Collaborators -->
 
 I am fortunate to have a group of wonderful students working with me on a variety of topics. Here is an overview of their projects:
 
