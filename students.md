@@ -14,7 +14,7 @@ I am fortunate to have a group of wonderful students working with me on a variet
 *Riley Clarke presenting his work at [WWU Scholars Week 2017](http://www.wwu.edu/scholars/poster.shtml)*
 
 ## 2016-2017 Projects
-**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field.
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field. **[Outstanding Poster Award Recipient](http://www.wwu.edu/scholars/awards2017.pdf)**, WWU 2017 Scholars Week
 
 **[Zachery Laycock](https://github.com/ZacheryLaycock):**: Searching for stellar activity variations in Mt Wilson stars with GALEX.
 
