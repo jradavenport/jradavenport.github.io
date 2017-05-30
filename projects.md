@@ -77,3 +77,10 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 	- given huge spectroscopic sample of M dwarfs from SDSS (and now LAMOST), can we use rough [Fe/H] measurements to trace abundances nearby?
 	- can we re-cast these [Fe/H] measurements in to more useful relative line measurements, and/or use photometric colors?
 	- I started working on this [a few years ago](http://adsabs.harvard.edu/abs/2014AAS...22440404W), but have lost steam.
+- **Lunar occultations of K2 targets**
+	- some ideas [here](http://astro.ifweassume.com//2017/02/25/occult/)
+- **Searching for "Boyajian's Star" analogs in SDSS**
+	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee)
+- **Unresolved binaries from Gaia**
+	- started sketching idea out on [GitHub](https://github.com/jradavenport/gaia_unresolved)
+	- L. Anderson & D. Hogg doing similar work w/ wide binaries, may be good overlap?
