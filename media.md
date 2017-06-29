@@ -52,7 +52,7 @@ Here is a list of some media coverage I have received for my astronomy research 
 <tr> <td><a href="http://www.nature.com/news/journal-publishes-200-word-papers-1.16925"><img src="https://2.bp.blogspot.com/-8rgfuwumA10/VgNF6N6igOI/AAAAAAAACVU/4_h2lPBxmMc/s1600/nature.png" /></a></td>
 <td><a href="https://upvoted.com/2015/12/06/redditors-data-clouds-show-which-us-presidential-candidate-is-the-wordiest/"><img src="https://4.bp.blogspot.com/-iSrZDBBVmrE/VmX3o3XSsXI/AAAAAAAACWY/ZnLxOdE-nlg/s1600/upvoted.png" /></a>
 </td>
-<td><a href="https://www.youtube.com/watch?v=gdp44A2uDYc"><img src="/assets/media_logos/bloomberg.png" /></a> </td>
+<td><a href="https://www.youtube.com/watch?v=gdp44A2uDYc"><img src="/assets/media_logos/bloomberg.png" width="320"/></a> </td>
 </tr>
 </tbody></table>
 
@@ -72,7 +72,7 @@ Here is a list of some media coverage I have received for my astronomy research 
 </td> </tr>
 </tbody> </table>
 <table><tbody>
-<tr><td><a href="http://sploid.gizmodo.com/the-best-selling-books-of-of-the-last-decade-visualized-1641794816"> <img src="https://3.bp.blogspot.com/-S4vRTKZQ3q8/VC3CPFohTAI/AAAAAAAACJY/7vfZRogK5Nw/s1600/sploid.png" /></a>
+<tr><td><a href="http://sploid.gizmodo.com/the-best-selling-books-of-of-the-last-decade-visualized-1641794816"> <img src="https://3.bp.blogspot.com/-S4vRTKZQ3q8/VC3CPFohTAI/AAAAAAAACJY/7vfZRogK5Nw/s1600/sploid.png" width="220"/></a>
 </td>
 
 <td><a href="http://knowmore.washingtonpost.com/2015/02/17/charting-the-shape-of-65000-pieces-of-art/"><img src="https://2.bp.blogspot.com/-xGb01kSXPjo/VOOJYM_riTI/AAAAAAAACMo/-O4-DeOxjXE/s1600/km.png" /></a>
