@@ -20,6 +20,6 @@ I am the author of [**If We Assume**](http://www.ifweassume.com), a blog on data
 
 Check out [SETI.news](http://seti.news), a new monthly email list for sharing academic SETI research I'm co-creating!
 
-For information on my ongoing Gender in Astronomy Talks project, see [this page](http://aasgender.wwu.edu).
+For information on my ongoing Gender in Astronomy Talks project, see [this page]("{{ site.url }}/gender_study").
 
 <!-- For more info on **Flares on Proxima Cen**, see [this page]({{ site.url }}/2016/08/24/proxima.html)! -->
