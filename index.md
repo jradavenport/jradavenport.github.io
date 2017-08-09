@@ -8,7 +8,9 @@ layout: page
 
 
 I am a <a href='https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5291'>
-NSF Astronomy and Astrophysics Postdoctoral Fellow</a> at Western Washington University. My research program focuses on studying time domain, large survey astronomy, with an emphasis currently on magnetically active stars in <em>Kepler</em>. For the latest results of my research see my CV, ADS page, or GitHub profile below.
+NSF Astronomy and Astrophysics Postdoctoral Fellow</a> at Western Washington University,
+and a [DIRAC](http://dirac.astro.washington.edu) Fellow at the University of Washington.
+My research program focuses on studying time domain, large survey astronomy, with an emphasis on magnetically active stars in surveys like <em>Kepler</em> and TESS.
 <!-- Here's a partial [list of available research projects](http://jradavenport.github.io/projects/) for students. -->
 
 
