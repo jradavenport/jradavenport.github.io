@@ -10,11 +10,27 @@ show_in_nav: false
 
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work on! I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out to me!
 
+- **Stellar Rotation with K2 (and TESS)**
+	- use Gaia to filter out "junk"
+	- working primarily with [Ruth Angus](http://ruthangus.github.io)
+	- some thoughts on sub-projects [here]((http://astro.ifweassume.com//2017/09/20/k2rot)
+- **Searching for Flare Rate Changes**
+	- The Sun has ~10x change in flare rate between "max" and "min" of Solar Cycle
+	- We have 4-year flare rates in Kepler that can be chopped into windows of time!
+	- Simple goal: look for any coherent changes
+	- have hand-selected ~20 stars to start search in, have high variance & high S/N in FFD plots.
+- **Searching for "Boyajian's Star" analogs in SDSS**
+	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee)
+- **Unresolved binaries from Gaia**
+	- started sketching idea out on [GitHub](https://github.com/jradavenport/gaia_unresolved)
+	- L. Anderson & D. Hogg doing similar work w/ wide binaries, may be good overlap?
 - **Searching for "missing transits" in Kepler**
 	- this one's a bit harebrained...
 	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
 	- a potential SETI signal, according to a recent paper
 	- a more detailed explanation is on [this blog post](http://astro.ifweassume.com//2017/03/09/missing/)
+- **Lunar occultations of K2 targets**
+	- some ideas [here](http://astro.ifweassume.com//2017/02/25/occult/)
 - **Stellar Activity variations using GALEX**
 	- can we see evidence of solar cycles or other long-term variability?
 	- involves searching for "non stationary" variability (e.g. not periodic within data span)
@@ -54,10 +70,6 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 	- Can we improve constraint on eclipsing binary population statistics (e.g. period distribution) based on results of our forward modeling?
 	- a few more details are in [this blog post](http://astro.ifweassume.com//2015/11/15/binaries-in-clusters/)
 	- Kepler/K2 data for M67 is [now available](http://adsabs.harvard.edu/abs/2016MNRAS.459.1060G)
-- **Variability studies of the *Kepler* Full Frame Images**
-	- working on getting funding for this idea
-	- a few details from the AAS 227 Hack Day [are here](http://astro.ifweassume.com//2015/12/04/hackidea2016/)
-	- a work-in-progress GitHub repo is [here](https://github.com/jradavenport/FFIorBUST)
 - **Validating a weird short period Eclipsing Binary**
 	- I've got an object with data, and I think I know what it is, but need to analyze the data
 	- would help to generate a full eclipsing binary model of the system using PHOEBE or similar
@@ -77,10 +89,3 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 	- given huge spectroscopic sample of M dwarfs from SDSS (and now LAMOST), can we use rough [Fe/H] measurements to trace abundances nearby?
 	- can we re-cast these [Fe/H] measurements in to more useful relative line measurements, and/or use photometric colors?
 	- I started working on this [a few years ago](http://adsabs.harvard.edu/abs/2014AAS...22440404W), but have lost steam.
-- **Lunar occultations of K2 targets**
-	- some ideas [here](http://astro.ifweassume.com//2017/02/25/occult/)
-- **Searching for "Boyajian's Star" analogs in SDSS**
-	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee)
-- **Unresolved binaries from Gaia**
-	- started sketching idea out on [GitHub](https://github.com/jradavenport/gaia_unresolved)
-	- L. Anderson & D. Hogg doing similar work w/ wide binaries, may be good overlap?
