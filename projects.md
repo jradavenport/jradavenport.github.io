@@ -13,7 +13,7 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 - **Stellar Rotation with K2 (and TESS)**
 	- use Gaia to filter out "junk"
 	- working primarily with [Ruth Angus](http://ruthangus.github.io)
-	- some thoughts on sub-projects [here]((http://astro.ifweassume.com//2017/09/20/k2rot)
+	- some thoughts on (many!) sub-projects [here](http://astro.ifweassume.com//2017/09/20/k2rot)
 - **Searching for Flare Rate Changes**
 	- The Sun has ~10x change in flare rate between "max" and "min" of Solar Cycle
 	- We have 4-year flare rates in Kepler that can be chopped into windows of time!
