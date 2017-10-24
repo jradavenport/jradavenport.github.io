@@ -10,15 +10,27 @@ show_in_nav: false
 I am fortunate to have a group of wonderful students working with me on a variety of topics. Here is an overview of their projects:
 
 
+
+## 2017-2018 Projects
+
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field.
+
+**[Jamel Adilia](https://github.com/jadilia):** Searching for rotation periods from eclipsing binaries in OGLE.
+
+**[Zachery Laycock](https://github.com/ZacheryLaycock):** Searching for stellar activity variations in Mt Wilson stars with GALEX.
+
+**[Matthew Scoggins](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars.
+
+
 ## 2016-2017 Projects
 
 ![]({{ site.url }}/assets/riley2017.jpg)
 
 *Riley Clarke presenting his work at [WWU Scholars Week 2017](http://www.wwu.edu/scholars/poster.shtml)*
 
-**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field. [Outstanding Poster Award](http://www.wwu.edu/scholars/awards2017.pdf), *WWU 2017 Scholars Week*
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field. [Outstanding Poster Award](http://www.wwu.edu/scholars/awards2017.pdf), *WWU 2017 Scholars Week*.
 
-**[Zachery Laycock](https://github.com/ZacheryLaycock):**: Searching for stellar activity variations in Mt Wilson stars with GALEX.
+**[Zachery Laycock](https://github.com/ZacheryLaycock):** Searching for stellar activity variations in Mt Wilson stars with GALEX.
 
 
 ## 2015-2016 Projects
