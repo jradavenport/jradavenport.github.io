@@ -13,7 +13,7 @@ I am fortunate to have a group of wonderful students working with me on a variet
 
 ## 2017-2018 Projects
 
-**[Riley Clarke](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field.
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* (Article submitted to ApJ!). Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process.
 
 **[Jamel Adilia](https://github.com/jadilia):** Searching for rotation periods from eclipsing binaries in OGLE.
 

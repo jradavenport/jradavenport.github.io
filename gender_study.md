@@ -25,7 +25,7 @@ Here are papers about this gender study in astronomy:
 - [4-years of AAS data in Nature Astronomy](http://adsabs.harvard.edu/abs/2017NatAs...1E.153S)
 
 
-## Other Studies
+## Studies in Other Fields
 
 - N. Telis (Stanford) has been taking very similar data for genetics conferences since 2012. More information on [this blog](https://telis.blog/2017/10/04/frequently-asked-questions-about-questions/)
 - A. Hinsley (Oxford) has published a paper on a very similar study carried out at a Conservation Biology conference. Paper is [here](https://doi.org/10.1371/journal.pone.0185534)
