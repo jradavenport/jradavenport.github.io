@@ -15,20 +15,21 @@ If you are attending/organizing an upcoming conference and wish to collect data 
 
 Project Homepage: [aasgender.wwu.edu](http://aasgender.wwu.edu)
 
-## Results
+## Astronomy-Specific Results
 
 Here are papers about this gender study in astronomy:
 
 - [The original 2014 report from AAS 223](http://arxiv.org/abs/1403.3091)
 - [Follow-up study from NAM 2014](http://astrogeo.oxfordjournals.org/content/55/6/6.8)
 - [Report from Cool Stars 18 and 19](https://arxiv.org/abs/1704.05260)
-- [4-years of AAS data in Nature Astronomy](http://adsabs.harvard.edu/abs/2017NatAs...1E.153S)
+- [4-years of AAS data, published in Nature Astronomy](http://adsabs.harvard.edu/abs/2017NatAs...1E.153S)
 
 
-## Studies in Other Fields
+## Similar Studies in Other Fields
 
 - N. Telis (Stanford) has been taking very similar data for genetics conferences since 2012. More information on [this blog](https://telis.blog/2017/10/04/frequently-asked-questions-about-questions/)
 - A. Hinsley (Oxford) has published a paper on a very similar study carried out at a Conservation Biology conference. Paper is [here](https://doi.org/10.1371/journal.pone.0185534)
+- A. Carter (Montpellier) has a large study of nearly 250 seminars/conferences [here](https://arxiv.org/abs/1711.10985)
 
 
 ## Resources
