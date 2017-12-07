@@ -10,17 +10,23 @@ show_in_nav: false
 I am fortunate to have a group of wonderful students working with me on a variety of topics. Here is an overview of their projects:
 
 
+<hr>
 
 ## 2017-2018 Projects
 
-**[Riley Clarke](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* (Article submitted to ApJ!). Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGLO1Yo3UQs?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 **[Jamel Adilia](https://github.com/jadilia):** Searching for rotation periods from eclipsing binaries in OGLE.
+
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* (Article submitted to ApJ!). Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process.
 
 **[Zachery Laycock](https://github.com/ZacheryLaycock):** Searching for stellar activity variations in Mt Wilson stars with GALEX.
 
 **[Matthew Scoggins](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars.
 
+
+<hr>
 
 ## 2016-2017 Projects
 
@@ -32,6 +38,8 @@ I am fortunate to have a group of wonderful students working with me on a variet
 
 **[Zachery Laycock](https://github.com/ZacheryLaycock):** Searching for stellar activity variations in Mt Wilson stars with GALEX.
 
+
+<hr>
 
 ## 2015-2016 Projects
 
