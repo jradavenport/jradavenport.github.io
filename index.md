@@ -24,6 +24,8 @@ For information on my ongoing Gender in Astronomy Talks project, see [this page]
 
 ### New:
 
-Kepler will take a photo of the Earth on Dec 10, 2017! Find out more at [WaveAtKepler.space](http://waveatkepler.space)
+Checkout the [daily VLOG](https://www.youtube.com/watch?v=B2ulDIswpOc&list=PLWutIaedlwKRzEn18GXYp8exnq-7oz1b9) I shot while at AAS 231 this year.
+
+<!-- Kepler will take a photo of the Earth on Dec 10, 2017! Find out more at [WaveAtKepler.space](http://waveatkepler.space) -->
 
 <!-- For more info on **Flares on Proxima Cen**, see [this page]({{ site.url }}/2016/08/24/proxima.html)! -->
