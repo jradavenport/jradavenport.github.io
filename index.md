@@ -17,15 +17,11 @@ My research program focuses on studying time domain, large survey astronomy, wit
 I am the author of [**If We Assume**](http://www.ifweassume.com), a blog on data, science, and visualization
 
 
-Check out [SETI.news](http://seti.news), a monthly email list for sharing academic SETI research!
+[SETI.news](http://seti.news): a monthly email list for sharing academic SETI research!
 
 For information on my ongoing Gender in Astronomy Talks project, see [this page]("{{ site.url }}/gender_study").
 
 
 ### New:
 
-Checkout the [daily VLOG](https://www.youtube.com/watch?v=B2ulDIswpOc&list=PLWutIaedlwKRzEn18GXYp8exnq-7oz1b9) I shot while at AAS 231 this year.
-
-<!-- Kepler will take a photo of the Earth on Dec 10, 2017! Find out more at [WaveAtKepler.space](http://waveatkepler.space) -->
-
-<!-- For more info on **Flares on Proxima Cen**, see [this page]({{ site.url }}/2016/08/24/proxima.html)! -->
+Checkout my [YouTube channel](https://www.youtube.com/jamesdavenport), featuring my weekly ASTRO Vlog showing life as an astronomer.

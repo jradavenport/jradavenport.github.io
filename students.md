@@ -17,14 +17,16 @@ I am fortunate to have a group of wonderful students working with me on a variet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RGLO1Yo3UQs?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-**[Jamel Adilia](https://github.com/jadilia):** Searching for rotation periods from eclipsing binaries in OGLE.
 
-**[Riley Clarke](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* (Article submitted to ApJ!). Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process.
+**[Riley Clarke](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* ([Paper](https://arxiv.org/abs/1712.04570) published in ApJ!). Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process.
 
-**[Zachery Laycock](https://github.com/ZacheryLaycock):** Searching for stellar activity variations in Mt Wilson stars with GALEX.
+**[Zachery Laycock](https://github.com/ZacheryLaycock):** Studying the optical and NUV variability of EK Dra with a 35 year light curve. Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". 
 
 **[Matthew Scoggins](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars.
 
+**[Michael Puig-Holzman](https://github.com/mpuighol/k2rotation):** Measuring rotation periods in K2 stars
+
+**[Jamel Adilia](https://github.com/jadilia):** Searching for rotation periods from eclipsing binaries in OGLE.
 
 <hr>
 
