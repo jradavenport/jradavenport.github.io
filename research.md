@@ -5,7 +5,8 @@ permalink: /research/
 show_in_nav: true
 ---
 
-My research interests generally involve large datasets of stars, time domain astronomy, and stellar populations. Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases to understand the history of our Galaxy.
+My research interests generally involve large datasets of stars, time domain astronomy, and stellar populations.
+Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases of these tracers to understand the history of our Galaxy.
 
 <!-- My [MS thesis](http://adsabs.harvard.edu/abs/2010ApJ...711..559D) work was studying the open cluster M67 with a powerful algorithm for separating the cluster population from the background field stars.
 
@@ -20,10 +21,12 @@ My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/335
 
 **See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.**
 
+**My projects all live on [GitHub](https://github.com/jradavenport), and I welcome collaboration!**
 
 <!-- For data/code products from my research, [see this page]({{ site.url }}/2014/10/30/data-products). -->
 
 
+<!--
 <h3>Questions I am interested in include:</h3>
 
 **1. What utility does the time domain offer studies of Galactic structure/evolution?**
@@ -41,3 +44,4 @@ I emphasize this figure is only a cartoon, and does not have an accurate assumpt
 
 
 ![]({{ site.url }}/assets/flare_rate_model.png)
+-->
