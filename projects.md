@@ -13,6 +13,12 @@ I am putting these ideas online in the hopes of attracting people to help work o
 
 If you see something you'd like to collaborate on, please reach out to me!
 
+- **SETI with ZTF**
+	- while optical surveys aren't the typical (or maybe ideal) data source for SETI work, we should mine them nonetheless.
+	- am building some broad support/interest from SETI community
+	- obvious future potential with LSST
+	- idea sketched out [here](http://astro.ifweassume.com//2018/05/21/seti/)
+	- definitely a paper worth writing...
 - **Stellar Rotation with K2 (and TESS)**
 	- use Gaia to filter out "junk"
 	- working primarily with [Ruth Angus](http://ruthangus.github.io)
