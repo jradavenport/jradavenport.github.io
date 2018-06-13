@@ -2,7 +2,7 @@
 title: Posts
 layout: default
 permalink: /posts/
-show_in_nav: true
+show_in_nav: false
 ---
 
 **Here you'll find links to projects, short blog posts, and miscellaneous tips I've jotted down.**

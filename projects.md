@@ -19,6 +19,7 @@ If you see something you'd like to collaborate on, please reach out to me!
 	- obvious future potential with LSST
 	- idea sketched out [here](http://astro.ifweassume.com//2018/05/21/seti/)
 	- definitely a paper worth writing...
+	- wrote a "Scialog" proposal about this recently with Nick Law
 - **Stellar Rotation with K2 (and TESS)**
 	- use Gaia to filter out "junk"
 	- working primarily with [Ruth Angus](http://ruthangus.github.io)
