@@ -5,9 +5,10 @@ permalink: /group/
 show_in_nav: false
 ---
 
-![]({{ site.url }}/assets/af.png)
+<img src="{{ site.url }}/assets/af.png" width="150">
 
-I am working to create my own research group. The goal is a human-centered approach to science, collaboration, and mentorship. We will study topics including (but not limited to) stellar activity, exoplanets, time-domian research, SETI, tool development, data visualization, and public engagement/outreach.
+I am in the process of starting a group meeting at UW Astronomy to discuss topics that I have interest and expertise in with other researchers, as well as to provide a structured venue for discussion and collaboration.
+My goal for the group is to develop a human-centered approach to science, collaboration, and mentorship. We will study topics including (but not limited to) stellar activity, exoplanets, time-domain research, SETI, tool development, data visualization, and public engagement/outreach.
 
 I have a placeholder [GitHub group](https://github.com/TheAstroFactory) now, and a working title: the Astro Factory
 

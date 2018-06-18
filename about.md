@@ -6,7 +6,9 @@ show_in_nav: true
 ---
 ![]({{ site.url }}/assets/aboutme.jpg)
 
-<!-- I am currently a NSF Astronomy and Astrophysics Postdoctoral Fellow at Western Washington University, working with [Professor Kevin Covey](http://myweb.facstaff.wwu.edu/~coveyk/). -->
+I am an outgoing <a href='https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5291'>
+NSF Astronomy and Astrophysics Postdoctoral Fellow</a> at Western Washington University,
+and a new Research Scientist in the [DIRAC Institute ](http://dirac.astro.washington.edu) at the University of Washington.
 
 I received my bachelors of science in physics and astronomy at the University of Washington, a masters of science in astronomy at San Diego State University, and a PhD in astronomy at the University of Washington. I have also worked as a telescope observer at Apache Point Observatory, and interned at Microsoft Research in Redmond, WA.
 
