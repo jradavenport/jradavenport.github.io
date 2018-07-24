@@ -13,7 +13,8 @@ In 2014, with help from friends and volunteers, I undertook a unique study of th
 
 If you are attending/organizing an upcoming conference and wish to collect data to assist with this project, please email me!
 
-Project Homepage: [aasgender.wwu.edu](http://aasgender.wwu.edu)
+**Project Homepage**: [astrogender.site](http://astrogender.site)
+(which redirects to the live webform during conferences, and to *this* page normally)
 
 ## Astronomy-Specific Results
 
