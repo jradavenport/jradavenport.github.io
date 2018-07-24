@@ -19,9 +19,9 @@ I am the author of [**If We Assume**](http://www.ifweassume.com), a blog on data
 
 [**SETI.news**](http://seti.news): a monthly email list for sharing academic SETI research!
 
-Information on my ongoing [**Gender in Astronomy Talks**]("{{ site.url }}/gender_study") study.
+Information on my ongoing [**Gender in Astronomy Talks**](http://jradavenport.github.io/gender_study/) study.
 
 
 ### New:
 
-<i class="fa fa-youtube"></i> Checkout my [**YouTube channel**](https://www.youtube.com/james-davenport), featuring my weekly ASTRO Vlog showing life as an astronomer.
+<i class="fa fa-youtube"></i> Checkout my [**YouTube channel**](https://www.youtube.com/james-davenport), featuring my weekly ASTRO VLOG showing life as an astronomer.
