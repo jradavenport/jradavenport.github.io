@@ -2,20 +2,35 @@
 layout: page
 title: Research Group
 permalink: /group/
-show_in_nav: false
+show_in_nav: true
 ---
 
 <img src="{{ site.url }}/assets/af.png" width="150">
 
-I am in the process of starting a group meeting at UW Astronomy to discuss topics that I have interest and expertise in with other researchers, as well as to provide a structured venue for discussion and collaboration.
-My goal for the group is to develop a human-centered approach to science, collaboration, and mentorship. We will study topics including (but not limited to) stellar activity, exoplanets, time-domain research, SETI, tool development, data visualization, and public engagement/outreach.
 
-I have a placeholder [GitHub group](https://github.com/TheAstroFactory) now, and a working title: the Astro Factory
+I manage a weekly "group un-meeting", which should be viewed as a continuous experiment in supporting my [stated values](https://arxiv.org/abs/1805.09963) as a practicing scientist. As such, the format is not strict, and will be revised by and for the needs of those attending. Topical areas  are also not strictly defined.
 
-We will have a charter or mission statement, and we will be explicit about mentioning it and updating it as needed.
+## Details
+Meetings are nominally each week for 1 hour: Mondays, 10AM, PAB 305 conference room.
 
-We will lower the bar to writing and publishing by broadening our scope for defining "publication", and making projects more fun and collaborative.
+**Monday morning?!** Yes. This meeting aims to be _aspirational_, rather than judgmental. What are you hoping to do or learn this week? How can we help hype you up? What support do you need? Never: justify your existence.
 
-We will all be involved in writing papers and grants. We will all have a website.
+## Values
 
-We will celebrate and document our process, our failures, and our victories.
+- I believe science is a **practice**. We should always be learning and changing our approach to reach the best outcomes.
+- I believe in "**Human Centered Project & Mentorship Design**"
+- We should strive for, and broadly define, **scholarship, creativity, and collaboration**
+- "Perfect is the enemy of the good" -[Voltaire](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+
+
+
+
+Practical Items:
+
+- We will "publish" as much as possible.
+- Side-projects, wild ideas, hacks, creativity are all encouraged.
+- We will all be involved in writing papers and grants.
+- Discuss careers and strategy openly and without judgement. 
+- We will all have a website.
+- We will celebrate and document our process, our failures, and our victories.
+- A placeholder [GitHub group](https://github.com/TheAstroFactory) we can use for branding if we like.
