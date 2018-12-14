@@ -7,7 +7,16 @@ show_in_nav: true
 
 Here is a list of some media coverage I have received for my astronomy research and data visualization work.
 
+
+<table><tbody>
+<tr>
+<td>
 <a href="http://www.fastcodesign.com/3063238/why-wont-apple-fix-the-iphones-one-huge-design-flaw"><img src="/assets/media_logos/fastcodesign.png" /></a>
+</td>
+<td>
+a href="https://www.geekwire.com/2018/alien-megastructure-forget-tabbys-star-kic8462852/"><img src="https://cdn.geekwire.com/wp-content/uploads/2015/02/GeekWire-logo.png" /></a>
+</td></tr>
+</tbody></table>
 
 <a href="http://www.natureworldnews.com/articles/27651/20160829/flares-proxima-b-star-affect-planet-habitability.htm">
 <img src="/assets/media_logos/nwnews.jpg"/></a>

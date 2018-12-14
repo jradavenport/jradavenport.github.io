@@ -8,14 +8,22 @@ show_in_nav: false
 <!-- # Student Collaborators -->
 
 I am fortunate to have a group of wonderful students working with me on a variety of topics.
-Here is an overview of their projects:
-
+This website is an overview (and brag sheet!) for many of their projects.
 
 <hr>
 
 ## 2018-2019 Projects
 
 **[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with various surveys
+
+
+**[David Fleming (UW)](https://depts.washington.edu/astron/profile/fleming-david/):** Binary Star Rotation & Tides
+
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 using Gaussian Processes. Related: [NASA ADAP 2017 project](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=600188/solicitationId=%7B9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD%7D/viewSolicitationDocument=1/ADAP17%20Approved%20Abstracts.pdf)
+
+**[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS Cycle 1. Related: [TESS GO11264](https://heasarc.gsfc.nasa.gov/docs/tess/data/approved-programs/G011264.txt)
+
+
 
 
 **[Courtney Klein (UW)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)) [Repo](https://github.com/courtk32/stellar_flares)
