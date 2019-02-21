@@ -14,9 +14,5 @@ My research program focuses on studying time domain, large survey astronomy, wit
 
 - I am the author of [**If We Assume**](http://www.ifweassume.com).
 - [**SETI.news**](http://seti.news), a monthly email list for sharing academic SETI research!
-- Information on my ongoing [**Gender in Astronomy Talks**](http://jradavenport.github.io/gender_study/) study.
-
-
-### New:
-
-Checkout my [**YouTube channel**](https://www.youtube.com/james-davenport) <i class="fa fa-youtube"></i>, featuring my weekly ASTRO VLOG showing life as an astronomer.
+- Checkout my [**YouTube channel**](https://www.youtube.com/james-davenport) <i class="fa fa-youtube"></i>, featuring my weekly ASTRO VLOG showing life as an astronomer.
+<!-- - Information on my ongoing [**Gender in Astronomy Talks**](http://jradavenport.github.io/gender_study/) study. -->
