@@ -14,10 +14,12 @@ This website is an overview (and brag sheet!) for many of their projects.
 
 ## 2018-2019 Projects
 
-**[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with various surveys
+**[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with TESS. ([Paper](https://arxiv.org/abs/1901.09930)) ([Repo](https://github.com/tzdwi/TESS)).
+Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with Gaia and WISE](https://doi.org/10.3847/2515-5172/ab11c9)"
 
+**[Lupita Tovar (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares))
 
-**[David Fleming (UW)](https://depts.washington.edu/astron/profile/fleming-david/):** Binary Star Rotation & Tides
+**[David Fleming (UW)](https://depts.washington.edu/astron/profile/fleming-david/):** Binary Star Rotation & Tides. ([Paper](http://adsabs.harvard.edu/abs/2017PASP..129j4502K))
 
 **[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 using Gaussian Processes. Related: [NASA ADAP 2017 project](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=600188/solicitationId=%7B9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD%7D/viewSolicitationDocument=1/ADAP17%20Approved%20Abstracts.pdf)
 
@@ -26,13 +28,13 @@ This website is an overview (and brag sheet!) for many of their projects.
 
 
 
-**[Courtney Klein (UW)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)) [Repo](https://github.com/courtk32/stellar_flares)
+**[Courtney Klein (UW)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)) ([Repo](https://github.com/courtk32/stellar_flares)). NSF GRFP 2019 recipient
 
-**[Zoë Bell (HMC)](https://github.com/ZoeHMC):** Rotation Periods in K2 stars (Summer student project)
+**[Zoë Bell (HMC)](https://github.com/ZoeHMC):** Rotation Periods in K2 stars (Summer student project, [AAS 233 Poster](http://adsabs.harvard.edu/abs/2019AAS...23346507B))
 
 **[Sam Quist (UW)](https://github.com/squisty):** Rotation Periods in K2 stars
 
-**[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. [Repo](https://github.com/mscoggs/flare_cycles)
+**[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. ([Repo](https://github.com/mscoggs/flare_cycles))
 
 
 <hr>
@@ -45,7 +47,7 @@ This website is an overview (and brag sheet!) for many of their projects.
 
 **[Riley Clarke (WWU)](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* ([Paper](https://arxiv.org/abs/1712.04570) published in ApJ!). Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process. **Riley is now a grad student at the [University of Delaware](http://web.physics.udel.edu/about/directory/graduate-student/riley-clarke)**
 
-**[Zachery Laycock (WWU)](https://github.com/ZacheryLaycock):** Studying the optical and NUV variability of EK Dra with a 35 year light curve. Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)".
+**[Zachery Laycock (WWU)](https://github.com/ZacheryLaycock):** Studying the optical and NUV variability of EK Dra with a 35 year light curve. Co-author on paper "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)".
 
 **[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars.
 
