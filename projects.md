@@ -12,14 +12,20 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 I am putting these ideas online in the hopes of attracting people to help work on them.
 
 If you see something you'd like to collaborate on, please reach out to me!
-
-- **SETI with ZTF**
+- **Searching for "Boyajian's Star" analogs in SDSS, or ZTF**
+	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee) for SDSS
+	- a great student project to start exploring ZTF!
+- **SETI with ZTF (& other surveys)**
 	- while optical surveys aren't the typical (or maybe ideal) data source for SETI work, we should mine them nonetheless.
 	- am building some broad support/interest from SETI community
 	- obvious future potential with LSST
 	- idea sketched out [here](http://astro.ifweassume.com//2018/05/21/seti/)
 	- definitely a paper worth writing...
 	- wrote a "Scialog" proposal about this recently with Nick Law
+- **Searching for "missing transits" in Kepler(/K2/TESS)**
+	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
+	- a potential SETI signal, according to a recent paper
+	- a more detailed explanation is on [this blog post](http://astro.ifweassume.com//2017/03/09/missing/)
 - **Stellar Rotation with K2 (and TESS)**
 	- use Gaia to filter out "junk"
 	- working primarily with [Ruth Angus](http://ruthangus.github.io)
@@ -29,34 +35,23 @@ If you see something you'd like to collaborate on, please reach out to me!
 	- We have 4-year flare rates in Kepler that can be chopped into windows of time!
 	- Simple goal: look for any coherent changes
 	- have hand-selected ~20 stars to start search in, have high variance & high S/N in FFD plots.
-- **Searching for "Boyajian's Star" analogs in SDSS, or ZTF**
-	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee) for SDSS
-	- test ideas/search w/ PTF?
 - **Unresolved binaries from Gaia**
 	- started sketching idea out on [GitHub](https://github.com/jradavenport/gaia_unresolved)
 	- L. Anderson & D. Hogg doing similar work w/ wide binaries.
 	- **SO** much structure in the CMD w/ Gaia DR2, there must be multiple PhD's to be done here...
-- **Searching for "missing transits" in Kepler(/K2/TESS)**
-	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
-	- a potential SETI signal, according to a recent paper
-	- a more detailed explanation is on [this blog post](http://astro.ifweassume.com//2017/03/09/missing/)
-	- **PyDIS: The Python-based long slit spectroscopy pipeline**
-		- Many programming and data analysis pieces available, big and small.
-		- [GitHub repo](https://github.com/jradavenport/pydis)
-		- [project mantra](http://jradavenport.github.io/2015/04/01/spectra.html)
-	- **Gender in Astronomy Conferences**
-		- Ongoing project that needs help analyzing data!
-		- Data is simple to read, basic plots and analysis are needed!
-		- More info [here](http://aasgender.wwu.edu)
-	- **Tricycle: Looking for eclipsing binary systems with two rotation periods**
-		- "3 periods, 2 stars, 1 age"
-		- Possibly interesting systems from standpoint of "gyrochronology", as well as binary dynamics!
-		- working with collaborators at UW ([GitHub project](https://github.com/StellarArmy/tricycle))
-		- so far has resulted in [Lurie et al. (2017)](https://arxiv.org/abs/1710.07339), and MORE NEW QUESTIONS!
-- **Stellar Activity variations using GALEX**
-	- can we see evidence of solar cycles or other long-term variability?
-	- involves searching for "non stationary" variability (e.g. not periodic within data span)
-	- some initial thoughts on [this blog post](http://astro.ifweassume.com//2017/03/06/galex/)
+- **PyDIS: The Python-based long slit spectroscopy pipeline**
+	- Many programming and data analysis pieces available, big and small.
+	- [GitHub repo](https://github.com/jradavenport/pydis)
+	- [project mantra](http://jradavenport.github.io/2015/04/01/spectra.html)
+<!-- - **Gender in Astronomy Conferences**
+	- Ongoing project that needs help analyzing data!
+	- Data is simple to read, basic plots and analysis are needed!
+	- More info [here](http://aasgender.wwu.edu) -->
+- **Tricycle: Looking for eclipsing binary systems with two rotation periods**
+	- "3 periods, 2 stars, 1 age"
+	- Possibly interesting systems from standpoint of "gyrochronology", as well as binary dynamics!
+	- working with collaborators at UW ([GitHub project](https://github.com/StellarArmy/tricycle))
+	- so far has resulted in [Lurie et al. (2017)](https://arxiv.org/abs/1710.07339), and MORE NEW QUESTIONS!
 - **Eclipsing Binary Stars across entire galaxies**
 	- use data from OGLE survey, over 48k binaries in SMC/LMC
 	- look for variations in orbit period distribution
@@ -82,16 +77,20 @@ If you see something you'd like to collaborate on, please reach out to me!
 - **Validating a weird short period Eclipsing Binary**
 	- I've got an object with data, and I think I know what it is, but need to analyze the data
 	- would help to generate a full eclipsing binary model of the system using PHOEBE or similar
-- **"Chemical cartography" using SDSS M dwarfs**
-	- given huge spectroscopic sample of M dwarfs from SDSS (and now LAMOST), can we use rough [Fe/H] measurements to trace abundances nearby?
-	- can we re-cast these [Fe/H] measurements in to more useful relative line measurements, and/or use photometric colors?
-	- I started working on this [a few years ago](http://adsabs.harvard.edu/abs/2014AAS...22440404W), but have lost steam...
-	- Now w/ Gaia we probably can say *even more* about this!
 
 
 
 Some thoughts I'm not actively pushing, but had listed at one point. Included for completeness... If these strike you as interesting, DO let me know!
 
+- **"Chemical cartography" using SDSS M dwarfs**
+	- given huge spectroscopic sample of M dwarfs from SDSS (and now LAMOST), can we use rough [Fe/H] measurements to trace abundances nearby?
+	- can we re-cast these [Fe/H] measurements in to more useful relative line measurements, and/or use photometric colors?
+	- I started working on this [a few years ago](http://adsabs.harvard.edu/abs/2014AAS...22440404W), but have lost steam...
+	- Now w/ Gaia we probably can say *even more* about this!
+- **Stellar Activity variations using GALEX**
+	- can we see evidence of solar cycles or other long-term variability?
+	- involves searching for "non stationary" variability (e.g. not periodic within data span)
+	- some initial thoughts on [this blog post](http://astro.ifweassume.com//2017/03/06/galex/)
 - **Project Dust Storm: Can we see the proper motions of dust within the Galaxy?**
 	- could we directly image (e.g. with ALMA) dust moving over a decade-long timeline? (I'm not sure how good ALMA's astrometry is...)
 	- could we imply clouds moving due to changes in the foreground dust extinction for background stars/objects over time?
