@@ -5,9 +5,9 @@
     <description></description>
     <link>http://jradavenport.github.io/</link>
     <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Apr 2019 10:27:08 -0700</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2019 10:27:08 -0700</lastBuildDate>
-    <generator>Jekyll v3.8.2</generator>
+    <pubDate>Tue, 11 Jun 2019 14:27:26 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2019 14:27:26 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Flares on Proxima Cen</title>
@@ -123,7 +123,7 @@
 
 &lt;p&gt;You’ll need to organize that library, and I’ve written a helpful tutorial about doing this using BibDesk on my blog. Check it out!&lt;/p&gt;
 
-&lt;h2 id=&quot;if-we-assume-how-i-cite&quot;&gt;&lt;a href=&quot;http://www.ifweassume.com/2015/09/how-i-cite.html&quot;&gt;If We Assume: How I Cite&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;if-we-assume-how-i-citehttpwwwifweassumecom201509how-i-citehtml&quot;&gt;&lt;a href=&quot;http://www.ifweassume.com/2015/09/how-i-cite.html&quot;&gt;If We Assume: How I Cite&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Fri, 04 Sep 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/09/04/bibdesk.html</link>
@@ -171,7 +171,7 @@
 
 &lt;p&gt;Because the code has been evolving, this guide has been moved. In a future version of this page I will have a complete guide including sample data and images…&lt;/p&gt;
 
-&lt;h2 id=&quot;look-at-the-pydis-github-wiki-for-the-latest-version-of-this-guide&quot;&gt;Look at the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest version of this guide!&lt;/h2&gt;
+&lt;h2 id=&quot;look-at-the-pydis-github-wikihttpsgithubcomjradavenportpydiswikimanual-reduction-guide-for-the-latest-version-of-this-guide&quot;&gt;Look at the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest version of this guide!&lt;/h2&gt;
 </description>
         <pubDate>Mon, 13 Apr 2015 00:00:00 -0700</pubDate>
         <link>http://jradavenport.github.io/2015/04/13/spectra2.html</link>
@@ -312,7 +312,7 @@
 
 &lt;p&gt;In 2014, with help from friends and volunteers, I undertook a unique study of the gender ratios present in conference talks. We gathered data on the gender of both speakers and questioners from over 270 talks at the 223rd AAS meeting in Washington DC. Our goal is to better understand how and when people ask questions at scientific conferences, and to help define best-practices for conferences to ensure everyone can participate equally&lt;/p&gt;
 
-&lt;h3 id=&quot;for-more-information-see-this-page&quot;&gt;For more information, see &lt;a href=&quot;http://jradavenport.github.io/gender_study&quot;&gt;this page&lt;/a&gt;.&lt;/h3&gt;
+&lt;h3 id=&quot;for-more-information-see-this-pagehttpjradavenportgithubiogenderstudy&quot;&gt;For more information, see &lt;a href=&quot;http://jradavenport.github.io/gender_study&quot;&gt;this page&lt;/a&gt;.&lt;/h3&gt;
 </description>
         <pubDate>Sat, 08 Nov 2014 00:00:00 -0800</pubDate>
         <link>http://jradavenport.github.io/2014/11/08/gender.html</link>
