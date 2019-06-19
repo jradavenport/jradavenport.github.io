@@ -9,8 +9,17 @@ Here is a list of some media coverage I have received for my astronomy research 
 
 
 
-<a href="http://www.washington.edu/news/2018/01/03/space-dust-not-aliens-two-uw-astronomers-assist-in-new-research-on-mysterious-star">
+<table><tbody>
+<tr>
+<td>
+<a href="https://behavioralscientist.org/who-asks-questions-and-what-it-tells-us/">
 <img src="/assets/media_logos/uwnews.png" width="320"/></a>
+</td>
+<td>
+<a href="http://www.washington.edu/news/2018/01/03/space-dust-not-aliens-two-uw-astronomers-assist-in-new-research-on-mysterious-star">
+<img src="/assets/media_logos/behavioral_scientist.png" /></a>
+</td></tr>
+</tbody></table>
 
 
 
