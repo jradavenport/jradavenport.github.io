@@ -12,20 +12,14 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 I am putting these ideas online in the hopes of attracting people to help work on them.
 
 If you see something you'd like to collaborate on, please reach out to me!
-- **Searching for "Boyajian's Star" analogs in SDSS, or ZTF**
+- **Searching for "Boyajian's Star" analogs in ZTF**
 	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee) for SDSS
 	- a great student project to start exploring ZTF!
-- **SETI with ZTF (& other surveys)**
-	- while optical surveys aren't the typical (or maybe ideal) data source for SETI work, we should mine them nonetheless.
-	- am building some broad support/interest from SETI community
-	- obvious future potential with LSST
-	- idea sketched out [here](http://astro.ifweassume.com//2018/05/21/seti/)
-	- definitely a paper worth writing...
-	- wrote a "Scialog" proposal about this recently with Nick Law
-- **Searching for "missing transits" in Kepler(/K2/TESS)**
-	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
-	- a potential SETI signal, according to a recent paper
-	- a more detailed explanation is on [this blog post](http://astro.ifweassume.com//2017/03/09/missing/)
+	- excellent material for a proposal!
+- **Finding Eclipsing Binaries in TESS**
+	- Collaborating with Tim Brandt (UCSB)
+	- have some funding from Scialog2019 to support a grad student
+	- details coming soon!
 - **Stellar Rotation with K2 (and TESS)**
 	- use Gaia to filter out "junk"
 	- working primarily with [Ruth Angus](http://ruthangus.github.io)
@@ -33,20 +27,27 @@ If you see something you'd like to collaborate on, please reach out to me!
 - **Searching for Flare Rate Changes**
 	- The Sun has ~10x change in flare rate between "max" and "min" of Solar Cycle
 	- We have 4-year flare rates in Kepler that can be chopped into windows of time!
+	- TESS gives 10-year baseline for some stars!!
 	- Simple goal: look for any coherent changes
-	- have hand-selected ~20 stars to start search in, have high variance & high S/N in FFD plots.
+- **SETI with ZTF (& other surveys)**
+	- while optical surveys aren't the typical (or maybe ideal) data source for SETI work, we should mine them nonetheless.
+	- am building some broad support/interest from SETI community
+	- obvious future potential with LSST
+	- idea sketched out [here](http://astro.ifweassume.com//2018/05/21/seti/)
+	- definitely a paper worth writing...
+	- wrote a "Scialog" proposal about this recently with Nick Law
+- **Creating a Python-based long slit spectroscopy pipeline for KOSMOS @ APO**
+	- Many programming and data analysis pieces available, big and small.
+	- [GitHub repo](https://github.com/jradavenport/pydis) for previous effort (PyDIS)
+	- [project mantra](http://jradavenport.github.io/2015/04/01/spectra.html)
+- **Searching for "missing transits" in Kepler(/K2/TESS)**
+	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
+	- a potential SETI signal, according to a recent paper
+	- a more detailed explanation is on [this blog post](http://astro.ifweassume.com//2017/03/09/missing/)
 - **Unresolved binaries from Gaia**
 	- started sketching idea out on [GitHub](https://github.com/jradavenport/gaia_unresolved)
 	- L. Anderson & D. Hogg doing similar work w/ wide binaries.
 	- **SO** much structure in the CMD w/ Gaia DR2, there must be multiple PhD's to be done here...
-- **PyDIS: The Python-based long slit spectroscopy pipeline**
-	- Many programming and data analysis pieces available, big and small.
-	- [GitHub repo](https://github.com/jradavenport/pydis)
-	- [project mantra](http://jradavenport.github.io/2015/04/01/spectra.html)
-<!-- - **Gender in Astronomy Conferences**
-	- Ongoing project that needs help analyzing data!
-	- Data is simple to read, basic plots and analysis are needed!
-	- More info [here](http://aasgender.wwu.edu) -->
 - **Tricycle: Looking for eclipsing binary systems with two rotation periods**
 	- "3 periods, 2 stars, 1 age"
 	- Possibly interesting systems from standpoint of "gyrochronology", as well as binary dynamics!
@@ -66,8 +67,7 @@ If you see something you'd like to collaborate on, please reach out to me!
 	- Look at classical flare morphology, like in [this paper](http://adsabs.harvard.edu/abs/2014ApJ...797..122D)
 	- Look at details of complex flares, like in [this paper](http://adsabs.harvard.edu/abs/2015IAUGA..2253851D)
 	- Modeling flares with new models/techniques (e.g. Gaussian Processes)
-	- Good fodder for a grant proposal.
-	- Related: Searching for QPPs in flares
+	- Related: Searching for QPPs in flares, modeling with Gaussian Processes
 - **How many eclipsing binary stars do we expect to see in an open cluster?**
 	- A straight forward numerical question. Take all known probability distributions of stars/clusters/binaries, as well as observability constraints, and multiply them together.
 	- compare to best known catalogs of eclipsing binaries in open clusters (e.g. M67). Do we get roughly the right number?
