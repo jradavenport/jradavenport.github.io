@@ -10,6 +10,7 @@ show_in_nav: false
 I am fortunate to have a group of wonderful students working with me on a variety of topics.
 This website is an overview (and brag sheet!) for many of their projects.
 
+## *Recent Student Collaborations*
 <hr>
 
 ## 2018-2019 Projects
@@ -30,8 +31,6 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 **[Courtney Klein (UW)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)) ([Repo](https://github.com/courtk32/stellar_flares)). NSF GRFP 2019 recipient
 
-**[Zoë Bell (HMC)](https://github.com/ZoeHMC):** Rotation Periods in K2 stars (Summer student project, [AAS 233 Poster](http://adsabs.harvard.edu/abs/2019AAS...23346507B))
-
 **[Sam Quist (UW)](https://github.com/squisty):** Rotation Periods in K2 stars
 
 **[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. ([Repo](https://github.com/mscoggs/flare_cycles))
@@ -50,6 +49,8 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 **[Zachery Laycock (WWU)](https://github.com/ZacheryLaycock):** Studying the optical and NUV variability of EK Dra with a 35 year light curve. Co-author on paper "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)".
 
 **[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars.
+
+**[Zoë Bell (HMC)](https://github.com/ZoeHMC):** Rotation Periods in K2 stars (Summer student project, [AAS 233 Poster](http://adsabs.harvard.edu/abs/2019AAS...23346507B))
 
 **[Michael Puig-Holzman (UW)](https://github.com/mpuighol/k2rotation):** Measuring rotation periods in K2 stars
 
@@ -81,3 +82,22 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 **[Jonathan Cornet (WWU)](https://github.com/cornetj2):** Comparing flare rates between stars in *Kepler*.
 
 **[Riley Clarke (WWU)](https://github.com/RileyWClarke):** Flare rates from wide binary stars in the *Kepler* field.
+
+
+<hr>
+
+## *Past Student Collaborations*
+
+**Tess Wilkenson (UW):** 2013 - 2015
+
+**Collin Kielty (UW):** 2012 - 2014
+
+**Tiffany Lin (UW):** 2012
+
+**Meagan Albright (UW):** 2011
+
+**Meghin Spencer (UW):** 2011
+
+**Michelle Vick (HMC):** 2011
+
+**Keaton Bell (UW):** 2011

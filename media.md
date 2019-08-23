@@ -8,6 +8,15 @@ show_in_nav: true
 Here is a list of some media coverage I have received for my astronomy research and data visualization work.
 
 
+<table><tbody>
+<tr>
+<td>
+<a href="https://themorningnews.org/post/wednesday-headlines-million-vlogger-baby/">
+<img src="/assets/media_logos/tmm.png" /></a>
+</td>
+</tr>
+</tbody></table>
+
 
 <table><tbody>
 <tr>
