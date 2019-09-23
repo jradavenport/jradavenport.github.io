@@ -12,7 +12,7 @@ I manage a weekly "group un-meeting", which should be viewed as a continuous exp
 
 
 ## Details
-Meetings are each week for 1 hour: Mondays, 10AM, PAB 305 conference room.
+Meetings are each week for 1 hour: Mondays, 11AM, PAB 305 conference room.
 
 **Monday morning?!** Yes. This meeting aims to be _aspirational_, rather than judgmental. What are you hoping to do or learn this week? How can we help hype you up? What support do you need? Never: justify your existence.
 
@@ -35,5 +35,5 @@ Practical Items:
 - We should "publish" as much as possible.
 - We will all be involved in writing papers and grants.
 - We will celebrate and document our process, our failures, and our victories.
-- There is an [email listserv](https://mailman11.u.washington.edu/mailman/listinfo/davenportungroup) to facilitate occasional communication 
+- There is an [email listserv](https://mailman11.u.washington.edu/mailman/listinfo/davenportungroup) to facilitate occasional communication
 - A placeholder [GitHub group](https://github.com/TheAstroFactory) we can use for branding if we like.
