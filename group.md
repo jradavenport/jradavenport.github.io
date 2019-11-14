@@ -7,6 +7,7 @@ show_in_nav: true
 
 <img src="{{ site.url }}/assets/af.png" width="150">
 
+For more on my research interests and available projects, see [this page.]({{ site.url }}/research)
 
 I manage a weekly "group un-meeting", which should be viewed as a continuous experiment in supporting my [stated values](https://arxiv.org/abs/1805.09963) as a practicing scientist. As such, the format is not strict, and will be revised by and for the needs of those attending. Topical areas  are also not strictly defined.
 

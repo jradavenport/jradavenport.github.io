@@ -12,8 +12,8 @@ Stars and stellar populations are the fundamental building-blocks of galaxies, a
 
 My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/33558) involved studying flare properties and the evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover.  -->
 
-- **[Student Collaborators](http://jradavenport.github.io/students/):** Present and past student work
-- **[Available Projects](http://jradavenport.github.io/projects/):** A partial list of available projects for students or collaborators
+- **[Student Collaborators]({{ site.url }}/students/):** Present and past student work
+- **[Available Projects]({{ site.url }}/projects/):** A partial list of available projects for students or collaborators
 - **[astro.ifweassume.com](http://astro.ifweassume.com):** Notes on various research project ideas
 
 

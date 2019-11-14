@@ -13,20 +13,28 @@ This website is an overview (and brag sheet!) for many of their projects.
 ## *Recent Student Collaborations*
 <hr>
 
+## 2019-2020 Projects
+
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares)) Co-author on paper "[10 Years of Stellar Activity for GJ 1243](https://github.com/jradavenport/gj1243_10yrs)"
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** Eclipsing Binaries in TESS. ([Repo](https://github.com/jbirky/tess_binaries))
+
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 & TESS using Gaussian Processes.
+
+<hr>
+
 ## 2018-2019 Projects
 
 **[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with TESS. ([Paper](https://arxiv.org/abs/1901.09930)) ([Repo](https://github.com/tzdwi/TESS)).
 Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with Gaia and WISE](https://doi.org/10.3847/2515-5172/ab11c9)"
 
-**[Lupita Tovar (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares))
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares))
 
 **[David Fleming (UW)](https://depts.washington.edu/astron/profile/fleming-david/):** Binary Star Rotation & Tides. ([Paper](http://adsabs.harvard.edu/abs/2017PASP..129j4502K))
 
-**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 using Gaussian Processes. Related: [NASA ADAP 2017 project](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=600188/solicitationId=%7B9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD%7D/viewSolicitationDocument=1/ADAP17%20Approved%20Abstracts.pdf)
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 using Gaussian Processes. Related: [NASA ADAP 2017](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=600188/solicitationId=%7B9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD%7D/viewSolicitationDocument=1/ADAP17%20Approved%20Abstracts.pdf)
 
 **[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS Cycle 1. Related: [TESS GO11264](https://heasarc.gsfc.nasa.gov/docs/tess/data/approved-programs/G011264.txt)
-
-
 
 
 **[Courtney Klein (UW)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)) ([Repo](https://github.com/courtk32/stellar_flares)). NSF GRFP 2019 recipient
@@ -44,7 +52,7 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RGLO1Yo3UQs?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-**[Riley Clarke (WWU)](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* ([Paper](https://arxiv.org/abs/1712.04570) published in ApJ!). Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process. **Riley is now a grad student at the [University of Delaware](http://web.physics.udel.edu/about/directory/graduate-student/riley-clarke)**
+**[Riley Clarke (WWU)](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* ([Paper](https://arxiv.org/abs/1712.04570) published in ApJ!). Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process ([repo](https://github.com/RileyWClarke/QPP-GP)). **Riley is now a grad student at the [University of Delaware](http://web.physics.udel.edu/about/directory/graduate-student/riley-clarke)**
 
 **[Zachery Laycock (WWU)](https://github.com/ZacheryLaycock):** Studying the optical and NUV variability of EK Dra with a 35 year light curve. Co-author on paper "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)".
 
