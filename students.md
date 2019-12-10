@@ -15,11 +15,15 @@ This website is an overview (and brag sheet!) for many of their projects.
 
 ## 2019-2020 Projects
 
-**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares)) Co-author on paper "[10 Years of Stellar Activity for GJ 1243](https://github.com/jradavenport/gj1243_10yrs)"
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow) Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares)) Co-author on paper "[10 Years of Stellar Activity for GJ 1243](https://github.com/jradavenport/gj1243_10yrs)"
 
-**[Jessica Birky (UW)](https://jbirky.github.io):** Eclipsing Binaries in TESS. ([Repo](https://github.com/jbirky/tess_binaries))
+**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow) Eclipsing Binaries in TESS. ([Repo](https://github.com/jbirky/tess_binaries))
+
+**[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with TESS & WISE.
 
 **[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 & TESS using Gaussian Processes.
+
+**[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS.
 
 <hr>
 
@@ -41,7 +45,7 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 **[Sam Quist (UW)](https://github.com/squisty):** Rotation Periods in K2 stars
 
-**[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. ([Repo](https://github.com/mscoggs/flare_cycles))
+**[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. ([Repo](https://github.com/mscoggs/flare_cycles)). ([RNAAS Article](https://ui.adsabs.harvard.edu/abs/2019RNAAS...3..137S))
 
 
 <hr>
@@ -96,6 +100,8 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 ## *Past Student Collaborations*
 
+**John Lurie (UW):** 2015-2017, [Paper on GJ 1245AB](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...95L/), [Paper on Tidal Synchronization](https://ui.adsabs.harvard.edu/abs/2017AJ....154..250L/)
+
 **Tess Wilkenson (UW):** 2013 - 2015
 
 **Collin Kielty (UW):** 2012 - 2014
@@ -108,4 +114,4 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 **Michelle Vick (HMC):** 2011
 
-**Keaton Bell (UW):** 2011
+**Keaton Bell (UW):** 2011, [Paper on Active M Dwarfs](https://ui.adsabs.harvard.edu/abs/2012PASP..124...14B)
