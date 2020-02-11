@@ -11,9 +11,19 @@ Here is a list of some media coverage I have received for my astronomy research 
 <table><tbody>
 <tr>
 <td>
+<a href="https://www.csmonitor.com/Science/2020/0211/Why-the-sun-s-mysteries-could-soon-be-revealed">
+<img src="/assets/media_logos/csm.png" /></a>
+</td>
+<td>
 <a href="https://www.space.com/tess-exoplanet-mission-studying-stars-too.html">
 <img src="/assets/media_logos/spacedotcom.png" /></a>
 </td>
+</tr>
+</tbody></table>
+
+
+<table><tbody>
+<tr>
 <td>
 <a href="https://themorningnews.org/post/wednesday-headlines-million-vlogger-baby/">
 <img src="/assets/media_logos/tmm.png" /></a>

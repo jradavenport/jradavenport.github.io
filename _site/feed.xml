@@ -3,15 +3,15 @@
   <channel>
     <title>James R. A. Davenport</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Feb 2020 10:29:52 -0800</pubDate>
-    <lastBuildDate>Mon, 10 Feb 2020 10:29:52 -0800</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://jradavenport.github.io/</link>
+    <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 11 Feb 2020 13:49:12 -0800</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2020 13:49:12 -0800</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
     
       <item>
         <title>Flares on Proxima Cen</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/proxima_header.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/proxima_header.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today a majorly exciting astronomical discovery was announced: a planet has been found around our &lt;a href=&quot;https://en.wikipedia.org/wiki/Proxima_Centauri&quot;&gt;nearest neighbor&lt;/a&gt;, and it’s named &lt;a href=&quot;http://www.nature.com/nature/journal/v536/n7617/full/nature19106.html&quot;&gt;&lt;strong&gt;Proxima b&lt;/strong&gt;&lt;/a&gt;. The planet is near Earth-mass, and orbiting right in the habitable zone for Proxima Cen – It’s a huge deal!&lt;/p&gt;
 
@@ -25,7 +25,7 @@
 
 &lt;p&gt;As expected, Proxima flares a lot (not as much as some other flare stars, mind you). In 37 days of monitoring data on Proxima we found more than 60 flares. These events have energies comparable to the larger end of Solar flares… but keep in mind Proxima is only 12% the size of the Sun! &lt;strong&gt;These flares can be so bright they can raise the total brightness of Proxima (in the visible light) by 20-50%!&lt;/strong&gt; Here’s a couple as examples from our data:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bigflares.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/bigflares.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If the Sun got 50% brighter for 5 or 10 minutes… that would be a very uncomfortable day.&lt;/p&gt;
 
@@ -35,7 +35,7 @@
 
 &lt;p&gt;Stellar (and Solar) flares occur with a range of energies and durations. Typically we describe the “flare rate” as a &lt;a href=&quot;https://en.wikipedia.org/wiki/Power_law&quot;&gt;power law&lt;/a&gt; distribution, with infrequent large energy events, and tons of small ones. We see this on the Sun, and for basically every other star we’ve &lt;a href=&quot;https://arxiv.org/abs/1607.03494&quot;&gt;studied for flares&lt;/a&gt;. Proxima is no different, and shows a clear power law shape in the flare energy versus rate. Here is that result from our paper, with a few relevant energies highlighted:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/rate_fig.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/rate_fig.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The red line is the “power law” model. The key takeaways are both the high and low energy ends: small flares happen a lot on Proxima. While they don’t appear to produce a worrisome amount of constant UV or X-ray radiation, these small flares will (and have!) definitely made searches for any transiting Earth-mass exoplanets difficult. &lt;strong&gt;Proxima produces on average about 66 flares per day with similar amplitudes in visible light as an Earth-mass planet would block.&lt;/strong&gt; That’s frustrating!&lt;/p&gt;
 
@@ -49,7 +49,7 @@
 
 &lt;p&gt;Since we only have 37 days of data for Proxima, we couldn’t track the full rotation. But here’s what we caught:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/rotation.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/rotation.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This matches nicely with the less dense tracking (but over a longer time period) shown &lt;a href=&quot;http://arxiv.org/abs/1608.06291&quot;&gt;here&lt;/a&gt;. With the flurry of activity I expect to follow the announcement of Proxima b, we’ll hopefully get a TON of monitoring for Proxima. With this we could track the detailed spot sizes and positions over many rotation periods, and try to determine how long the spots &lt;a href=&quot;http://www.ifweassume.com/2014/04/starspots-on-kepler186.html&quot;&gt;live&lt;/a&gt;, and maybe something about their properties.&lt;/p&gt;
 
@@ -62,8 +62,8 @@
 &lt;p&gt;&lt;em&gt;This work is supported by an NSF Astronomy and Astrophysics Postdoctoral Fellowship under award AST-1501418&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2016/08/24/proxima.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/24/proxima.html</guid>
+        <link>http://jradavenport.github.io/2016/08/24/proxima.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2016/08/24/proxima.html</guid>
         
         
       </item>
@@ -111,8 +111,8 @@
 &lt;p&gt;&lt;em&gt;The development of this seminar is supported by the National Science Foundation&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2016/03/02/seminar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/02/seminar.html</guid>
+        <link>http://jradavenport.github.io/2016/03/02/seminar.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2016/03/02/seminar.html</guid>
         
         
       </item>
@@ -126,15 +126,15 @@
 &lt;h2 id=&quot;if-we-assume-how-i-cite&quot;&gt;&lt;a href=&quot;http://www.ifweassume.com/2015/09/how-i-cite.html&quot;&gt;If We Assume: How I Cite&lt;/a&gt;&lt;/h2&gt;
 </description>
         <pubDate>Fri, 04 Sep 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015/09/04/bibdesk.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/09/04/bibdesk.html</guid>
+        <link>http://jradavenport.github.io/2015/09/04/bibdesk.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/09/04/bibdesk.html</guid>
         
         
       </item>
     
       <item>
         <title>CubeHelix</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/cubehelix.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/cubehelix.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In August of 2011 I stumbled across a paper about color schemes for use in astronomical images (&lt;a href=&quot;http://arxiv.org/abs/1108.5083&quot;&gt;Dave Green 2011&lt;/a&gt;). I immediately translated the included Fortran code into IDL for use in my own research, and became a &lt;a href=&quot;http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html&quot;&gt;vocal advocate&lt;/a&gt; for the use of “CubeHelix”.&lt;/p&gt;
 
@@ -159,8 +159,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 06 May 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015/05/06/cubehelix.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/05/06/cubehelix.html</guid>
+        <link>http://jradavenport.github.io/2015/05/06/cubehelix.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/05/06/cubehelix.html</guid>
         
         
       </item>
@@ -174,8 +174,8 @@
 &lt;h2 id=&quot;look-at-the-pydis-github-wiki-for-the-latest-version-of-this-guide&quot;&gt;Look at the &lt;em&gt;pyDIS&lt;/em&gt; &lt;a href=&quot;https://github.com/jradavenport/pydis/wiki/Manual-Reduction-Guide&quot;&gt;GitHub Wiki&lt;/a&gt; for the latest version of this guide!&lt;/h2&gt;
 </description>
         <pubDate>Mon, 13 Apr 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015/04/13/spectra2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/04/13/spectra2.html</guid>
+        <link>http://jradavenport.github.io/2015/04/13/spectra2.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/04/13/spectra2.html</guid>
         
         
       </item>
@@ -230,8 +230,8 @@
 &lt;p&gt;If you’re building a new general purpose instrument: please write a reduction pipeline.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015/04/01/spectra.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/04/01/spectra.html</guid>
+        <link>http://jradavenport.github.io/2015/04/01/spectra.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/04/01/spectra.html</guid>
         
         
       </item>
@@ -242,7 +242,7 @@
 
 &lt;h2&gt; Update: &lt;span style=&quot;color:red;&quot;&gt;We made it!&lt;/span&gt; &lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/foos-header.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-header.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A cornerstone of the graduate education and experience offered by the Astronomy Department is the grad foosball table. Generations of grad students have gathered around for countless games, and in doing so forming bonds of friendship and rivalry that will last the ages.&lt;/p&gt;
 
@@ -254,13 +254,13 @@
 
 &lt;p&gt;As an added incentive to support this grad student past time, we are offering exclusive naming rights to figures for any donors of $100 or more. You may pick any player, first come first served. Only 26 available! We will write names on the figures with permanent marker. Figures that are crossed out have already been reserved.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/foos-names.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/foos-names.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Many thanks to the current and former grad students, and the UW GPSS, for their support!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2015/03/10/foosball.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/03/10/foosball.html</guid>
+        <link>http://jradavenport.github.io/2015/03/10/foosball.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/03/10/foosball.html</guid>
         
         
       </item>
@@ -279,8 +279,8 @@
 &lt;a href=&quot;http://www.ifweassume.com/2015/01/making-quality-animations-in-idl.html&quot;&gt;&lt;strong&gt;If We Assume: Making Quality Animations in IDL&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 19 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015/02/19/animations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/02/19/animations.html</guid>
+        <link>http://jradavenport.github.io/2015/02/19/animations.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/02/19/animations.html</guid>
         
         
       </item>
@@ -300,23 +300,23 @@
 &lt;iframe src=&quot;//player.vimeo.com/video/116912802?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&quot; width=&quot;500&quot; height=&quot;500&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2015/01/15/vis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/01/15/vis.html</guid>
+        <link>http://jradavenport.github.io/2015/01/15/vis.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2015/01/15/vis.html</guid>
         
         
       </item>
     
       <item>
         <title>Study: Gender in Conference Talks</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/talks.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/talks.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In 2014, with help from friends and volunteers, I undertook a unique study of the gender ratios present in conference talks. We gathered data on the gender of both speakers and questioners from over 270 talks at the 223rd AAS meeting in Washington DC. Our goal is to better understand how and when people ask questions at scientific conferences, and to help define best-practices for conferences to ensure everyone can participate equally&lt;/p&gt;
 
-&lt;h3 id=&quot;for-more-information-see-this-page&quot;&gt;For more information, see &lt;a href=&quot;http://localhost:4000/gender_study&quot;&gt;this page&lt;/a&gt;.&lt;/h3&gt;
+&lt;h3 id=&quot;for-more-information-see-this-page&quot;&gt;For more information, see &lt;a href=&quot;http://jradavenport.github.io/gender_study&quot;&gt;this page&lt;/a&gt;.&lt;/h3&gt;
 </description>
         <pubDate>Sat, 08 Nov 2014 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2014/11/08/gender.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2014/11/08/gender.html</guid>
+        <link>http://jradavenport.github.io/2014/11/08/gender.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2014/11/08/gender.html</guid>
         
         
       </item>
