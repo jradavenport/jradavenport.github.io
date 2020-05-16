@@ -7,7 +7,7 @@ layout: page
 <img align="left" src="{{ site.url }}/assets/davenport_head.JPG" hspace="25" width="170">
 
 
-I am Research Scientist with the [DIRAC Institute ](http://dirac.astro.washington.edu) at the University of Washington's Department of Astronomy.
+I am Research Assistant Professor in the University of Washington's Department of Astronomy, and Associate Director of the [DIRAC Institute ](http://dirac.astro.washington.edu).
 My research program focuses on studying time domain, large survey astronomy, with an emphasis on magnetically active stars in surveys like Kepler, ZTF, and TESS.
 <!-- Here's a partial [list of available research projects](http://jradavenport.github.io/projects/) for students. -->
 
