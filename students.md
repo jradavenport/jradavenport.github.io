@@ -2,26 +2,30 @@
 layout: page
 title: Student Collaborators
 permalink: /students/
-show_in_nav: false
+show_in_nav: true
 ---
 
 <!-- # Student Collaborators -->
 
-I am fortunate to have a group of wonderful students working with me on a variety of topics.
-This website is an overview (and brag sheet!) for many of their projects.
+I am fortunate to work with many wonderful students working on a variety of topics.
+This website is an overview (and brag sheet!) for many of their projects & accomplishments.
 
-## *Recent Student Collaborations*
+## *Student Collaborations*
 <hr>
 
 ## 2019-2020 Projects
 
-**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow) Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares)) Co-author on paper "[10 Years of Stellar Activity for GJ 1243](https://github.com/jradavenport/gj1243_10yrs)"
+**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU Project on Eclipsing Binaries in TESS
 
-**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow) Eclipsing Binaries in TESS. ([Repo](https://github.com/jbirky/tess_binaries))
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow) Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares)) Co-author on paper "[10 Years of Stellar Activity for GJ 1243](https://ui.adsabs.harvard.edu/abs/2020arXiv200510281D/abstract)"
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow) Eclipsing Binaries in TESS. ([Repo](https://github.com/jbirky/tess_binaries)) [AAS 235 Poster](https://ui.adsabs.harvard.edu/abs/2020AAS...23517020B/abstract)
+
+**[Courtney Klein (UCI)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)). [AAS 235 Poster](https://ui.adsabs.harvard.edu/abs/2020AAS...23527320K/abstract)
 
 **[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with TESS & WISE.
 
-**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 & TESS using Gaussian Processes.
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 & TESS using Gaussian Processes. [AAS 235 Talk](https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G/abstract)
 
 **[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS.
 
@@ -100,9 +104,9 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 ## *Past Student Collaborations*
 
-**John Lurie (UW):** 2015-2017, [Paper on GJ 1245AB](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...95L/), [Paper on Tidal Synchronization](https://ui.adsabs.harvard.edu/abs/2017AJ....154..250L/)
+**John Lurie (UW):** 2015-2017, [Paper: Flares & Starspots on GJ 1245AB](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...95L/), [Paper: Tidal Synchronization of Binary Stars](https://ui.adsabs.harvard.edu/abs/2017AJ....154..250L/)
 
-**Tess Wilkenson (UW):** 2013 - 2015
+**Tessa Wilkenson (UW):** 2013 - 2015
 
 **Collin Kielty (UW):** 2012 - 2014
 
@@ -114,4 +118,4 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 **Michelle Vick (HMC):** 2011
 
-**Keaton Bell (UW):** 2011, [Paper on Active M Dwarfs](https://ui.adsabs.harvard.edu/abs/2012PASP..124...14B)
+**Keaton Bell (UW):** 2011, [Paper: Active M Dwarf Variability](https://ui.adsabs.harvard.edu/abs/2012PASP..124...14B)

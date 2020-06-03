@@ -2,20 +2,25 @@
 layout: page
 title: Research Group
 permalink: /group/
-show_in_nav: true
+show_in_nav: false
 ---
 
 <img src="{{ site.url }}/assets/af.png" width="150">
 
-For more on my research interests and available projects, see [this page.]({{ site.url }}/research)
+**Please check out the excellent work of my student collaborators [HERE!](https://jradavenport.github.io/students/)**
 
+For more on my research interests and some available projects, see [this page.]({{ site.url }}/research)
+
+
+
+<!--
 I manage a weekly "group un-meeting", which should be viewed as a continuous experiment in supporting my [stated values](https://arxiv.org/abs/1805.09963) as a practicing scientist. As such, the format is not strict, and will be revised by and for the needs of those attending. Topical areas  are also not strictly defined.
 
 
 ## Details
 Meetings are each week for 1 hour: Mondays, 11AM, PAB 305 conference room.
 
-**Monday morning?!** Yes. This meeting aims to be _aspirational_, rather than judgmental. What are you hoping to do or learn this week? How can we help hype you up? What support do you need? Never: justify your existence.
+**Monday morning?!** Yes. This meeting aims to be _aspirational_, rather than judgmental. What are you hoping to do or learn this week? How can we help hype you up? What support do you need? Never: justify your existence. -->
 
 
 ## Values
@@ -28,8 +33,9 @@ Meetings are each week for 1 hour: Mondays, 11AM, PAB 305 conference room.
 
 
 
-Practical Items:
+### Practical Items:
 
+- People are the most important piece of our work and our group.
 - Discuss careers, strategy, and process openly and without judgement.
 - Have a website. A web presence is even better
 - Side-projects, wild ideas, "hacks", **creativity** are strongly encouraged.
