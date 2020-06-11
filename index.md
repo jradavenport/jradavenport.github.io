@@ -3,17 +3,24 @@ layout: page
 
 ---
 
+<div>
+<!-- <img align="left" src="{{ site.url }}/assets/davenport_bw_2020.JPG" hspace="25" width="200"> -->
+<!-- <figure> -->
+<img align="right" src="{{ site.url }}/assets/davenport_bw_2020.JPG" hspace="25" width="200">
+<!-- </figure> -->
 
-<img align="left" src="{{ site.url }}/assets/davenport_head.JPG" hspace="25" width="170">
-
-
-I am Research Assistant Professor in the University of Washington's Department of Astronomy, and Associate Director of the [DIRAC Institute ](http://dirac.astro.washington.edu).
+I am a Research Assistant Professor in the University of Washington's Department of Astronomy, and Associate Director of the
+<a href="http://dirac.astro.washington.edu">DIRAC Institute</a>.
 My research program focuses on studying time domain, large survey astronomy, with an emphasis on magnetically active stars in surveys like Kepler, ZTF, and TESS.
-<!-- Here's a partial [list of available research projects](http://jradavenport.github.io/projects/) for students. -->
+<span class="clear: both"></span>
+</div>
+<br>
 
-
-- [**If We Assume**](http://www.ifweassume.com), my data analysis and visualization blog.
-- [**Zenodo//Astronomy-General**](https://zenodo.org/communities/astronomy-general/), a Zenodo.org collection of citable data and materials by professional astronomers.
-- [**SETI.news**](http://seti.news), a monthly(ish) email list for sharing academic SETI research.
-- Checkout my [**YouTube channel**](https://www.youtube.com/james-davenport) <i class="fa fa-youtube"></i>, including my weekly [ASTRO VLOG](https://www.youtube.com/watch?v=gm_attGgvWI&list=PLWutIaedlwKRWLScYr1zG4Ov-gTdf7l69) showing life as an astronomer, and some [lectures/talks](https://www.youtube.com/watch?v=YMQXilHRGuU&list=PLWutIaedlwKTBicKbLlt51HgdfkzfKM8k) I have given.
-<!-- - Information on my ongoing [**Gender in Astronomy Talks**](http://jradavenport.github.io/gender_study/) study. -->
+<div>
+<ul>
+<li> <a href="http://www.ifweassume.com"> If We Assume</a>, my data analysis and visualization blog </li>
+<li> <a href="https://zenodo.org/communities/astronomy-general/">Zenodo//Astronomy-General</a>, a Zenodo.org collection of citable data and materials by professional astronomers. </li>
+<li> <a href="http://seti.news">SETI.news</a>, a monthly(ish) email list for sharing academic SETI research.</li>
+<li> <a href="https://www.youtube.com/james-davenport">YouTube channel</a>, including my weekly ASTRO VLOG </li>
+</ul>
+</div>
