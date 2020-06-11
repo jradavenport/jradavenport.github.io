@@ -5,7 +5,7 @@ permalink: /posts/
 show_in_nav: false
 ---
 
-**Here you'll find links to projects, short blog posts, and miscellaneous tips I've jotted down.**
+Here you'll find project ideas, short blog posts, and miscellaneous tips I've jotted down... **there is no effort to keep this organized.**
 
 <div class="home">
 

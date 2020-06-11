@@ -15,6 +15,7 @@ My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/335
 - **[Student Collaborators]({{ site.url }}/students/):** Present and past student work
 - **[Available Projects]({{ site.url }}/projects/):** A partial list of available projects for students or collaborators
 - **[astro.ifweassume.com](http://astro.ifweassume.com):** Notes on various research project ideas
+- **[Research Group]({{ site.url }}/group/)**
 
 
 <!-- **[Preprints and works in progress](http://jradavenport.github.io/preprints)** -->
