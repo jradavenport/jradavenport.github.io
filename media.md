@@ -5,8 +5,10 @@ permalink: /media/
 show_in_nav: true
 ---
 
-Here is a list of some media coverage I have received for my astronomy research and data visualization work.
+Here is a list of media coverage of my work or that has included my commentary.
 
+<a href="https://www.nature.com/articles/d41586-020-01905-5">
+<img src="/assets/media_logos/nature.png" /></a>
 
 <table><tbody>
 <tr>
