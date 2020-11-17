@@ -10,7 +10,7 @@
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jradavenport.github.io/research/">
+    <link rel="canonical" href="http://localhost:4000/research/">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -115,47 +115,42 @@
   </header>
 
   <article class="post-content">
-    <p>My research interests generally involve large datasets of stars, time domain astronomy, and stellar populations.
+    <p><img src="http://localhost:4000/assets/gp_lightcurve1.png" /></p>
+
+<p>My research generally involves large datasets of stars, time domain astronomy, and stellar populations.
 Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases of these tracers to understand the history of our Galaxy.</p>
 
-<!-- My [MS thesis](http://adsabs.harvard.edu/abs/2010ApJ...711..559D) work was studying the open cluster M67 with a powerful algorithm for separating the cluster population from the background field stars.
-
-My [PhD thesis](https://digital.lib.washington.edu/researchworks/handle/1773/33558) involved studying flare properties and the evolution of starspots using data from Kepler. I am interested in using this amazing training sample to make predictions for what future surveys (e.g. LSST) will recover.  -->
-
 <ul>
-  <li><strong><a href="http://jradavenport.github.io/students/">Student Collaborators</a>:</strong> Present and past student work</li>
-  <li><strong><a href="http://jradavenport.github.io/projects/">Available Projects</a>:</strong> A partial list of available projects for students or collaborators</li>
-  <li><strong><a href="http://astro.ifweassume.com">astro.ifweassume.com</a>:</strong> Notes on various research project ideas</li>
-  <li><strong><a href="http://jradavenport.github.io/group/">Research Group</a></strong></li>
+  <li><strong><a href="http://localhost:4000/students/">Student Collaborators</a>:</strong> Present and past student work</li>
+  <li><strong><a href="http://localhost:4000/projects/">Available Projects</a>:</strong> A partial list of available projects for students or collaborators</li>
 </ul>
 
-<!-- **[Preprints and works in progress](http://jradavenport.github.io/preprints)** -->
+<h2 id="values">Values</h2>
 
-<p><strong>See my <a href="https://www.dropbox.com/s/9wan6osj4g4knqm/davenport.cv.pdf?dl=1">CV</a> or <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;author=Davenport,%20James%20R.%20A.&amp;db_key=AST">ADS link</a> for my most recent work.</strong></p>
+<ul>
+  <li>I believe science is a <strong>practice</strong>. We should always be learning and changing our approach to reach the best outcomes.</li>
+  <li>I believe in “<strong>Human Centered Project &amp; Mentorship Design</strong>”</li>
+  <li>We should strive for, and broadly define, <strong>scholarship, creativity, and collaboration</strong></li>
+  <li>“Perfect is the enemy of the good” -<a href="https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good">Voltaire</a></li>
+</ul>
 
-<p><strong>My projects all live on <a href="https://github.com/jradavenport">GitHub</a>, and I welcome collaboration!</strong></p>
+<h3 id="practical-items">Practical Items:</h3>
 
-<!-- For data/code products from my research, [see this page](http://jradavenport.github.io/2014/10/30/data-products). -->
+<ul>
+  <li>People are the most important piece of our work and our group.</li>
+  <li>Discuss careers, strategy, and process openly and without judgement.</li>
+  <li>Have a website. A web presence is even better</li>
+  <li>Side-projects, wild ideas, “hacks”, <strong>creativity</strong> are strongly encouraged.</li>
+  <li>We should “publish” as much as possible.</li>
+  <li>Publishing is broadly defined.</li>
+  <li>We will all be involved in writing papers and grants.</li>
+  <li>We will celebrate and document our process, our failures, and our victories.</li>
+  <li>A placeholder <a href="https://github.com/TheAstroFactory">GitHub group</a> we can use for branding if we like.</li>
+</ul>
 
-<!--
-<h3>Questions I am interested in include:</h3>
+<p>See my <a href="https://www.dropbox.com/s/9wan6osj4g4knqm/davenport.cv.pdf?dl=1">CV</a> or <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;author=Davenport,%20James%20R.%20A.&amp;db_key=AST">ADS link</a> for my most recent work.</p>
 
-**1. What utility does the time domain offer studies of Galactic structure/evolution?**
-
-The schematic figure below shows a number of stages/processes in stellar evolution useful for age-dating the Galaxy. As with all age indicators for stars, we use processes that have a temporal dependence. For the LSST era, we seek indicators that require “time-domain” measurements, such as flares and binary star period distributions. I am interested in calibrating these relations, and placing them in the context of this diagram. We will then be able to build a generative age model of our Galaxy, based on observations of many stellar properties and age proxies.
-
-![](http://jradavenport.github.io/assets/age_mass_overview.png)
-
-
-**2. How does stellar activity affect exoplanet habitability?**
-
-Below is a cartoon version of how the flare rate for main sequence stars may change as a function of stellar mass and age. Besides being a unique and powerful age indicator (above), studying stellar activity across the main sequence is critical for understanding the effects host have on their planets. Planet habitability may be greatly impacted by the occurrence rates during key formation phases.
-
-I emphasize this figure is only a cartoon, and does not have an accurate assumption for the X-ray luminosity of GKM stars over time. Fig. 5 of [Gondoin (2013)](http://adsabs.harvard.edu/abs/2013A%26A...556A..14G) gives an evolution of the X-ray luminosity for *Solar mass* stars over time. To predict a flare rate based on X-ray luminosity I use the transformation (for flares of log E≥32 erg) from Fig. 4 of [Audard (2000)](http://adsabs.harvard.edu/abs/2000ApJ...541..396A). This gives a reasonable estimate of flare rate over time for G dwarfs. To project this estimate down to M dwarfs, I assume the same powerlaw decline in X-ray luminosity occurs for all stars after their "saturation" time. The X-ray saturation lifetime as a function of stellar mass was taken from [Wright (2011)](http://adsabs.harvard.edu/abs/2011ApJ...743...48W). Thus the M dwarf X-ray luminosity is not accurate (I need to incorporate data from e.g. [Shkolnik 2014](http://adsabs.harvard.edu/abs/2014AJ....148...64S)), but the evolution shown here is illustrative.
-
-
-![](http://jradavenport.github.io/assets/flare_rate_model.png)
--->
+<p>My projects all live on <a href="https://github.com/jradavenport">GitHub</a>, and I welcome collaboration!</p>
 
   </article>
 

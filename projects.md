@@ -30,25 +30,31 @@ I am putting these ideas online in the hopes of attracting people to help work o
 
 
 ### Binary Stars
+- **Which Binaries are the "BEST"?**
+	- if we have millions of eclipsing binaries, which should we follow up?
+	- working on paper draft based on TESS Online Sprint [project](https://github.com/jradavenport/EBHRD)
 - **Disappearing Eclipsing Binary Stars**
  	- using TESS data, explore binary stars whose eclipse depths are changing.
 	- There are at least TWO very interesting systems I know about that deserve papers based on their TESS data:
 		- [QX Cas](https://github.com/jradavenport/QX-Cas) - already disappeared, but TESS discovered new periods!
-		- [HS Hya](https://github.com/jradavenport/HS-Hya) - we think TESS observed the *last* eclipses from this system!
+		- [HS Hya](https://github.com/jradavenport/HS-Hya) - we think TESS observed the *last* eclipses from this system! (**paper in prep**)
 	- There are more of these systems [known](https://www.aavso.org/apps/jaavso/article/2834/), but need targeted analysis of TESS 30-min data
 	- Systematic search (e.g. between TESS & Kepler/K2, or just within TESS) a good idea
+		- especially using new FFI data from TESS!
 	- **Good first projects!**
 - **Orbit vs Rotation Periods for Eclipsing Binaries**
-	- Can we reproduce the mysterious clump of stars at Porb/Prot=0.9 [found by Lurie+2017](https://iopscience.iop.org/article/10.3847/1538-3881/aa974d#ajaa974df6)
-	- a VERY GOOD mystery to work on...
+	- Can we reproduce the mysterious clump of stars at Porb/Prot=0.87 [found by Lurie+2017](https://iopscience.iop.org/article/10.3847/1538-3881/aa974d#ajaa974df6)
+	- tidal synchronization, a VERY GOOD mystery to work on...
 	- Any correlation with system mass?
-	- curate rotation periods for known EBs using TESS/K2
+	- curate rotation periods for known EBs using samples from TESS/K2
+	- Writing proposals to support this work
 	- **Good first project!**
 - **Eclipsing Binaries in Open Clusters**
-	- Useful for calibrating tidal evolution of stars! (w/ R. Barnes at UW)
+	- Useful for calibrating tidal evolution of stars! (w/ R. Barnes at UW) Writing proposals to support this work
 	- Good project for funding proposal - mix of theory & observation
 	- TESS will have a ton of OC's to search for EB's! (e.g. [this](https://arxiv.org/abs/1910.01133) work)
 	- K2 still producing new EB's worth studying (e.g. [this](https://arxiv.org/abs/1706.03084) paper)
+	- Look at eccentricity versus period, tidal circularization
 - **How many eclipsing binary stars do we expect to see in an open cluster?**
 	- A straight forward numerical question. Take all known probability distributions of stars/clusters/binaries, as well as observability constraints, and multiply them together.
 	- compare to best known catalogs of eclipsing binaries in open clusters (e.g. M67). Do we get roughly the right number?
@@ -94,7 +100,7 @@ I am putting these ideas online in the hopes of attracting people to help work o
 	- a possible SETI signature
 
 ### More Star Stuff!
-- **Searching for "Boyajian's Star" analogs in ZTF**
+- **Searching for "Boyajian's Star" analogs, in ZTF and elsewhere**
   - We've started [collaboratively working](https://github.com/dirac-institute/ZTF_Boyajian) on this at DIRAC
 	- Many off-shoots and ideas available still!
 	- idea first outlined [here](http://beta.briefideas.org/ideas/534f2373fdf0cd3de184f11a63c4a3ee) for SDSS

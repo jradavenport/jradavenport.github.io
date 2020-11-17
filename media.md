@@ -5,7 +5,10 @@ permalink: /media/
 show_in_nav: true
 ---
 
-Here is a list of media coverage of my work or that has included my commentary.
+Here is a list of media coverage, which I try to keep relatively up to date.
+
+*updated 2020.06.25*
+
 
 <a href="https://www.nature.com/articles/d41586-020-01905-5">
 <img src="/assets/media_logos/nature.png" /></a>
