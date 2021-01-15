@@ -7,11 +7,26 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date.
 
-*updated 2020.06.25*
+*updated 2021.01.14*
 
-
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.eurekalert.org/pub_releases/2021-01/uow-adt011421.php">
+<img src="/assets/media_logos/eureka.png" width=280/></a>
+</td>
+<td>
+<a href="https://www.space.com/binary-star-eclipses-shine-tess-archival-data">
+<img src="/assets/media_logos/spacedotcom.png" /></a>
+</td>
+<td>
 <a href="https://www.nature.com/articles/d41586-020-01905-5">
 <img src="/assets/media_logos/nature.png" /></a>
+</td>
+</tr>
+</tbody></table>
+
+
 
 <table><tbody>
 <tr>
@@ -35,11 +50,11 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 <tr>
 <td>
 <a href="https://behavioralscientist.org/who-asks-questions-and-what-it-tells-us/">
-<img src="/assets/media_logos/behavioral_scientist.png" /></a>
+<img src="/assets/media_logos/behavioral_scientist.png" width=240/></a>
 </td>
 <td>
 <a href="http://www.washington.edu/news/2018/01/03/space-dust-not-aliens-two-uw-astronomers-assist-in-new-research-on-mysterious-star">
-<img src="/assets/media_logos/uwnews.png" width="320"/></a>
+<img src="/assets/media_logos/uwnews.png" width="200"/></a>
 </td></tr>
 </tbody></table>
 

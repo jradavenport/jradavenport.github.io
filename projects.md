@@ -20,12 +20,15 @@ I am putting these ideas online in the hopes of attracting people to help work o
 	- TESS gives 10-year baseline for some stars!!
 	- An initial search with Kepler showed this is interesting ([Scoggins+2019](https://doi.org/10.3847/2515-5172/ab45a0))
 	- Initial project with GJ 1243 using Kepler-TESS ([Davenport+2020](https://arxiv.org/abs/2005.10281))
-	- Lots of work in developing a statistical test for comparing [FFDs](https://github.com/jradavenport/ffd)
+- **Fitting the Flare Freq. Distribution (FFD)**
+	- building out the [FFD](https://github.com/jradavenport/ffd) package for general use
+	- how do we properly use 2D errors & incomplete data? Some thoughts [here](https://github.com/jradavenport/YZCMi_TESS/blob/main/yzcmi_vs_gj1243.ipynb) in comparing GJ 1243 to YZ CMi with TESS
+	- Lots of work in developing a statistical test for comparing FFD's
 - **Decomposing Complex Flares**
 	- *with L. Tovar Mendoza*
 	- Look at details of complex flares, like in [this paper](http://adsabs.harvard.edu/abs/2015IAUGA..2253851D)
 	- Improve original version in [this paper](http://adsabs.harvard.edu/abs/2014ApJ...797..122D)
-	- use new flare model from L. Tovar Mendoza
+	- use new flare model from L. Tovar Mendoza!
 	- **Good first project!**
 
 
@@ -77,6 +80,7 @@ I am putting these ideas online in the hopes of attracting people to help work o
 	- Possibly interesting systems from standpoint of "gyrochronology", as well as binary dynamics!
 	- working with collaborators at UW ([GitHub project](https://github.com/StellarArmy/tricycle))
 	- so far has resulted in [Lurie et al. (2017)](https://arxiv.org/abs/1710.07339), and MORE NEW QUESTIONS!
+
 
 ### SETI
 - **SETI with Big Surveys**
@@ -132,6 +136,10 @@ I am putting these ideas online in the hopes of attracting people to help work o
 	- WISE provides ~7 year light curves, with very unique sampling, interesting challenge for e.g. GP modeling
 	- Good for long-term variability, and *some* short term
 	- One interesting (hair-brained) off-shoot: looking for transiting giant exoplanets, e.g. found w/ TESS (w/ E. Kruse)
+- **Flare stars in TESS**
+	- *S. Wallace working on this*
+	- looking for super flares, comparing rates across the sky for nearby stars
+	- [paper in prep](https://github.com/spencerw/tess_superflare_paper)
 - **Finding Eclipsing Binaries in TESS**
 	- *J. Birky working on aspects of this*
 	- Collaborating with Tim Brandt (UCSB), want to build a complete catalog
