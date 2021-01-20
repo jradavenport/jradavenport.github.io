@@ -7,7 +7,10 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date.
 
-*updated 2021.01.14*
+*updated 2021.01.19*
+
+<a href="https://www.iflscience.com/space/two-binary-stars-will-stop-eclipsing-each-other-after-a-century-next-month/">
+<img src="/assets/media_logos/IFLS.png" />
 
 <table><tbody>
 <tr>
