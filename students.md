@@ -34,6 +34,8 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS.
 
+**[Karen Warmbein](https://github.com/karenkathryn/):** Looking for long duration dippers in ZTF data ([Repo](https://github.com/karenkathryn/astronomy_project))
+
 **Hendrik Venter (UW):** Exploring [*stumpy*](https://github.com/TDAmeritrade/stumpy) for analyzing Kepler light curve variability ([repo](https://github.com/UWAstroHendrik/ASTR-499))
 
 <hr>
@@ -111,6 +113,8 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 ## *Past Student Collaborations*
 
+*An almost-complete list of graduate and undergraduate students I advised during graduate school*
+
 **John Lurie (UW):** 2015-2017, [Paper: Flares & Starspots on GJ 1245AB](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...95L/), [Paper: Tidal Synchronization of Binary Stars](https://ui.adsabs.harvard.edu/abs/2017AJ....154..250L/)
 
 **Tessa Wilkenson (UW):** 2013 - 2015
@@ -119,10 +123,10 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 **Tiffany Lin (UW):** 2012
 
+**Keaton Bell (UW):** 2011, [Paper: Active M Dwarf Variability](https://ui.adsabs.harvard.edu/abs/2012PASP..124...14B)
+
 **Meagan Albright (UW):** 2011
 
 **Meghin Spencer (UW):** 2011
 
 **Michelle Vick (HMC):** 2011
-
-**Keaton Bell (UW):** 2011, [Paper: Active M Dwarf Variability](https://ui.adsabs.harvard.edu/abs/2012PASP..124...14B)
