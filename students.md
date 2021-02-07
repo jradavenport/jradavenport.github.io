@@ -13,6 +13,11 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 ## *Student Collaborations*
 <hr>
 
+## 2020-2021 Projects
+
+
+<hr>
+
 ## 2019-2020 Projects
 
 **[Erin Howard (WWU)](https://github.com/erinleighh):** DREU Project on Eclipsing Binaries in TESS
@@ -28,6 +33,8 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 **[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 & TESS using Gaussian Processes. [AAS 235 Talk](https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G/abstract)
 
 **[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS.
+
+**Hendrik Venter (UW):** Exploring [*stumpy*](https://github.com/TDAmeritrade/stumpy) for analyzing Kepler light curve variability ([repo](https://github.com/UWAstroHendrik/ASTR-499))
 
 <hr>
 
