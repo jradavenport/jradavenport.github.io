@@ -9,7 +9,39 @@ Below is a list of project ideas that either A) I am hoping to work on, or B) I 
 I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out!
 
 ## Astronomy Projects
-*Loosely grouped by topic*
+
+### SETI
+- **SETI with Big Surveys**
+	- have written a short intro paper on the idea of SETI with big time domain surveys ([Davenport 2019](https://arxiv.org/abs/1907.04443))
+	- while optical surveys aren't the typical data source for SETI work, we should mine them nonetheless!
+	- Collaboration potential with LSST/Rubin, ZTF, TESS, and the Breakthrough Listen teams.
+	- Actively looking to develop and collect ideas for signals!
+- **The SETI Ellipsoid**
+	- Searching for signals/alerts in the SETI Ellipsoid ([repo](https://github.com/jradavenport/daen))
+	- Gaia positions + ZTF alerts
+	- Working with e.g. SN 1987A and galactic novae
+- **Searching for "missing transits" in Kepler/K2/TESS**
+	- are there any exoplanet transits that are "missing", i.e. *should* have been visible but didn't occur?
+	- a potential SETI signal, according to a [Kipping & Teachey](https://arxiv.org/abs/1603.08928)
+	- some more detail in [this blog post](https://jradavenport.github.io/2017/03/09/missing.html)
+- **Exploring Repeating but Non-Periodic Signals in Data**
+	- "Sequence Dispersion Minimization" ([repo](https://github.com/TheAstroFactory/SDM))
+	- some interesting algorithm challenges - can we reproduce period-finding techniques using *non*-periodic patterns?
+	- Fun with Fibonacci! Plus MANY other neat integer sequence available ([OEIS](https://oeis.org))
+- **Searching the Earth Transit Zone**
+	- [Earth Transit Zone](https://arxiv.org/abs/1603.00776)
+	- good for e.g. ZTF alerts
+- **VASCO Signals**
+	- this idea developed by [B. Villarroel et al.](https://arxiv.org/abs/1911.05068)
+	- search for "missing" objects from many surveys (ZTF alerts, Gaia EDR3...)
+	- use new surveys to follow up any other [VASCO candidates](https://arxiv.org/abs/2009.10813)
+- **Statistical Outliers**
+	- These might include outliers in spectral energy distribution (multi-color space), unusual variability, correlation between objects...
+	- Also other tools for statistical explorations of variability to be explored (e.g. [stumpy](https://github.com/TDAmeritrade/stumpy))
+- **Others Ideas?**
+	- projects could include searches for [Dyson spheres / megastructures](https://arxiv.org/abs/1408.1134), oddly moving objects (e.g. interstellar objects), laser pluses or emission...
+	- further comparison of optical SETI versus traditional radio efforts (e.g. extending the Haystack volume metric)
+
 
 ### Flares
 - **Searching for Flare Rate Changes Over Time**
@@ -82,40 +114,6 @@ I am putting these ideas online in the hopes of attracting people to help work o
 	- so far has resulted in [Lurie et al. (2017)](https://arxiv.org/abs/1710.07339), and MORE NEW QUESTIONS!
 
 
-### SETI
-- **SETI with Big Surveys**
-	- have written a short intro paper on the idea ([Davenport 2019](https://arxiv.org/abs/1907.04443))
-	- while optical surveys aren't the typical data source for SETI work, we should mine them nonetheless!
-	- Collaboration potential with LSST/Rubin, ZTF, TESS, and the Breakthrough Listen teams.
-	- Actively looking to develop and collect ideas for signals!
-- **The SETI Ellipsoid**
-	- Searching for signals/alerts in the SETI Ellipsoid ([repo](https://github.com/jradavenport/daen))
-	- Gaia positions + ZTF alerts
-	- Working with e.g. SN 1987A and galactic novae
-- **Searching for "missing transits" in Kepler/K2/TESS**
-	- are there any exoplanet transits that are "missing", i.e. *should* have been visible but didn't occur?
-	- a potential SETI signal, according to a [Kipping & Teachey](https://arxiv.org/abs/1603.08928)
-	- some more detail in [this blog post](https://jradavenport.github.io/2017/03/09/missing.html)
-- **Exploring Repeating but Non-Periodic Signals in Data**
-	- "Sequence Dispersion Minimization" ([repo](https://github.com/TheAstroFactory/SDM))
-	- some interesting algorithm challenges - can we reproduce period-finding techniques using *non*-periodic patterns?
-	- Fun with Fibonacci! Plus MANY other neat integer sequence available ([OEIS](https://oeis.org))
-- **Searching the Earth Transit Zone**
-	- [Earth Transit Zone](https://arxiv.org/abs/1603.00776)
-	- good for e.g. ZTF alerts
-- **VASCO Signals**
-	- this idea developed by [B. Villarroel et al.](https://arxiv.org/abs/1911.05068)
-	- search for "missing" objects from many surveys (ZTF alerts, Gaia EDR3...)
-	- use new surveys to follow up any other [VASCO candidates](https://arxiv.org/abs/2009.10813)
-- **Statistical Outliers**
-	- These might include outliers in spectral energy distribution (multi-color space), unusual variability, correlation between objects...
-	- Also other tools for statistical explorations of variability to be explored (e.g. [stumpy](https://github.com/TDAmeritrade/stumpy))
-- **Others Ideas?**
-	- projects could include searches for [Dyson spheres / megastructures](https://arxiv.org/abs/1408.1134), oddly moving objects (e.g. interstellar objects), laser pluses or emission...
-	- further comparison of optical SETI versus traditional radio efforts (e.g. extending the Haystack volume metric)
-
-
-
 ### More Star Stuff!
 - **Searching for "Boyajian's Star" analogs, in ZTF and elsewhere**
   - We've started [collaboratively working](https://github.com/dirac-institute/ZTF_Boyajian) on this at DIRAC
@@ -141,7 +139,8 @@ I am putting these ideas online in the hopes of attracting people to help work o
 - *Many* projects in other groups above are primarily "coding" or algorithm based.
 
 
-### Projects from this page that students have recently picked up. If interested, still worth talking about!
+### Recent Stuff
+*Projects from this page that students have recently picked up. If interested, still worth talking about!*
 
 - **Using WISE to look for variable stars**
 	- *T. Dorn-Wallenstein working on this for massive stars*
@@ -175,6 +174,7 @@ I am putting these ideas online in the hopes of attracting people to help work o
 ## Data Science Projects
 I am currently cultivating a list of data exploration/visualization/science projects that would be good for non-astronomy minded people to work on. For some examples, see my [blog](https://www.ifweassume.com) (and especially my [blog archive](https://ifweassume.blogspot.com)). If this interests you, please let me know!!!
 
+I have expertise in science communication (e.g. blogging, video production), web development, data visualization, and making fun Twitter robots.
 
 
 ## Cold Storage
