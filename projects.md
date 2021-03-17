@@ -85,23 +85,36 @@ I am putting these ideas online in the hopes of attracting people to help work o
 ### SETI
 - **SETI with Big Surveys**
 	- have written a short intro paper on the idea ([Davenport 2019](https://arxiv.org/abs/1907.04443))
-	- while optical surveys aren't the typical (or maybe ideal) data source for SETI work, we should mine them nonetheless!
-	- am building some broad support/interest from SETI community
-	- Collaboration potential with LSST/Rubin, ZTF, and the Breakthrough Listen teams.
-	- current ideas include:
-		- "Sequence Dispersion Minimization" ([repo](https://github.com/TheAstroFactory/SDM))
-		- Searching for signals/alerts in the SETI Ellipsoid ([repo](https://github.com/jradavenport/daen))
-		- Searching for signals/alerts in the extended (w/ Gaia DR2 if possible) [Earth Transit Zone](https://arxiv.org/abs/1603.00776)
-- **Searching for "missing transits" in Kepler(/K2/TESS)**
-	- are there any Kepler transits that are "missing", i.e. *should* have been visible but didn't occur
+	- while optical surveys aren't the typical data source for SETI work, we should mine them nonetheless!
+	- Collaboration potential with LSST/Rubin, ZTF, TESS, and the Breakthrough Listen teams.
+	- Actively looking to develop and collect ideas for signals!
+- **The SETI Ellipsoid**
+	- Searching for signals/alerts in the SETI Ellipsoid ([repo](https://github.com/jradavenport/daen))
+	- Gaia positions + ZTF alerts
+	- Working with e.g. SN 1987A and galactic novae
+- **Searching for "missing transits" in Kepler/K2/TESS**
+	- are there any exoplanet transits that are "missing", i.e. *should* have been visible but didn't occur?
 	- a potential SETI signal, according to a [Kipping & Teachey](https://arxiv.org/abs/1603.08928)
-	- a more detailed explanation is on [this blog post]({{ site.url}}/2017/03/09/missing/)
-	- **Good first project!**
+	- some more detail in [this blog post](https://jradavenport.github.io/2017/03/09/missing.html)
 - **Exploring Repeating but Non-Periodic Signals in Data**
 	- "Sequence Dispersion Minimization" ([repo](https://github.com/TheAstroFactory/SDM))
 	- some interesting algorithm challenges - can we reproduce period-finding techniques using *non*-periodic patterns?
-	- Fun with Fibonacci!
-	- a possible SETI signature
+	- Fun with Fibonacci! Plus MANY other neat integer sequence available ([OEIS](https://oeis.org))
+- **Searching the Earth Transit Zone**
+	- [Earth Transit Zone](https://arxiv.org/abs/1603.00776)
+	- good for e.g. ZTF alerts
+- **VASCO Signals**
+	- this idea developed by [B. Villarroel et al.](https://arxiv.org/abs/1911.05068)
+	- search for "missing" objects from many surveys (ZTF alerts, Gaia EDR3...)
+	- use new surveys to follow up any other [VASCO candidates](https://arxiv.org/abs/2009.10813)
+- **Statistical Outliers**
+	- These might include outliers in spectral energy distribution (multi-color space), unusual variability, correlation between objects...
+	- Also other tools for statistical explorations of variability to be explored (e.g. [stumpy](https://github.com/TDAmeritrade/stumpy))
+- **Others Ideas?**
+	- projects could include searches for [Dyson spheres / megastructures](https://arxiv.org/abs/1408.1134), oddly moving objects (e.g. interstellar objects), laser pluses or emission...
+	- further comparison of optical SETI versus traditional radio efforts (e.g. extending the Haystack volume metric)
+
+
 
 ### More Star Stuff!
 - **Searching for "Boyajian's Star" analogs, in ZTF and elsewhere**
