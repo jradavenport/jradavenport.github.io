@@ -35,11 +35,17 @@ I am putting these ideas online in the hopes of attracting people to help work o
 	- this idea developed by [B. Villarroel et al.](https://arxiv.org/abs/1911.05068)
 	- search for "missing" objects from many surveys (ZTF alerts, Gaia EDR3...)
 	- use new surveys to follow up any other [VASCO candidates](https://arxiv.org/abs/2009.10813)
+- **SETI with Gaia**
+	- Cool idea for finding [Dyson spheres](https://arxiv.org/abs/1408.1134) using Gaia DR1 + Rave to outliers in distance between parallax and spectro-photometric estimates, from [Zackrisson et al.(2018)](https://arxiv.org/abs/1804.08351)
+	- Update with bigger/better datasets! Newer Gaia (EDR3 as of early 2021), other sources of spectroscopy (LAMOST, APOGEE, SDSS)
+	- Similar game can be played using photometry alone ([photometric parallax](https://en.wikipedia.org/wiki/Photometric_parallax)), but with worse distance precision...
+	- Could also search the Gaia Color-Mag diagram for outliers (i.e. points falling below subdwarfs, points between WD and Main Seq tracks)
+		- I *think* this idea is new... and maybe "easy"!
 - **Statistical Outliers**
 	- These might include outliers in spectral energy distribution (multi-color space), unusual variability, correlation between objects...
 	- Also other tools for statistical explorations of variability to be explored (e.g. [stumpy](https://github.com/TDAmeritrade/stumpy))
 - **Others Ideas?**
-	- projects could include searches for [Dyson spheres / megastructures](https://arxiv.org/abs/1408.1134), oddly moving objects (e.g. interstellar objects), laser pluses or emission...
+	- projects could include searches for Dyson spheres / megastructures, oddly moving objects (e.g. interstellar objects), laser pluses or emission...
 	- further comparison of optical SETI versus traditional radio efforts (e.g. extending the Haystack volume metric)
 
 
