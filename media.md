@@ -7,10 +7,20 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date.
 
-*updated 2021.01.19*
+*updated 2021.03.25*
 
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png" /></a>
+</td>
+<td>
 <a href="https://www.iflscience.com/space/two-binary-stars-will-stop-eclipsing-each-other-after-a-century-next-month/">
-<img src="/assets/media_logos/IFLS.png" />
+<img src="/assets/media_logos/IFLS.png" /></a>
+</td>
+
+</tr>
+</tbody></table>
 
 <table><tbody>
 <tr>
