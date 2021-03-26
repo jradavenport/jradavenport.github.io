@@ -9,14 +9,16 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 
 *updated 2021.03.25*
 
+<a href="https://www.nbcnews.com/news/us-news/likely-rocket-debris-lights-skies-over-pacific-northwest-n1262128"><img src="/assets/media_logos/nbcnews.png"  width=280/></a>
+
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png" /></a>
+<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png"  width=220/></a>
 </td>
 <td>
 <a href="https://www.iflscience.com/space/two-binary-stars-will-stop-eclipsing-each-other-after-a-century-next-month/">
-<img src="/assets/media_logos/IFLS.png" /></a>
+<img src="/assets/media_logos/IFLS.png"  width=280/></a>
 </td>
 
 </tr>
