@@ -9,7 +9,19 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 
 *updated 2021.03.25*
 
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.king5.com/article/tech/science/lights-streaking-across-night-sky-in-western-washington-again/281-a4227a83-20ca-484d-8e0d-da48b4fa8f97"><img src="/assets/media_logos/king5.png"  width=170/></a>
+</td>
+<td>
+<a href="https://physicstoday.scitation.org/doi/10.1063/PT.3.4746"><img src="/assets/media_logos/phystoday.png" width=170/></a>
+</td>
+<td>
 <a href="https://www.nbcnews.com/news/us-news/likely-rocket-debris-lights-skies-over-pacific-northwest-n1262128"><img src="/assets/media_logos/nbcnews.png"  width=280/></a>
+</td>
+</tr>
+</tbody></table>
 
 <table><tbody>
 <tr>
@@ -20,7 +32,6 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 <a href="https://www.iflscience.com/space/two-binary-stars-will-stop-eclipsing-each-other-after-a-century-next-month/">
 <img src="/assets/media_logos/IFLS.png"  width=280/></a>
 </td>
-
 </tr>
 </tbody></table>
 
