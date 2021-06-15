@@ -14,6 +14,31 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 <hr>
 
 ## 2020-2021 Projects
+*The year of Zoom...*
+
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow) Developing a new flare template with Kepler and TESS
+
+**[Trevor Dorn-Wallenstein (UW)](https://tzdwi.github.io):** Time domain variability of massive stars with WISE ([PAPER](https://arxiv.org/abs/2102.02829))
+
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Stellar Rotation Periods in K2 & TESS using Gaussian Processes. ([PAPER](https://arxiv.org/abs/2101.07886))
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow) (with Prof. Rory Barnes) Studying tidal synchronization in binaries. Searching for EBs in TESS open clusters.
+
+**[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS.
+
+**[Andy Tzanidakis (UW)](https://github.com/AndyTza):** Flare rate variations in Kepler-TESS stars.
+
+**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU summer project on Eclipsing Binaries in TESS
+
+**Jaide Swanson (UW):** (with Dr. Keaton Bell) Calibrating the "crowdedness factor" for TESS with eclipsing bianries.
+
+**Bárbara Cabrales (Smith):** (with Dr. Sofia Sheikh) Breakthrough Listen summer intern, exploring the SETI Ellipsoid with TESS
+
+**Anna Zuckerman (Brown):** postbac, with Breakthrough Listen, searching for "missing transits" with Kepler and TESS.
+
+**Peter Gwartney (UW):** (with Jessica Birkey & Tyler Gordon) studying eclipsing binaries in open clusters with TESS.
+
+**Rachel Wong (UW):** (with Tyler Gordon and Jessica Birkey) studying rotating stars in open clusters with TESS
 
 
 <hr>
