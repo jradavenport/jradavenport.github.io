@@ -7,7 +7,16 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date.
 
-*updated 2021.03.25*
+*updated 2021.08.05*
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.washington.edu/news/2021/08/05/superflares-tess/">
+<img src="/assets/media_logos/uwnews.png" width="200"/></a>
+</td>
+</tr>
+</tbody></table>
 
 <table><tbody>
 <tr>
