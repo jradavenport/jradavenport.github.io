@@ -12,6 +12,10 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 <table><tbody>
 <tr>
 <td>
+<a href="https://www.dailyuw.com/news/article_22341b2e-04a5-11ec-a8ef-6781ba4be5a2.html">
+<img src="/assets/media_logos/the_daily.png" width="200"/></a>
+</td>
+<td>
 <a href="https://www.washington.edu/news/2021/08/05/superflares-tess/">
 <img src="/assets/media_logos/uwnews.png" width="200"/></a>
 </td>
@@ -21,7 +25,7 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.king5.com/article/tech/science/lights-streaking-across-night-sky-in-western-washington-again/281-a4227a83-20ca-484d-8e0d-da48b4fa8f97"><img src="/assets/media_logos/king5.png"  width=170/></a>
+<a href="https://www.king5.com/article/tech/science/lights-streaking-across-night-sky-in-western-washington-again/281-a4227a83-20ca-484d-8e0d-da48b4fa8f97"><img src="/assets/media_logos/king5.png"  width=200/></a>
 </td>
 <td>
 <a href="https://physicstoday.scitation.org/doi/10.1063/PT.3.4746"><img src="/assets/media_logos/phystoday.png" width=170/></a>
@@ -35,7 +39,7 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png"  width=220/></a>
+<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png"  width=200/></a>
 </td>
 <td>
 <a href="https://www.iflscience.com/space/two-binary-stars-will-stop-eclipsing-each-other-after-a-century-next-month/">
