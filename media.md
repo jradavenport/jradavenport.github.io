@@ -7,7 +7,10 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date.
 
-*updated 2021.08.05*
+*updated 2021.10.12*
+
+<a href="https://myedmondsnews.com/2021/10/video-photo-of-northern-lights-over-edmonds-monday-night/">
+<img src="/assets/media_logos/My-Edmonds-News-Logo1.jpg" width=200> </a>
 
 <table><tbody>
 <tr>
