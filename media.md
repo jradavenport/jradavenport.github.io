@@ -9,8 +9,19 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 
 *updated 2021.10.12*
 
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://kuow.org/stories/northern-lights-make-appearance-over-washington">
+<img src = "/assets/media_logos/kuow.png"> </a>
+</td>
+<td>
 <a href="https://myedmondsnews.com/2021/10/video-photo-of-northern-lights-over-edmonds-monday-night/">
 <img src="/assets/media_logos/My-Edmonds-News-Logo1.jpg" width=200> </a>
+</td>
+</tr>
+</tbody></table>
 
 <table><tbody>
 <tr>
