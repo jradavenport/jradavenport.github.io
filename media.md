@@ -57,11 +57,14 @@ Here is a list of media coverage, which I try to keep relatively up to date.
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png"  width=200/></a>
+<a href="https://astrobites.org/2021/03/13/safely-gather-ing-for-conferences-during-covid/"><img src="/assets/media_logos/astrobites.png"  width=200/></a>
+</td>
+<td>
+<a href="https://www.king5.com/article/news/local/what-was-that-lights-streak-across-night-sky-in-washington/281-7470aba0-5de8-45a8-8bbb-4e1a806147d8"><img src="/assets/media_logos/king5.png"  width=190/></a>
 </td>
 <td>
 <a href="https://www.iflscience.com/space/two-binary-stars-will-stop-eclipsing-each-other-after-a-century-next-month/">
-<img src="/assets/media_logos/IFLS.png"  width=280/></a>
+<img src="/assets/media_logos/IFLS.png"  width=250/></a>
 </td>
 </tr>
 </tbody></table>
