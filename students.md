@@ -12,6 +12,24 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 ## *Student Collaborations*
 <hr>
+## 2021-2022 Projects
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow)
+
+**[Tyler Gordon (UW)](http://www.tagordon.com):**
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow)
+
+**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU summer project on Eclipsing Binaries in TESS
+
+**Jaide Swanson (UW):** (with [Dr. Keaton Bell](http://faculty.washington.edu/keatonb/)) Calibrating the "crowdedness factor" for TESS with eclipsing bianries.
+
+**Bárbara Cabrales (Smith):** (with Dr. Sofia Sheikh) Characterizing uncertainties on the SETI Ellipsoid with TESS
+
+**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** postbac, with Breakthrough Listen, searching for "missing transits" with Kepler and TESS.
+
+**[Peter Gwartney](https://github.com/pgwart) (UW):** (with Jessica Birkey & Tyler Gordon) studying eclipsing binaries in open clusters with TESS.
+
+**[Rachel Wong](https://github.com/rachwong7) (UW):** (with Tyler Gordon and Jessica Birkey) studying rotating stars in open clusters with TESS
 
 ## 2020-2021 Projects
 *The year of Zoom...*
