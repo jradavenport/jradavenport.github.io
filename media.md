@@ -7,7 +7,7 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date.
 
-*updated 2021.10.12*
+*updated 2021.11.29*
 
 
 
