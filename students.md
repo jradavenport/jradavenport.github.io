@@ -15,9 +15,11 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 ## 2021-2022 Projects
 **[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow)
 
-**[Tyler Gordon (UW)](http://www.tagordon.com):**
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Starspots & GPs
 
 **[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow)
+
+**[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST
 
 **[Erin Howard (WWU)](https://github.com/erinleighh):** DREU summer project on Eclipsing Binaries in TESS
 

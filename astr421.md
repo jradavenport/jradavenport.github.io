@@ -19,7 +19,8 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 02 (Jan 05): 
 
 ## Assignments
-- [Homework 1]({{ site.url }}/astr421src/HW1.pdf), due Jan 12
+- [Homework 1]({{ site.url }}/astr421src/homework1.pdf), due Jan 10
+	- Files needed: [Gao2018_GaiaEDR3.csv]({{ site.url }}/astr421src/Gao2018_GaiaEDR3.csv), [MIST_iso_61ca3125bac7d.iso.cmd]({{ site.url }}/astr421src/MIST_iso_61ca3125bac7d.iso.cmd)
 - [Homework 2]()
 - 
 - [Final Project]({{ site.url }}/astr421src/final_project.pdf)
