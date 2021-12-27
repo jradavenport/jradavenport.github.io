@@ -12,11 +12,16 @@ This is the course website for [Astronomy 421](https://sdb.admin.uw.edu/timeschd
 Information/links/updates will come via the class email list... **CHECK YOUR EMAILS!**
 
 ## Documents
-- [Syllabus]()
+- [Syllabus]({{ site.url }}/astr421src/Syllabus.pdf)
 
 ## Lectures
+- Lecture 01 (Jan 03): Live Via Zoom
+- Lecture 02 (Jan 05): 
 
 ## Assignments
-- [Homework 1]({{ site.url }}/astr421src/Syllabus.pdf), due Jan 12
-- Homework 2
+- [Homework 1]({{ site.url }}/astr421src/HW1.pdf), due Jan 12
+- [Homework 2]()
+- 
 - [Final Project]({{ site.url }}/astr421src/final_project.pdf)
+	- Part 1, Due Feb 16 5PM PST
+	- Part 2, Mar 9 & Mar 14
