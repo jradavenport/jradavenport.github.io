@@ -18,7 +18,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 
 ## Lectures
 - Lecture 01 (Jan 03): Live Via Zoom
-- Lecture 02 (Jan 05): 
+- Lecture 02 (Jan 05): [Video](https://www.youtube.com/watch?v=6Ho8Y7keVNA), [Slides]({{ site.url }}/astr421src/Lecture02.pdf)
 
 
 ## Assignments
