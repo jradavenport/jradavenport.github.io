@@ -17,7 +17,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [TA Resources Notion Page](https://astro-andy-uw.notion.site/astro-andy-uw/ASTR-421-TA-Resources-25fff6002f2c46f9bc9f9e15df9b9202)
 
 ## Lectures
-- Lecture 01 (Jan 03): Live Via Zoom
+- Lecture 01 (Jan 03): Live Via Zoom (recording to follow), [Slides]({{ site.url }}/astr421src/Lecture01.pdf)
 - Lecture 02 (Jan 05): [Video](https://www.youtube.com/watch?v=6Ho8Y7keVNA), [Slides]({{ site.url }}/astr421src/Lecture02.pdf)
 
 
