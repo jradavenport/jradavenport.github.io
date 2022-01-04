@@ -28,9 +28,11 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [Homework 1]({{ site.url }}/astr421src/homework1.pdf), due Jan 10
 	- **Reviewing the CMD with M67**
 	- Files needed: [Gao2018_GaiaEDR3.csv]({{ site.url }}/astr421src/Gao2018_GaiaEDR3.csv), [MIST_iso_61ca3125bac7d.iso.cmd]({{ site.url }}/astr421src/MIST_iso_61ca3125bac7d.iso.cmd)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/46xDks7zWnjanSWl1aOp)
-- [Homework 2]()
-	- **Spectra, and solving the Saha/Boltzmann Equations**
+	- [Dropbox Upload Link](https://www.dropbox.com/request/46xDks7zWnjanSWl1aOp) (closes Jan 10, 11pm PST)
+- [Homework 2]({{ site.url }}/astr421src/homework2.pdf), due Jan 19
+	- **Blackbody Spectra, and solving the Saha/Boltzmann Equations**, due Jan 19
+	- Files needed: [sun-atmosphere-kamp.txt]({{ site.url }}/astr421src/sun-atmosphere-kamp.txt), [vega-atmosphere-kamp.txt]({{ site.url }}/astr421src/vega-atmosphere-kamp.txt)
+	- [Dropbox Upload Link](https://www.dropbox.com/request/mbFGbQSjLFDzeTQKKOno) (closes Jan 19, 11pm PST)
 - [Homework 3]()
 	- **Radiative Transfer & Line Formation**
 - [Homework 4]()
