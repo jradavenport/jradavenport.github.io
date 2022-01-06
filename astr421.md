@@ -19,7 +19,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 ## Lectures
 - Lecture 01 (Jan 03): Live Via Zoom, [Video](https://www.youtube.com/watch?v=p5D4WcyPFtI), [Slides]({{ site.url }}/astr421src/Lecture01.pdf)
 - Lecture 02 (Jan 05): [Video](https://www.youtube.com/watch?v=6Ho8Y7keVNA), [Slides]({{ site.url }}/astr421src/Lecture02.pdf)
-- Lecture 03 (Jan 10)
+- Lecture 03 (Jan 10): [Video](https://youtu.be/HAhUThoQLUc), [Slides]({{ site.url }}/astr421src/Lecture03.pdf)
 
 
 ## Assignments
@@ -33,6 +33,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 	- **Blackbody Spectra, and solving the Saha/Boltzmann Equations**, due Jan 19
 	- Files needed: [sun-atmosphere-kamp.txt]({{ site.url }}/astr421src/sun-atmosphere-kamp.txt), [vega-atmosphere-kamp.txt]({{ site.url }}/astr421src/vega-atmosphere-kamp.txt)
 	- [Dropbox Upload Link](https://www.dropbox.com/request/mbFGbQSjLFDzeTQKKOno) (closes Jan 19, 11pm PST)
+	
 - [Homework 3]()
 	- **Radiative Transfer & Line Formation**
 - [Homework 4]()
