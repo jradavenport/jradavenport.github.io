@@ -17,7 +17,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [TA Resources Notion Page](https://astro-andy-uw.notion.site/astro-andy-uw/ASTR-421-TA-Resources-25fff6002f2c46f9bc9f9e15df9b9202)
 
 ## Lectures
-- Lecture 01 (Jan 03): Live Via Zoom, [Video](https://www.youtube.com/watch?v=p5D4WcyPFtI), [Slides]({{ site.url }}/astr421src/Lecture01.pdf)
+- Lecture 01 (Jan 03): [Video](https://www.youtube.com/watch?v=p5D4WcyPFtI), [Slides]({{ site.url }}/astr421src/Lecture01.pdf)
 - Lecture 02 (Jan 05): [Video](https://www.youtube.com/watch?v=6Ho8Y7keVNA), [Slides]({{ site.url }}/astr421src/Lecture02.pdf), [Q/A Video](https://youtu.be/SM7xK1gpCKI)
 - Lecture 03 (Jan 10): [Video](https://youtu.be/HAhUThoQLUc), [Slides]({{ site.url }}/astr421src/Lecture03.pdf), [Q/A Video](https://www.youtube.com/watch?v=VVcNFihEa9g)
 - Lecture 04 (Jan 12): [Video](https://www.youtube.com/watch?v=UVtME9CgW54), [Slides]({{ site.url }}/astr421src/Lecture04.pdf)
@@ -36,13 +36,13 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 	- Files needed: [sun-atmosphere-kamp.txt]({{ site.url }}/astr421src/sun-atmosphere-kamp.txt), [vega-atmosphere-kamp.txt]({{ site.url }}/astr421src/vega-atmosphere-kamp.txt)
 	- [Dropbox Upload Link](https://www.dropbox.com/request/mbFGbQSjLFDzeTQKKOno) (closes Jan 19, 11pm PST)
 
-- [Homework 3]()
+- Homework 3
 	- **Radiative Transfer & Line Formation**
-- [Homework 4]()
+- Homework 4
 	- **Stellar Structure and the Standard Solar Model**
-- [Homework 5]()
+- Homework 5
 	- **Stellar Pulsations**
-- [Homework 6]()
+- Homework 6
 	- **Evolution of a Low- and High-Mass Star with MESA**
 - [Final Project]({{ site.url }}/astr421src/final_project.pdf)
 	- Part 1, Due Feb 16 5PM PST
