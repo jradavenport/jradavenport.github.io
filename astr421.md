@@ -35,7 +35,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [Homework 2]({{ site.url }}/astr421src/homework2.pdf), due Jan 19
 	- **Blackbody Spectra, and solving the Saha/Boltzmann Equations**
 	- Files needed: [sun-atmosphere-kamp.txt]({{ site.url }}/astr421src/sun-atmosphere-kamp.txt), [vega-atmosphere-kamp.txt]({{ site.url }}/astr421src/vega-atmosphere-kamp.txt)
-- Homework 3 [Homework 2]({{ site.url }}/astr421src/homework3.pdf), due Feb 04
+- [Homework 3]({{ site.url }}/astr421src/homework3.pdf), due Feb 04
 	- **Radiative Transfer & Line Formation**
 	- Files needed: [line_functions.py]({{ site.url }}/astr421src/line_functions.py),  [nai_d_data.txt]({{ site.url }}/astr421src/nai_d_data.txt)
 	- [Dropbox Upload Link](https://www.dropbox.com/request/KWTeAltnD7NjRVCWSI8K) (Closes Friday, Feb 4, 11PM PST)
