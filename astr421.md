@@ -22,7 +22,8 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 03 (Jan 10): [Video](https://youtu.be/HAhUThoQLUc), [Slides]({{ site.url }}/astr421src/Lecture03.pdf), [Q/A Video](https://www.youtube.com/watch?v=VVcNFihEa9g)
 - Lecture 04 (Jan 12): [Video](https://www.youtube.com/watch?v=UVtME9CgW54), [Slides]({{ site.url }}/astr421src/Lecture04.pdf), [Q/A Video](https://www.youtube.com/watch?v=ssO-csTiZTE)
 - Lecture 05 (Jan 19): [Video](https://www.youtube.com/watch?v=8crPJUtNoXE), [Slides]({{ site.url }}/astr421src/Lecture05.pdf), [Q/A Video](https://www.youtube.com/watch?v=WJn6jY5DoIQ)
-- Lecture 06 (Jan 24):
+- Lecture 06 (Jan 24): [Video](https://www.youtube.com/watch?v=Se7sVX2Gblc), [Slides]({{ site.url }}/astr421src/Lecture06.pdf)
+- Lecture 07 (Jan 26):
 
 
 ## Assignments
@@ -31,13 +32,13 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [Homework 1]({{ site.url }}/astr421src/homework1.pdf), due Jan 10
 	- **Reviewing the CMD with M67**
 	- Files needed: [Gao2018_GaiaEDR3.csv]({{ site.url }}/astr421src/Gao2018_GaiaEDR3.csv), [MIST_iso_61ca3125bac7d.iso.cmd]({{ site.url }}/astr421src/MIST_iso_61ca3125bac7d.iso.cmd)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/46xDks7zWnjanSWl1aOp) (closes Jan 10, 11pm PST)
 - [Homework 2]({{ site.url }}/astr421src/homework2.pdf), due Jan 19
 	- **Blackbody Spectra, and solving the Saha/Boltzmann Equations**, due Jan 19
 	- Files needed: [sun-atmosphere-kamp.txt]({{ site.url }}/astr421src/sun-atmosphere-kamp.txt), [vega-atmosphere-kamp.txt]({{ site.url }}/astr421src/vega-atmosphere-kamp.txt)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/mbFGbQSjLFDzeTQKKOno) (closes Jan 19, 11pm PST)
-- Homework 3
+- Homework 3 [Homework 2]({{ site.url }}/astr421src/homework3.pdf), due Feb 04
 	- **Radiative Transfer & Line Formation**
+	- Files needed: [line_functions.py]({{ site.url }}/astr421src/line_functions.py),  [nai_d_data.txt]({{ site.url }}/astr421src/nai_d_data.txt)
+	- Dropbox Upload Link](https://www.dropbox.com/request/KWTeAltnD7NjRVCWSI8K) (Closes Friday, Feb 4, 11PM PST)
 - Homework 4
 	- **Stellar Structure and the Standard Solar Model**
 - Homework 5
