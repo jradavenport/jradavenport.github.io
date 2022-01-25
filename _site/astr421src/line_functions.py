@@ -33,10 +33,10 @@ def one_layer_I(i0, tau, B):
     
     Parameters
     ----------
-    tau: float
-        The optical depth that  the beam travels
     i0: float
         The initial intensity of the beam (in erg s^-1 cm^-2 sr^-1 cm^-1)
+    tau: float
+        The optical depth that  the beam travels
     B: float
         The blackbody radiance of the medium (in erg s^-1 cm^-2 sr^-1 cm^-1)
         
@@ -48,9 +48,10 @@ def one_layer_I(i0, tau, B):
     '''
     return i0*np.exp(-tau) + B*(1 - np.exp(-tau))
 
+
 def two_layer_I(i0, tau_l, Bl, tau_s, Bs):
     '''
-    Calculates the emergent intensity of light a light beam
+    Calculates the emergent intensity of a light beam
     with initial intensity i0  that travels an optical depth
     tau_l through an interior layer with blackbody radiance Bl 
     and then travels and optical depth tau_s through a surface 
