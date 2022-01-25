@@ -23,7 +23,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 04 (Jan 12): [Video](https://www.youtube.com/watch?v=UVtME9CgW54), [Slides]({{ site.url }}/astr421src/Lecture04.pdf), [Q/A Video](https://www.youtube.com/watch?v=ssO-csTiZTE)
 - Lecture 05 (Jan 19): [Video](https://www.youtube.com/watch?v=8crPJUtNoXE), [Slides]({{ site.url }}/astr421src/Lecture05.pdf), [Q/A Video](https://www.youtube.com/watch?v=WJn6jY5DoIQ)
 - Lecture 06 (Jan 24): [Video](https://www.youtube.com/watch?v=Se7sVX2Gblc), [Slides]({{ site.url }}/astr421src/Lecture06.pdf), [Q/A Video](https://www.youtube.com/watch?v=1RBD1r4kzXo)
-- Lecture 07 (Jan 26):
+- Lecture 07 (Jan 26): [Video](https://www.youtube.com/watch?v=slS0ZBMNx2M), [Slides]({{ site.url }}/astr421src/Lecture07.pdf)
 
 
 ## Assignments
