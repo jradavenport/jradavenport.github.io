@@ -27,7 +27,8 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 08 (Jan 31): [Video](https://www.youtube.com/watch?v=_srXTzh3FiU), [Slides]({{ site.url }}/astr421src/Lecture08.pdf), [Q/A Video](https://www.youtube.com/watch?v=Kimyo0y3KXk)
 - Lecture 09 (Feb 02): [Video](https://www.youtube.com/watch?v=JN0NeL2-KKY), [Slides]({{ site.url }}/astr421src/Lecture09.pdf), [Q/A Video](https://www.youtube.com/watch?v=pR4SkXL6CZI)
 - Lecture 10 (Feb 07): [Video](https://www.youtube.com/watch?v=4mFMaWgK_yA), [Slides]({{ site.url }}/astr421src/Lecture10.pdf), [Q/A Video](https://www.youtube.com/watch?v=hIiyZSNrqow)
-- Lecture 11 (Feb 14): 
+- Lecture 11 (Feb 09): Career Discussion Day. 
+- Lecture 12 (Feb 14): 
 
 
 ## Assignments
@@ -42,7 +43,6 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [Homework 3]({{ site.url }}/astr421src/homework3.pdf), due Feb 08
 	- **Radiative Transfer & Line Formation**
 	- Files needed: [line_functions.py]({{ site.url }}/astr421src/line_functions.py),  [nai_d_data.txt]({{ site.url }}/astr421src/nai_d_data.txt)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/KWTeAltnD7NjRVCWSI8K) (Closes Tuesday, Feb 8, 11PM PST)
 - Homework 4
 	- **Stellar Structure and the Standard Solar Model**
 - Homework 5
@@ -50,5 +50,5 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Homework 6
 	- **Evolution of a Low- and High-Mass Star with MESA**
 - [Final Project]({{ site.url }}/astr421src/final_project.pdf)
-	- Part 1, Due Feb 16 5PM PST
+	- Part 1, Due Feb 16 5PM PST. [Dropbox Upload Link](https://www.dropbox.com/request/UYz4B9cGQzVO9h8W8li7)
 	- Part 2, Mar 9 & Mar 14
