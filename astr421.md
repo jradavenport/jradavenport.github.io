@@ -28,7 +28,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 09 (Feb 02): [Video](https://www.youtube.com/watch?v=JN0NeL2-KKY), [Slides]({{ site.url }}/astr421src/Lecture09.pdf), [Q/A Video](https://www.youtube.com/watch?v=pR4SkXL6CZI)
 - Lecture 10 (Feb 07): [Video](https://www.youtube.com/watch?v=4mFMaWgK_yA), [Slides]({{ site.url }}/astr421src/Lecture10.pdf), [Q/A Video](https://www.youtube.com/watch?v=hIiyZSNrqow)
 - Lecture 11 (Feb 09): Career Discussion Day. 
-- Lecture 12 (Feb 14): 
+- Lecture 12 (Feb 14): [Video](https://www.youtube.com/watch?v=BbiF7C4kHjs), [Slides]({{ site.url }}/astr421src/Lecture12.pdf)
 
 
 ## Assignments
@@ -45,6 +45,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 	- Files needed: [line_functions.py]({{ site.url }}/astr421src/line_functions.py),  [nai_d_data.txt]({{ site.url }}/astr421src/nai_d_data.txt)
 - Homework 4
 	- **Stellar Structure and the Standard Solar Model**
+	- Files needed: [bp2000_ssm.txt]({{ site.url }}/astr421src/bp2000_ssm.txt)
 - Homework 5
 	- **Stellar Pulsations**
 - Homework 6
