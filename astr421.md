@@ -29,8 +29,8 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 10 (Feb 07): [Video](https://www.youtube.com/watch?v=4mFMaWgK_yA), [Slides]({{ site.url }}/astr421src/Lecture10.pdf), [Q/A Video](https://www.youtube.com/watch?v=hIiyZSNrqow)
 - Lecture 11 (Feb 09): Career Discussion Day
 - Lecture 12 (Feb 14): [Video](https://www.youtube.com/watch?v=BbiF7C4kHjs), [Slides]({{ site.url }}/astr421src/Lecture12.pdf), [Q/A Video](https://www.youtube.com/watch?v=yHwKlgwjOC0)
-- Lecture 13 (Feb 16): [Video](), [Slides]({{ site.url }}/astr421src/Lecture13.pdf)
-- Lecture 14 (Feb 23): [Video](), [Slides]({{ site.url }}/astr421src/Lecture14.pdf)
+- Lecture 13 (Feb 16): [Video](https://www.youtube.com/watch?v=HKEHN2abLtg), [Slides]({{ site.url }}/astr421src/Lecture13.pdf)
+- Lecture 14 (Feb 23): 
 
 
 ## Assignments
