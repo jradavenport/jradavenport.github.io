@@ -30,7 +30,12 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 11 (Feb 09): Career Discussion Day
 - Lecture 12 (Feb 14): [Video](https://www.youtube.com/watch?v=BbiF7C4kHjs), [Slides]({{ site.url }}/astr421src/Lecture12.pdf), [Q/A Video](https://www.youtube.com/watch?v=yHwKlgwjOC0)
 - Lecture 13 (Feb 16): [Video](https://www.youtube.com/watch?v=HKEHN2abLtg), [Slides]({{ site.url }}/astr421src/Lecture13.pdf), [Q/A Video](https://www.youtube.com/watch?v=FCf02QAe-_I)
-- Lecture 14 (Feb 23): 
+- Lecture 14 (Feb 23): [Video](), [Slides]({{ site.url }}/astr421src/Lecture14.pdf)
+- Lecture 15 (Feb 28):
+- Lecture 16 (Mar 02):
+- Lecture 17 (Mar 07): *Final Lecture*
+- Final Session 1 (Mar 09)
+- Final Session 2 (Mar 14)
 
 
 ## Assignments
@@ -48,12 +53,15 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [Homework 4]({{ site.url }}/astr421src/homework4.pdf), due Feb 22
 	- **Stellar Structure and the Standard Solar Model**
 	- Files needed: [bp2000_ssm.txt]({{ site.url }}/astr421src/bp2000_ssm.txt)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/watf9F9VxpCGQa82X5EA) Due at 11 PM, Feb 22
-- Homework 5
+	- [Dropbox Upload Link](https://www.dropbox.com/request/watf9F9VxpCGQa82X5EA), Due at 11 PM, Feb 22
+- [Homework 5]({{ site.url }}/astr421src/homework5.pdf)
 	- **Stellar Pulsations**
+	- Notebook needed: [RRLyr_Period-Luminosity.ipynb]({{ site.url }}/astr421src/RRLyr_Period-Luminosity.ipynb)]
+	- Files needed: [12.parquet]({{ site.url }}/astr421src/12.parquet), [rrl_main_cat.csv.gz]({{ site.url }}/astr421src/12.parquet)
+	- [Dropbox Upload Link](https://www.dropbox.com/request/gHoOSBD9HkHX6psd14AB), Due at 11 PM, March 02
 - Homework 6
 	- **Evolution of a Low- and High-Mass Star with MESA**
 	- Due in Finals Week
 - [Final Project]({{ site.url }}/astr421src/final_project.pdf)
-	- Part 1, Due Feb 16 5PM PST. [Dropbox Upload Link](https://www.dropbox.com/request/UYz4B9cGQzVO9h8W8li7)
+	- Part 1, Due Feb 16 5PM PST.
 	- Part 2, Mar 9 (last day of class) & Mar 14 (beginning of Finals week)
