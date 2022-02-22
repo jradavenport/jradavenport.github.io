@@ -56,8 +56,8 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 	- [Dropbox Upload Link](https://www.dropbox.com/request/watf9F9VxpCGQa82X5EA), Due at 11 PM, Feb 22
 - [Homework 5]({{ site.url }}/astr421src/homework5.pdf)
 	- **Stellar Pulsations**
-	- Notebook needed: [RRLyr_Period-Luminosity.ipynb]({{ site.url }}/astr421src/RRLyr_Period-Luminosity.ipynb)]
-	- Files needed: [12.parquet]({{ site.url }}/astr421src/12.parquet), [rrl_main_cat.csv.gz]({{ site.url }}/astr421src/12.parquet)
+	- Notebook needed: [RRLyr_Period-Luminosity.ipynb]({{ site.url }}/astr421src/RRLyr_Period-Luminosity.ipynb)
+	- Files needed: [12.parquet]({{ site.url }}/astr421src/12.parquet), [rrl_main_cat.csv.gz]({{ site.url }}/astr421src/rrl_main_cat.csv.gz)
 	- [Dropbox Upload Link](https://www.dropbox.com/request/gHoOSBD9HkHX6psd14AB), Due at 11 PM, March 02
 - Homework 6
 	- **Evolution of a Low- and High-Mass Star with MESA**
