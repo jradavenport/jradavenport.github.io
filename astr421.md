@@ -53,15 +53,15 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - [Homework 4]({{ site.url }}/astr421src/homework4.pdf), due Feb 22
 	- **Stellar Structure and the Standard Solar Model**
 	- Files needed: [bp2000_ssm.txt]({{ site.url }}/astr421src/bp2000_ssm.txt)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/watf9F9VxpCGQa82X5EA), Due at 11 PM, Feb 22
-- [Homework 5]({{ site.url }}/astr421src/homework5.pdf)
+- [Homework 5]({{ site.url }}/astr421src/homework5.pdf), due Mar 02
 	- **Stellar Pulsations**
 	- Notebook needed: [RRLyr_Period-Luminosity.ipynb]({{ site.url }}/astr421src/RRLyr_Period-Luminosity.ipynb)
 	- Files needed: [12.parquet]({{ site.url }}/astr421src/12.parquet), [rrl_main_cat.csv.gz]({{ site.url }}/astr421src/rrl_main_cat.csv.gz)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/gHoOSBD9HkHX6psd14AB), Due at 11 PM, March 02
-- Homework 6
+	- [Dropbox Upload Link](https://www.dropbox.com/request/gHoOSBD9HkHX6psd14AB), due at 11 PM, Mar 02
+- Homework 6, due Mar 17
 	- **Evolution of a Low- and High-Mass Star with MESA**
-	- Due in Finals Week
+	- Files needed: [1MsunData.tar]({{ site.url }}/astr421src/1MsunData.tar), [25MsunData.tar]({{ site.url }}/astr421src/25MsunData.tar)
+	- [Dropbox Upload Link](https://www.dropbox.com/request/S1FGtCmlGK0HGAN5Nrgb), due at 11 PM, Mar 17.
 - [Final Project]({{ site.url }}/astr421src/final_project.pdf)
 	- Part 1, Due Feb 16 5PM PST.
 	- Part 2, Mar 9 (last day of class) & Mar 14 (beginning of Finals week)
