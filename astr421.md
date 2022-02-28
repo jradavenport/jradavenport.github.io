@@ -7,9 +7,8 @@ show_in_nav: false
 
 # Stellar Observations and Theory
 
-This is the course website for [Astronomy 421](https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=WIN+2022&SLN=21953), Winter 2022 edition. This is my first time teaching this course, and as such the material (and this website) may change frequently. 
+This is the course website for [Astronomy 421](https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=WIN+2022&SLN=21953), Winter 2022 edition. 
 
-Information/links/updates will come via the class email list... **CHECK YOUR EMAILS!**
 
 ## Resources
 - [Syllabus]({{ site.url }}/astr421src/Syllabus.pdf)
@@ -31,7 +30,7 @@ Information/links/updates will come via the class email list... **CHECK YOUR EMA
 - Lecture 12 (Feb 14): [Video](https://www.youtube.com/watch?v=BbiF7C4kHjs), [Slides]({{ site.url }}/astr421src/Lecture12.pdf), [Q/A Video](https://www.youtube.com/watch?v=yHwKlgwjOC0)
 - Lecture 13 (Feb 16): [Video](https://www.youtube.com/watch?v=HKEHN2abLtg), [Slides]({{ site.url }}/astr421src/Lecture13.pdf), [Q/A Video](https://www.youtube.com/watch?v=FCf02QAe-_I)
 - Lecture 14 (Feb 23): [Video](https://www.youtube.com/watch?v=O9-GaYgKEoI), [Slides]({{ site.url }}/astr421src/Lecture14.pdf), [Q/A Video](https://www.youtube.com/watch?v=WrK97aTD_so)
-- Lecture 15 (Feb 28):
+- Lecture 15 (Feb 28): [Video](https://www.youtube.com/watch?v=_RhmJb2s59Q), [Slides]({{ site.url }}/astr421src/Lecture15.pdf)
 - Lecture 16 (Mar 02):
 - Lecture 17 (Mar 07): *Final Lecture*
 - Final Session 1 (Mar 09)
