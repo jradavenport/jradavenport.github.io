@@ -57,7 +57,7 @@ This is the course website for [Astronomy 421](https://sdb.admin.uw.edu/timeschd
 	- Notebook needed: [RRLyr_Period-Luminosity.ipynb]({{ site.url }}/astr421src/RRLyr_Period-Luminosity.ipynb)
 	- Files needed: [12.parquet]({{ site.url }}/astr421src/12.parquet), [rrl_main_cat.csv.gz]({{ site.url }}/astr421src/rrl_main_cat.csv.gz)
 	- [Dropbox Upload Link](https://www.dropbox.com/request/gHoOSBD9HkHX6psd14AB), due at 11 PM, Mar 02
-- Homework 6, due Mar 17
+- [Homework 6]({{ site.url }}/astr421src/homework6.pdf), due Mar 17
 	- **Evolution of a Low- and High-Mass Star with MESA**
 	- Files needed: [1MsunData.tar]({{ site.url }}/astr421src/1MsunData.tar), [25MsunData.tar]({{ site.url }}/astr421src/25MsunData.tar)
 	- [Dropbox Upload Link](https://www.dropbox.com/request/S1FGtCmlGK0HGAN5Nrgb), due at 11 PM, Mar 17.
