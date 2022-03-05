@@ -32,7 +32,7 @@ This is the course website for [Astronomy 421](https://sdb.admin.uw.edu/timeschd
 - Lecture 14 (Feb 23): [Video](https://www.youtube.com/watch?v=O9-GaYgKEoI), [Slides]({{ site.url }}/astr421src/Lecture14.pdf), [Q/A Video](https://www.youtube.com/watch?v=WrK97aTD_so)
 - Lecture 15 (Feb 28): [Video](https://www.youtube.com/watch?v=_RhmJb2s59Q), [Slides]({{ site.url }}/astr421src/Lecture15.pdf), [Q/A Video](https://www.youtube.com/watch?v=PxEEizZF_eA)
 - Lecture 16 (Mar 02): [Video](https://www.youtube.com/watch?v=Hkh6ZC8iRtg), [Slides]({{ site.url }}/astr421src/Lecture16.pdf), [Q/A Video](https://www.youtube.com/watch?v=wJFAKZ77dH4)
-- Lecture 17 (Mar 07): *Final Lecture*
+- Lecture 17 (Mar 07): [Video](https://www.youtube.com/watch?v=ZaYlAKEXAhE), [Slides]({{ site.url }}/astr421src/Lecture17.pdf)
 - Final Session 1 (Mar 09)
 - Final Session 2 (Mar 14)
 

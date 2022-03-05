@@ -51,7 +51,6 @@ I am putting these ideas online in the hopes of attracting people to help work o
 
 ### Flares
 - **Searching for Flare Rate Changes Over Time**
-	- **This proposal has summer funding from [TESS Cycle 3](https://heasarc.gsfc.nasa.gov/docs/tess/approved-programs.html#cycle-3) for a UW Grad Student!**
 	- We're looking for Activity Cycles
 	- The Sun has ~10x change in flare rate between "max" and "min" of Solar Cycle
 	- We have 4-year flare rates in Kepler that can be chopped into windows of time
