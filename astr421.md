@@ -59,7 +59,6 @@ This is the course website for [Astronomy 421](https://sdb.admin.uw.edu/timeschd
 - [Homework 6]({{ site.url }}/astr421src2022/homework6.pdf), due Mar 17
 	- **Evolution of a Low- and High-Mass Star with MESA**
 	- Files needed: [1MsunData.tar]({{ site.url }}/astr421src2022/1MsunData.tar), [25MsunData.tar]({{ site.url }}/astr421src2022/25MsunData.tar)
-	- [Dropbox Upload Link](https://www.dropbox.com/request/S1FGtCmlGK0HGAN5Nrgb), due at 11 PM, Mar 17.
 	- Some [example code](https://gist.github.com/jradavenport/bbd6c6874f263e217c2963bda85f7fa3)
 - [Final Project]({{ site.url }}/astr421src2022/final_project.pdf)
 	- Part 1, Due Feb 16 5PM PST.
