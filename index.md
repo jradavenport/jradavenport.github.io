@@ -26,4 +26,4 @@ My research program focuses on studying time domain, large survey astronomy, wit
 </ul>
 </div>
 <br>
-<i class="fa fa-coffee"></i> <i class="fa fa-pagelines"></i> <i class="fa fa-tree"></i> 
+<i class="fa fa-coffee"></i> <i class="fa fa-star"></i> <i class="fa fa-pagelines"></i> <i class="fa fa-lightbulb-o"></i> 
