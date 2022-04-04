@@ -13,25 +13,23 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 ## *Student Collaborations*
 <hr>
 ## 2021-2022 Projects
-**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow)
+
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow) Flare morphology and flare temperatures in TESS & Kepler
 
 **[Tyler Gordon (UW)](http://www.tagordon.com):** Starspots & GPs
 
-**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow)
+**[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow) (with Prof. Rory Barnes) Studying tidal synchronization in binaries.
 
-**[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST
+**[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
 
-**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU summer project on Eclipsing Binaries in TESS
 
-**Jaide Swanson (UW):** (with [Dr. Keaton Bell](http://faculty.washington.edu/keatonb/)) Calibrating the "crowdedness factor" for TESS with eclipsing bianries.
+**[Erin Howard (WWU)](https://github.com/erinleighh):** Eclipsing Binaries in TESS. (NSF GRFP Honorable Mention)
 
-**Bárbara Cabrales (Smith):** (with Dr. Sofia Sheikh) Characterizing uncertainties on the SETI Ellipsoid with TESS
+**[Bárbara Cabrales](https://github.com/barbaracabrales) (Smith):** (with [Dr. Sofia Sheikh](https://sofiazsheikh.wordpress.com)) Searching the SETI Ellipsoid with TESS
 
-**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** postbac, with Breakthrough Listen, searching for "missing transits" with Kepler and TESS.
+**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** Searching for "missing transits" with Kepler. (NSF GRFP Awarded)
 
-**[Peter Gwartney](https://github.com/pgwart) (UW):** (with Jessica Birkey & Tyler Gordon) studying eclipsing binaries in open clusters with TESS.
-
-**[Rachel Wong](https://github.com/rachwong7) (UW):** (with Tyler Gordon and Jessica Birkey) studying rotating stars in open clusters with TESS
+<hr>
 
 ## 2020-2021 Projects
 *The year of Zoom...*
@@ -46,15 +44,13 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Spencer Wallace (UW)](http://depts.washington.edu/astron/profile/wallace-spencer/):** GKM Superflares in TESS.
 
-**[Andy Tzanidakis (UW)](https://github.com/AndyTza):** Flare rate variations in Kepler-TESS stars.
+**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU summer 2021 project on Eclipsing Binaries in TESS
 
-**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU summer project on Eclipsing Binaries in TESS
+**Jaide Swanson (UW):** (with [Dr. Keaton Bell](http://faculty.washington.edu/keatonb/)) Calibrating the "crowdedness factor" for TESS with eclipsing bianries.
 
-**Jaide Swanson (UW):** (with Dr. Keaton Bell) Calibrating the "crowdedness factor" for TESS with eclipsing bianries.
+**[Bárbara Cabrales](https://github.com/barbaracabrales) (Smith):** (with [Dr. Sofia Sheikh](https://sofiazsheikh.wordpress.com)) Breakthrough Listen summer 2021 intern, exploring the SETI Ellipsoid with TESS
 
-**Bárbara Cabrales (Smith):** (with Dr. Sofia Sheikh) Breakthrough Listen summer intern, exploring the SETI Ellipsoid with TESS
-
-**Anna Zuckerman (Brown):** postbac, with Breakthrough Listen, searching for "missing transits" with Kepler and TESS.
+**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** Summer 2021 postbac, (with Steve Croft, Breakthrough Listen), searching for "missing transits" with Kepler.
 
 **Peter Gwartney (UW):** (with Jessica Birkey & Tyler Gordon) studying eclipsing binaries in open clusters with TESS.
 
@@ -65,7 +61,7 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 ## 2019-2020 Projects
 
-**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU Project on Eclipsing Binaries in TESS
+**[Erin Howard (WWU)](https://github.com/erinleighh):** DREU Summer 2020 Project on Eclipsing Binaries in TESS
 
 **[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** (NSF GRFP Fellow) Flare morphology versus spectral type. ([Repo](https://github.com/lupitatovar/flares)) Co-author on paper "[10 Years of Stellar Activity for GJ 1243](https://ui.adsabs.harvard.edu/abs/2020arXiv200510281D/abstract)"
 
