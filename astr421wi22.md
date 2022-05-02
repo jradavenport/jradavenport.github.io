@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ASTR 421 
-permalink: /astr421/
+title: ASTR 421 Winter 2022
+permalink: /astr421wi22/
 show_in_nav: false
 ---
 
