@@ -7,7 +7,21 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or twitter.
 
-*updated 2021.12.27*
+*updated 2022.05.08*
+
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://muckrack.com/broadcast/savedclips/view/BqrDSpFD3L">
+<img src = "/assets/media_logos/knkx.png" width=195> </a>
+</td>
+<td>
+<a href="https://muckrack.com/broadcast/savedclips/view/E3mHiR7n1f">
+<img src = "/assets/media_logos/kuow.png" width=195> </a>
+</td>
+</tr>
+</tbody></table>
 
 
 <table><tbody>
@@ -89,6 +103,7 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 </td>
 </tr>
 </tbody></table>
+
 
 
 
