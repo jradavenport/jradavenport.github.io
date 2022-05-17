@@ -5,7 +5,7 @@ permalink: /media/
 show_in_nav: true
 ---
 
-Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or twitter.
+Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
 
 *updated 2022.05.08*
 
@@ -91,15 +91,15 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <tr>
 <td>
 <a href="https://www.eurekalert.org/pub_releases/2021-01/uow-adt011421.php">
-<img src="/assets/media_logos/eureka.png" width=280/></a>
+<img src="/assets/media_logos/eureka.png" width=200/></a>
 </td>
 <td>
 <a href="https://www.space.com/binary-star-eclipses-shine-tess-archival-data">
-<img src="/assets/media_logos/spacedotcom.png" /></a>
+<img src="/assets/media_logos/spacedotcom.png" width=200/></a>
 </td>
 <td>
 <a href="https://www.nature.com/articles/d41586-020-01905-5">
-<img src="/assets/media_logos/nature.png" /></a>
+<img src="/assets/media_logos/nature.png"  width=200/></a>
 </td>
 </tr>
 </tbody></table>
@@ -115,11 +115,11 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 </td>
 <td>
 <a href="https://www.space.com/tess-exoplanet-mission-studying-stars-too.html">
-<img src="/assets/media_logos/spacedotcom.png" /></a>
+<img src="/assets/media_logos/spacedotcom.png"  width=200/></a>
 </td>
 <td>
 <a href="https://themorningnews.org/post/wednesday-headlines-million-vlogger-baby/">
-<img src="/assets/media_logos/tmm.png" /></a>
+<img src="/assets/media_logos/tmm.png"  width=195 /></a>
 </td>
 </tr>
 </tbody></table>
@@ -159,7 +159,7 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <tr>
 <td>
 <a href="http://www.pbs.org/newshour/rundown/earth-like-planet-orbits-suns-nearest-neighbor-every-11-days/">
-<img src="/assets/media_logos/newshour.png"/>
+<img src="/assets/media_logos/newshour.png" width=300/>
 </a></td>
 <td>
 <a href="http://sanjuanislander.com/news-articles/environment-science-whales/22699/earth-like-planet-discovered">
@@ -242,9 +242,9 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 </tr>
 </tbody></table>
 <table><tbody>
-<tr><td><a href="http://www.popsci.com/science/gallery/2013-06/ocean-prison-fit-supervillains-and-other-amazing-images-week?image=8"><img src="https://1.bp.blogspot.com/-Ov7mZJNiAW4/Uo6AYtu1xrI/AAAAAAAAB5s/paKWe0RFYDw/s1600/popsci.png" /></a>
+<tr><td><a href="http://www.popsci.com/science/gallery/2013-06/ocean-prison-fit-supervillains-and-other-amazing-images-week?image=8"><img src="https://1.bp.blogspot.com/-Ov7mZJNiAW4/Uo6AYtu1xrI/AAAAAAAAB5s/paKWe0RFYDw/s1600/popsci.png"  width=200/></a>
 </td>
-<td><a href="http://www.theverge.com/2013/8/16/4629368/1-year-of-battery-stats-for-2012-mba"><img src="https://3.bp.blogspot.com/-PoLFpXQMXq8/Uo6AYpNRiKI/AAAAAAAAB5o/zVXq4waK15Q/s1600/verge.png" /></a>
+<td><a href="http://www.theverge.com/2013/8/16/4629368/1-year-of-battery-stats-for-2012-mba"><img src="https://3.bp.blogspot.com/-PoLFpXQMXq8/Uo6AYpNRiKI/AAAAAAAAB5o/zVXq4waK15Q/s1600/verge.png"  width=200/></a>
 </td></tr>
 </tbody></table>
 
@@ -253,7 +253,7 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <td><a href="http://visualoop.com/18764/data-viz-news-46">
 <img src="https://2.bp.blogspot.com/-mVmKsCqEB4Q/VMGuCI-VKRI/AAAAAAAACMM/g_jJYcklxFI/s1600/visualoop.png" /></a>
 </td>
-<td><a href="http://physicsworld.com/cws/article/indepth/2012/oct/25/web-life"><img src="https://2.bp.blogspot.com/-axBgOS6MuMM/UPetKQEWFwI/AAAAAAAABdw/6twfm7Zrh6Q/s1600/physworld.png" /></a>
+<td><a href="http://physicsworld.com/cws/article/indepth/2012/oct/25/web-life"><img src="https://2.bp.blogspot.com/-axBgOS6MuMM/UPetKQEWFwI/AAAAAAAABdw/6twfm7Zrh6Q/s1600/physworld.png"  width=300/></a>
 </td></tr>
 </tbody></table>
 
@@ -305,7 +305,7 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <td><a href="http://www.businessinsider.com/starbucks-map-2012-10"><img src="https://3.bp.blogspot.com/-iiGGN0YDJ4U/UPetJLfArWI/AAAAAAAABdQ/QOHtSs67WMg/s1600/bi.png" /></a> </td>
 </tr>
 <tr>
-<td><a href="http://consumerist.com/2012/10/11/chances-are-youll-never-have-to-drive-more-than-20-miles-to-find-a-starbucks/"><img src="https://1.bp.blogspot.com/-u6QLH5B7-oo/UPetJTjpZXI/AAAAAAAABdY/zXhhchGlmJA/s1600/consumerist.png" /></a> </td>
+<td><a href="http://consumerist.com/2012/10/11/chances-are-youll-never-have-to-drive-more-than-20-miles-to-find-a-starbucks/"><img src="https://1.bp.blogspot.com/-u6QLH5B7-oo/UPetJTjpZXI/AAAAAAAABdY/zXhhchGlmJA/s1600/consumerist.png"  width=300/></a> </td>
 
 <td><a href="http://blog.mindjet.com/2012/11/qa-with-james-davenport-blogger-at-if-we-assume/"><img src="https://2.bp.blogspot.com/-Vo1BPrSjUy8/UPetJBKcNmI/AAAAAAAABdU/UVV8GkUcSA8/s1600/consipre.png" /></a></td>
 

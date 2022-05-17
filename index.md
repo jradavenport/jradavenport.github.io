@@ -21,7 +21,6 @@ My research program focuses on studying time domain, large survey astronomy, wit
 <li> <a href="http://www.ifweassume.com"> If We Assume</a>, my data analysis and visualization blog </li>
 <li> <a href="https://zenodo.org/communities/astronomy-general/">Zenodo//Astronomy-General</a>, a Zenodo.org collection of citable data and materials by professional astronomers. </li>
 <li> <a href="http://seti.news">SETI.news</a>, a monthly email list for sharing academic SETI research.</li>
-<li> <a href="https://www.youtube.com/james-davenport">YouTube channel</a> </li>
 </ul>
 </div>
 <br>
