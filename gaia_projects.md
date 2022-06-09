@@ -5,8 +5,9 @@ permalink: /gaia_projects/
 show_in_nav: false
 ---
 
-Collecting project ideas for Gaia DR3
+Collecting project ideas for [Gaia DR3](https://www.cosmos.esa.int/web/gaia/dr3)
 
+[UW Brainstorming Doc](https://docs.google.com/document/d/1lHenqMYuLmWGH3yHxuGGu1ARgzjXR-w4qdJaBENcCfY/edit#)
 
 - Searching for new PNe in Gaia... spectra could be useful!
 - EBHRD
