@@ -3,10 +3,10 @@
   <channel>
     <title>James R. A. Davenport</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 09 Jun 2022 15:35:35 -0700</pubDate>
-    <lastBuildDate>Thu, 09 Jun 2022 15:35:35 -0700</lastBuildDate>
+    <link>http://jradavenport.github.io/</link>
+    <atom:link href="http://jradavenport.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 09 Jun 2022 15:58:20 -0700</pubDate>
+    <lastBuildDate>Thu, 09 Jun 2022 15:58:20 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -56,8 +56,8 @@ The value of good mentorship has long been known, and the impact a mentor (or ad
 &lt;p&gt;I’m currently reading a &lt;a href=&quot;https://www.amazon.com/Creative-Habit-Learn-Use-Life/dp/1480589837&quot;&gt;book&lt;/a&gt; about making creativity a habit, and it mirrors much about what I read last year on &lt;a href=&quot;https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433&quot;&gt;writing productivity&lt;/a&gt;: get up and be creative for a fixed amount of time every day. When inspiration, excitement, and momentum fail you, habit (and habit-building structures) will save you. Another subtle angle to this is that habit - the magical power of just showing up - is key for not only generating deeply creative work (i.e. being receptive to divine inspiration, if such a thing exists) but also in the ability to be prolific (i.e. how to write a LOT). A good group meeting is one that encourages habit, that helps remove obstacles and adds energy to our work.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jul 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/07/05/mentorship.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/07/05/mentorship.html</guid>
+        <link>http://jradavenport.github.io/2018/07/05/mentorship.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2018/07/05/mentorship.html</guid>
         
         
       </item>
@@ -111,8 +111,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 21 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/05/21/seti.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/21/seti.html</guid>
+        <link>http://jradavenport.github.io/2018/05/21/seti.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2018/05/21/seti.html</guid>
         
         
       </item>
@@ -129,7 +129,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 
 &lt;p&gt;wrote &lt;a href=&quot;http://adsabs.harvard.edu/abs/2016arXiv161008563D&quot;&gt;short paper&lt;/a&gt; last year on rotation Kepler, using Gaia to filter our subgiants, find period bimodality extends from M dwarfs all the way to G dwarfs.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/fig3_mod.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/fig3_mod.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;time to extend this to K2, search stars of more ages/masses. have NASA-ADAP grant to study this with Ruth, need students!&lt;/p&gt;
 
@@ -148,8 +148,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/09/20/k2rot.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/20/k2rot.html</guid>
+        <link>http://jradavenport.github.io/2017/09/20/k2rot.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2017/09/20/k2rot.html</guid>
         
         
       </item>
@@ -158,7 +158,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
         <title>Photometric Metallicities</title>
         <description>&lt;p&gt;Here is a cool figure that I made with &lt;a href=&quot;http://www.sarahjaneschmidt.com&quot;&gt;S. J. Schmidt&lt;/a&gt; a few years ago at a research &lt;a href=&quot;https://www.instagram.com/p/xvLZM1lCMc/&quot;&gt;retreat in beautiful Friday Harbor&lt;/a&gt;, based on work she was doing with &lt;a href=&quot;http://www.sdss3.org/surveys/apogee.php&quot;&gt;APOGEE&lt;/a&gt; + &lt;a href=&quot;https://www.nasa.gov/mission_pages/WISE/main/index.html&quot;&gt;WISE&lt;/a&gt; data for low-mass stars (see very relevant paper &lt;a href=&quot;http://adsabs.harvard.edu/abs/2016MNRAS.460.2611S&quot;&gt;here&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/w1w2_rz_feh.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/w1w2_rz_feh.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We added to her APOGEE work by including dwarf stars processed by the SDSS Stellar Parameter Pipeline (SSPP).&lt;/p&gt;
 
@@ -196,8 +196,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;&lt;strong&gt;What I need:&lt;/strong&gt; People who know more about the current state of the field for “chemical cartography” of our Milky Way. Is it still exciting to measure [Fe/H] gradients? Look for kinematic+chemical substructure?&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/04/03/feh.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/03/feh.html</guid>
+        <link>http://jradavenport.github.io/2017/04/03/feh.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2017/04/03/feh.html</guid>
         
         
       </item>
@@ -223,8 +223,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;On some level this is a “reality check” exercise. I would basically not expect to find any published planets to have missing transits, as I think this would cause undue scatter in the phase-folded data that would have led to their rejection. However given the entertaining SETI angle, &lt;em&gt;it does seem worth it to at least check!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Mar 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2017/03/09/missing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/09/missing.html</guid>
+        <link>http://jradavenport.github.io/2017/03/09/missing.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2017/03/09/missing.html</guid>
         
         
       </item>
@@ -239,7 +239,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;After corresponding with the gPhoton folks, it seems this may be a less efficient approach, and that an SQL-style database is also available for visit-level data that may suffice. Comparison of gPhoton with this coarser data is required!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is the decade long light curve for one star, chosen to have the largest number of visits available (over 70). Each data point is the median flux value within the visit. The evolution is very interesting!
-&lt;img src=&quot;http://localhost:4000/assets/HD_3765.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://jradavenport.github.io/assets/HD_3765.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -256,7 +256,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 
 &lt;p&gt;Instead of gPhoton, I used a dedicated dataset built from GALEX observations of the Kepler field by &lt;a href=&quot;http://adsabs.harvard.edu/abs/2015ApJ...813..100O&quot;&gt;Olmedo et al. (2015)&lt;/a&gt;. Using the excellent CDS X Match Service, I quickly and effortlessly matched this catalog to the &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014ApJS..211...24M&quot;&gt;McQuillan et al. (2014)&lt;/a&gt; rotation period dataset. To get more photometry, I then matched &lt;em&gt;this&lt;/em&gt; combined catalog to SIMBAD with X Match. In a matter of 30 minutes from the airport I was able to get the data to make this figure:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/galex_rot_test2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/galex_rot_test2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;For stars with a small range of temperatures, we can see the NUV flux appears to decrease compared to the V-band as a function of rotation period. Here I use the NUV-V color, as it is distance independent, and small bins in temperature to minimize the effect of different stars inhabiting different ranges of rotation period causing artificial spreads in the color. The evolution of less UV activity with increasing age (rotation period) is in the direction that is expected. However, the scatter is quite large.&lt;/p&gt;
 
@@ -273,15 +273,15 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;&lt;a href=&quot;https://github.com/jradavenport/GALEX_rot/blob/master/explore.ipynb&quot;&gt;Python notebook on Github&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Mar 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2017/03/06/galex.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/06/galex.html</guid>
+        <link>http://jradavenport.github.io/2017/03/06/galex.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2017/03/06/galex.html</guid>
         
         
       </item>
     
       <item>
         <title>Lunar Occultations of K2 Stars</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Moon_map.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/Moon_map.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 &lt;p&gt;I had an epiphany in early 2016: The moon goes through the K2 fields. I mean, of course it does by construction. K2 has to point along the ecliptic due to using the solar wind as a 3rd axis stabilizer. The moon travels along ecliptic. In hindsight, it is very obvious.&lt;/p&gt;
@@ -291,8 +291,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;Such a project for community observers of occultations was described by the Occult software maker, Dave Herald, in this &lt;a href=&quot;https://stargazerslounge.com/topic/229660-ideas-for-astro-society-project/?do=findComment&amp;amp;comment=2479350&quot;&gt;forum comment&lt;/a&gt; as an idea pitched by &lt;a href=&quot;http://www.astro.cornell.edu/~jpl/James_Lloyd&quot;&gt;James Lloyd&lt;/a&gt;. The banner figure above is an example occultation in May 2017 of a K2 target observable from &lt;a href=&quot;http://www.apo.nmsu.edu&quot;&gt;APO&lt;/a&gt;, as computed by &lt;a href=&quot;http://www.lunar-occultations.com/iota/occult4.htm&quot;&gt;Occult v4.2.0&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Occultation#Occultations_by_the_Moon&quot;&gt;Lunar occultations&lt;/a&gt; can be used to estimate the angular diameter of background stars. It can also be used to determine if a star is actually a binary! Check out these toy examples I coded up:
-&lt;img src=&quot;http://localhost:4000/assets/occult1.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/assets/occult2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://jradavenport.github.io/assets/occult1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://jradavenport.github.io/assets/occult2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Occultations allow binaries to be detected at &lt;a href=&quot;http://adsabs.harvard.edu/abs/2014SerAJ.188....1J&quot;&gt;milli-arcsecond separations&lt;/a&gt;, &lt;em&gt;assuming the stars are separated along the direction of occultation&lt;/em&gt;, and can detect companions up to &lt;a href=&quot;http://adsabs.harvard.edu/abs/2003A%26A...397.1123R&quot;&gt;11 mag fainter&lt;/a&gt;! This means occultations could even be used to &lt;em&gt;detect&lt;/em&gt; exoplanets with next-generation large telescopes.&lt;/p&gt;
 
@@ -318,8 +318,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;Drift spectroscopy? Could be possible with a longslit spectrograph (one way time resolved spectroscopy was done in olden days…)&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Feb 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2017/02/25/occult.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/02/25/occult.html</guid>
+        <link>http://jradavenport.github.io/2017/02/25/occult.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2017/02/25/occult.html</guid>
         
         
       </item>
@@ -339,15 +339,15 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;Finally, working in the temporal-spatial domain is good practice for the forthcoming “LSST era”. As they say, publish early, publish often!&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Feb 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2017/02/24/EB-LMC.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/02/24/EB-LMC.html</guid>
+        <link>http://jradavenport.github.io/2017/02/24/EB-LMC.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2017/02/24/EB-LMC.html</guid>
         
         
       </item>
     
       <item>
         <title>Flares on Proxima Cen</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/proxima_header.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/proxima_header.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today a majorly exciting astronomical discovery was announced: a planet has been found around our &lt;a href=&quot;https://en.wikipedia.org/wiki/Proxima_Centauri&quot;&gt;nearest neighbor&lt;/a&gt;, and it’s named &lt;a href=&quot;http://www.nature.com/nature/journal/v536/n7617/full/nature19106.html&quot;&gt;&lt;strong&gt;Proxima b&lt;/strong&gt;&lt;/a&gt;. The planet is near Earth-mass, and orbiting right in the habitable zone for Proxima Cen – It’s a huge deal!&lt;/p&gt;
 
@@ -361,7 +361,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 
 &lt;p&gt;As expected, Proxima flares a lot (not as much as some other flare stars, mind you). In 37 days of monitoring data on Proxima we found more than 60 flares. These events have energies comparable to the larger end of Solar flares… but keep in mind Proxima is only 12% the size of the Sun! &lt;strong&gt;These flares can be so bright they can raise the total brightness of Proxima (in the visible light) by 20-50%!&lt;/strong&gt; Here’s a couple as examples from our data:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bigflares.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/bigflares.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If the Sun got 50% brighter for 5 or 10 minutes… that would be a very uncomfortable day.&lt;/p&gt;
 
@@ -371,7 +371,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 
 &lt;p&gt;Stellar (and Solar) flares occur with a range of energies and durations. Typically we describe the “flare rate” as a &lt;a href=&quot;https://en.wikipedia.org/wiki/Power_law&quot;&gt;power law&lt;/a&gt; distribution, with infrequent large energy events, and tons of small ones. We see this on the Sun, and for basically every other star we’ve &lt;a href=&quot;https://arxiv.org/abs/1607.03494&quot;&gt;studied for flares&lt;/a&gt;. Proxima is no different, and shows a clear power law shape in the flare energy versus rate. Here is that result from our paper, with a few relevant energies highlighted:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/rate_fig.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/rate_fig.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The red line is the “power law” model. The key takeaways are both the high and low energy ends: small flares happen a lot on Proxima. While they don’t appear to produce a worrisome amount of constant UV or X-ray radiation, these small flares will (and have!) definitely made searches for any transiting Earth-mass exoplanets difficult. &lt;strong&gt;Proxima produces on average about 66 flares per day with similar amplitudes in visible light as an Earth-mass planet would block.&lt;/strong&gt; That’s frustrating!&lt;/p&gt;
 
@@ -385,7 +385,7 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 
 &lt;p&gt;Since we only have 37 days of data for Proxima, we couldn’t track the full rotation. But here’s what we caught:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/rotation.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jradavenport.github.io/assets/rotation.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This matches nicely with the less dense tracking (but over a longer time period) shown &lt;a href=&quot;http://arxiv.org/abs/1608.06291&quot;&gt;here&lt;/a&gt;. With the flurry of activity I expect to follow the announcement of Proxima b, we’ll hopefully get a TON of monitoring for Proxima. With this we could track the detailed spot sizes and positions over many rotation periods, and try to determine how long the spots &lt;a href=&quot;http://www.ifweassume.com/2014/04/starspots-on-kepler186.html&quot;&gt;live&lt;/a&gt;, and maybe something about their properties.&lt;/p&gt;
 
@@ -398,8 +398,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;&lt;em&gt;This work is supported by an NSF Astronomy and Astrophysics Postdoctoral Fellowship under award AST-1501418&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2016/08/24/proxima.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/08/24/proxima.html</guid>
+        <link>http://jradavenport.github.io/2016/08/24/proxima.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2016/08/24/proxima.html</guid>
         
         
       </item>
@@ -447,8 +447,8 @@ It could be a critical piece of the ZTF/LSST - Astrobiology connection.&lt;/p&gt
 &lt;p&gt;&lt;em&gt;The development of this seminar is supported by the National Science Foundation&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/2016/03/02/seminar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/02/seminar.html</guid>
+        <link>http://jradavenport.github.io/2016/03/02/seminar.html</link>
+        <guid isPermaLink="true">http://jradavenport.github.io/2016/03/02/seminar.html</guid>
         
         
       </item>

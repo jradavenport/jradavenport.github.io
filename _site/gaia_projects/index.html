@@ -10,7 +10,7 @@
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/gaia_projects/">
+    <link rel="canonical" href="http://jradavenport.github.io/gaia_projects/">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -128,27 +128,46 @@
 <p><a href="https://docs.google.com/document/d/1lHenqMYuLmWGH3yHxuGGu1ARgzjXR-w4qdJaBENcCfY/edit#">UW Brainstorming Doc</a></p>
 
 <ul>
-  <li>Searching for new PNe in Gaia… spectra could be useful!</li>
-  <li>EBHRD
+  <li>“<a href="https://github.com/jradavenport/EBHRD">EBHRD</a>”
     <ul>
       <li>Finding the “best eclipsing binaries”</li>
-      <li>if the TESS-based metric is ready, just apply it to Gaia and find the “best” targets</li>
-      <li><strong>this is what i’m planning to work on first :D</strong></li>
+      <li>if the TESS-based metric is ready (&amp; it is!), apply it to the 2MILLION Gaia EBs and find the “best” targets!</li>
+      <li><strong>this is what i’m planning to work on first! :D</strong></li>
     </ul>
   </li>
-  <li>SETI-related projects
+  <li>SETI-related projects:
     <ul>
-      <li>Dyson sphere stuff</li>
-      <li>Outliers in super-color space</li>
-      <li><a href="https://github.com/jradavenport/wow_gaia">Surveying the WOW! Fields</a> for variability (play off <a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A">this paper</a> some)</li>
-      <li>SETI Ellipsoid, can we compute the SN1987A Ellipsoid crossing time for the entire 2B stars? (via AXS)</li>
+      <li>Dyson sphere stuff (e.g. mis-matches between luminosities and spectral type/class)</li>
+      <li>Outliers in super-color space (machine learning fun times)</li>
+      <li><a href="https://github.com/jradavenport/wow_gaia">Surveying the WOW! Fields</a> for variability (play off <a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A">this paper</a> some) (<strong>fun student project!</strong>)</li>
+      <li>SETI Ellipsoid, can we compute the SN1987A Ellipsoid crossing time &amp; uncertainties for the entire 2B stars? (via AXS?)</li>
+      <li>Gaia light curve from Boyajian’s Star</li>
     </ul>
   </li>
-  <li>Gaia LC for <a href="https://github.com/jradavenport/QX-Cas">QX Cas</a> (and other special/weird systems)</li>
-  <li>Stellar rotation: Gaia + TESS
+  <li>Gaia for spectroscopic flux calibration?
     <ul>
-      <li>can we see the rotation period gap?</li>
-      <li>rotation in clusters? (low-hanging fruit??)</li>
+      <li>could we quickly define/update spectroscopic sensitivity functions using Gaia spectra?</li>
+      <li>e.g. comparing old IRAF <a href="https://github.com/jradavenport/kosmos/tree/main/kosmos/resources/onedstds">onedstds</a> to the <a href="https://gaiaxpy.readthedocs.io/en/latest/">Gaia BP/RP low-res spectra</a></li>
+    </ul>
+  </li>
+  <li>Gaia light curve for <a href="https://github.com/jradavenport/QX-Cas">QX Cas</a> (and other special/weird systems)
+    <ul>
+      <li>which star is eclipsing?! (<strong>good first project</strong>)</li>
+    </ul>
+  </li>
+  <li>Stellar rotation:
+    <ul>
+      <li>match Gaia rotation to Kepler… how precise &amp; accurate?</li>
+      <li>Gaia + TESS, Gaia + Kepler…</li>
+      <li>can we see the <a href="https://arxiv.org/abs/2101.07886">rotation period gap</a> with Gaia?</li>
+      <li>rotation in clusters? (low-hanging fruit if any!)</li>
+    </ul>
+  </li>
+  <li>Binary star density across galaxy
+    <ul>
+      <li>looking @ spatial density of equal-mass binaries</li>
+      <li>Played with idea in <a href="https://github.com/jradavenport/GaiaSprint2018/blob/master/bin_frac/explore-7Mstars.ipynb">2018</a></li>
+      <li>Could be done entirely (initially) on AXS/Epyc</li>
     </ul>
   </li>
   <li>(Re)make textbook figures with new data!
@@ -159,28 +178,24 @@
   <li>Gaia Wilson Bappu (w/ SLH!)
     <ul>
       <li>already gathering existing HK data (<a href="https://github.com/jradavenport/Gaia-Wilson-Bappu">repo</a>)</li>
-      <li>replicate Wallerstein+2019</li>
+      <li>replicate <a href="https://ui.adsabs.harvard.edu/abs/1999PASP..111..335W">Wallerstein+2019</a>, in honor of George</li>
       <li>can we do WBE with the Ca IRT alone?</li>
     </ul>
   </li>
   <li>Activity Cycles from Ca IRT?
     <ul>
       <li>competition from <a href="https://www.cosmos.esa.int/web/gaia/dr3-papers">Gaia DR3</a> team probably</li>
+      <li>compare Gaia data to e.g. Mt Wilson HK archive? (can we see activity cycles from Gaia photometry alone?)</li>
     </ul>
   </li>
-  <li>Everything in its right place
+  <li>“Everything in its right place”
     <ul>
-      <li>stars in CMD in Hiparcos vs Gaia</li>
+      <li>stars in CMD in Hiparcos vs Gaia, or Gaia over time…</li>
       <li>played with this idea in <a href="https://github.com/jradavenport/GaiaSprint2018/blob/master/dr1v2/explore.ipynb">2018</a></li>
       <li>Look for specific star motions across interesting regions of the CMD (<strong>Post-AGB stars</strong>, He Flash, etc)</li>
     </ul>
   </li>
-  <li>Binary star density across galaxy
-    <ul>
-      <li>Played with idea in <a href="https://github.com/jradavenport/GaiaSprint2018/blob/master/bin_frac/explore-7Mstars.ipynb">2018</a></li>
-      <li>Could be done entirely (initially) on AXS/Epyc</li>
-    </ul>
-  </li>
+  <li>Searching for new PNe in Gaia… spectra could be useful?</li>
 </ul>
 
 
