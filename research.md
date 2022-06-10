@@ -12,7 +12,8 @@ My research generally involves large datasets of stars, time domain astronomy, a
 Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases of these tracers to understand the history of our Galaxy.
 
 - **[Student Collaborators]({{ site.url }}/students/):** Present and past student work
-- **[Available Projects]({{ site.url }}/projects/):** A partial list of available projects for students or collaborators
+- **[Project Ideas]({{ site.url }}/projects/):** A semi-updated list of available project ideas for students or collaborators
+- **[Gaia Projects]({{ site.url }}/gaia_projects/):** NEW: projects ideas for Gaia DR3
 
 ## Values
 

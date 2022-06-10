@@ -17,7 +17,7 @@ Collecting project ideas for [Gaia DR3](https://www.cosmos.esa.int/web/gaia/dr3)
 	- Dyson sphere stuff (e.g. mis-matches between luminosities and spectral type/class)
 	- Outliers in super-color space (machine learning fun times)
 	- [Surveying the WOW! Fields](https://github.com/jradavenport/wow_gaia) for variability (play off [this paper](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/an-approximation-to-determine-the-source-of-the-wow-signal/4C58B6292C73FE8BF04A06C67BAA5B1A) some) (**fun student project!**)
-	- SETI Ellipsoid, can we compute the SN1987A Ellipsoid crossing time & uncertainties for the entire 2B stars? (via AXS?)
+	- [SETI Ellipsoid](https://arxiv.org/abs/2206.04092), can we compute the SN1987A Ellipsoid crossing time & uncertainties for the entire 1.8B stars? (via AXS+Astropy?)
 	- Gaia light curve from Boyajian's Star
 - Gaia for spectroscopic flux calibration?
 	- could we quickly define/update spectroscopic sensitivity functions using Gaia spectra? 
