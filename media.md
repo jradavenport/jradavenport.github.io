@@ -13,6 +13,10 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <table><tbody>
 <tr>
 <td>
+<a href="https://www.geekwire.com/2022/how-big-data-could-help-seti-researchers-intensify-the-search-for-alien-civilizations/">
+<img src = "/assets/media_logos/geekwire.png" width=195> </a>
+</td>
+<td>
 <a href="https://muckrack.com/broadcast/savedclips/view/BqrDSpFD3L">
 <img src = "/assets/media_logos/knkx.png" width=195> </a>
 </td>
