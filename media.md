@@ -31,16 +31,16 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.geekwire.com/2021/telescopes-launch-makes-christmas-merry-for-space-fans-but-the-ride-has-just-begun/">
-<img src = "/assets/media_logos/geekwire.png" width=220> </a>
-</td>
-<td>
 <a href="https://massivesci.com/articles/extraterrestrial-aliens-seti-telescope-array/">
 <img src="/assets/media_logos/massive_science.png" width=195> </a>
 </td>
 <td>
 <a href="https://kuow.org/stories/northern-lights-make-appearance-over-washington">
 <img src = "/assets/media_logos/kuow.png" width=195> </a>
+</td>
+<td>
+<a href="https://www.geekwire.com/2021/telescopes-launch-makes-christmas-merry-for-space-fans-but-the-ride-has-just-begun/">
+<img src = "/assets/media_logos/geekwire.png" width=195> </a>
 </td>
 </tr>
 </tbody></table>
