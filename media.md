@@ -7,7 +7,11 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
 
-*updated 2022.06.22*
+*updated 2022.07.14*
+
+
+<a href="https://omny.fm/shows/the-gee-and-ursula-show/hour-3-gee-ursula-take-a-trip-through-the-universe#description">
+<img src = "/assets/media_logos/kiroradio.png" width=195> </a>
 
 
 <table><tbody>
