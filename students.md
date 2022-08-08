@@ -24,7 +24,11 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **Andrew Carr (UW):** UW Meteor Camera project
 
-**Josue Torres-Valdovinos (UW):** Data reduction and testing with PyKOSMOS
+**Josue Torres-Valdovinos (UW):** Data reduction and testing with PyKOSMOS (DiRAC Summer Research Prize winner)
+
+**Peter Gwartney (UW):** (with Jessica Birkey & Tyler Gordon) studying eclipsing binaries in open clusters with TESS. (DiRAC Summer Research Prize winner)
+
+**Rachel Wong (UW):** (with Tyler Gordon and Jessica Birkey) studying rotating stars in open clusters with TESS
 
 
 **[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
@@ -111,9 +115,9 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 
 **[Courtney Klein (UW)](https://github.com/courtk32):** Flares in ZTF (co-mentor with [Eric Bellm](http://faculty.washington.edu/ecbellm/)) ([Repo](https://github.com/courtk32/stellar_flares)). NSF GRFP 2019 recipient
 
-**[Sam Quist (UW)](https://github.com/squisty):** Rotation Periods in K2 stars
+**[Sam Quist (UW)](https://github.com/squisty):** Rotation Periods in K2 stars (Sam is now a graduate student at UBC)
 
-**[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. ([Repo](https://github.com/mscoggs/flare_cycles)). ([RNAAS Article](https://ui.adsabs.harvard.edu/abs/2019RNAAS...3..137S))
+**[Matthew Scoggins (WWU)](https://github.com/mscoggs):** Searching for variations in flare rates in *Kepler* stars. ([Repo](https://github.com/mscoggs/flare_cycles)). ([RNAAS Article](https://ui.adsabs.harvard.edu/abs/2019RNAAS...3..137S)) (Matt is now a graduate student at Columbia University)
 
 
 <hr>
@@ -124,7 +128,7 @@ Co-author on Research Note "[Photometric Metallicities for Low-mass Stars with G
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RGLO1Yo3UQs?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-**[Riley Clarke (WWU)](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* ([Paper](https://arxiv.org/abs/1712.04570) published in ApJ!). Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process ([repo](https://github.com/RileyWClarke/QPP-GP)). **Riley is now a grad student at the [University of Delaware](http://web.physics.udel.edu/about/directory/graduate-student/riley-clarke)**
+**[Riley Clarke (WWU)](https://github.com/RileyWClarke):** Flare Activity of Wide Binary Stars with *Kepler* ([Paper](https://arxiv.org/abs/1712.04570) published in ApJ!). Co-author on "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)". Characterizing Quasi-Periodic Pulsations in stellar flares using a Gaussian Process ([repo](https://github.com/RileyWClarke/QPP-GP)). Riley is now a grad student at the [University of Delaware](http://web.physics.udel.edu/about/directory/graduate-student/riley-clarke)
 
 **[Zachery Laycock (WWU)](https://github.com/ZacheryLaycock):** Studying the optical and NUV variability of EK Dra with a 35 year light curve. Co-author on paper "[The GALEX View of Boyajian's Star](https://arxiv.org/abs/1712.04948)".
 
