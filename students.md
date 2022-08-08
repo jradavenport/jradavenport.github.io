@@ -8,7 +8,7 @@ show_in_nav: true
 <!-- # Student Collaborators -->
 
 I am fortunate to work with many wonderful students working on a variety of topics.
-This website is an overview (and brag sheet!) for many of their projects & accomplishments.
+This website is an overview (and brag sheet!) for many of their projects & accomplishments. These include long-term projects, as well as summer or short-term efforts.
 
 ## *Student Collaborations*
 <hr>
@@ -20,14 +20,28 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Jessica Birky (UW)](https://jbirky.github.io):** (NSF GRFP Fellow) (with Prof. Rory Barnes) Studying tidal synchronization in binaries.
 
+**[Anastasios (Andy) Tzanidakis (UW)](https://andytza.github.io):** Looking for long eclipses with Gaia ([REPO](https://github.com/AndyTza/deep-long-eclipses))
+
+**Andrew Carr (UW):** UW Meteor Camera project
+
+**Josue Torres-Valdovinos (UW):** Data reduction and testing with PyKOSMOS
+
+
 **[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
 
+**[Anna Baum (Lehigh)](https://wordpress.lehigh.edu/acb220/):**  (with [Prof. Joshua Pepper](https://jpepper.cas.lehigh.edu)) Changing Inclination Eclipsing Binaries
 
-**[Erin Howard (WWU)](https://github.com/erinleighh):** Eclipsing Binaries in TESS. (NSF GRFP Honorable Mention)
 
-**[Bárbara Cabrales](https://github.com/barbaracabrales) (Smith):** (with [Dr. Sofia Sheikh](https://sofiazsheikh.wordpress.com)) Searching the SETI Ellipsoid with TESS
+**[Erin Howard (WWU)](https://github.com/erinleighh):** (with [Prof. Kevin Covey](http://myweb.facstaff.wwu.edu/~coveyk/)) Eclipsing Binaries in TESS. (NSF GRFP Honorable Mention)
 
-**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** Searching for "missing transits" with Kepler. (NSF GRFP Awarded)
+**[Bárbara Cabrales (Smith)](https://github.com/barbaracabrales) :** (with [Dr. Sofia Sheikh](https://sofiazsheikh.wordpress.com)) Searching the SETI Ellipsoid with TESS
+
+**[Anna Zuckerman (Brown)](https://github.com/annazuckerman):** Searching for "missing transits" with Kepler. (NSF GRFP Awarded)
+
+
+**[Tien Nguyen (Agnes Scott College)](https://github.com/fairytien) :** (with [Howard Isaacson](https://hisaacson2.wixsite.com/website)) Anomalous Lines in APOGEE Spectra (ALIAS) ([REPO](https://github.com/fairytien/ALIAS), [REPO](https://github.com/jradavenport/ALIAS)) 
+
+**[Andy Nilipour (Yale)](https://github.com/anilipour):** (with [Steve Croft](https://w.astro.berkeley.edu/~scroft/)) Searching the SETI Ellipsoid with Gaia DR3 ([REPO](https://github.com/anilipour/Gaia-DR3-SETI-Ellipsoid))
 
 <hr>
 
