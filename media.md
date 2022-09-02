@@ -7,7 +7,7 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
 
-*updated 2022.07.14*
+*updated 2022.09.02*
 
 
 <table><tbody>
