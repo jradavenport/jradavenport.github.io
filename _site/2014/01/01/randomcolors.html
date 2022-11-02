@@ -10,12 +10,12 @@
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jradavenport.github.io/2014/01/01/randomcolors.html">
+    <link rel="canonical" href="http://localhost:4000/2014/01/01/randomcolors.html">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-   <link rel="me" href="https://mastodon.social/@jradavenport />
+   <link rel="me" href="https://mastodon.social/@jradavenport">
 
     <!-- Start of StatCounter Code -->
     <script type="text/javascript">
@@ -129,7 +129,7 @@
   <article class="post-content">
     <p>I wanted to make my xterm a different color, to add spice to my life. After some quick searching, I started working from the directions <a href="http://entropicprincipal.blogspot.com/2006/03/picking-random-color-for-xterms.html">here</a>.</p>
 
-<p>Of course, there needed to be some modifications. I created a <a href="http://jradavenport.github.io/assets/randomxterm.pl">perl script</a> and put it at this path: <code class="language-plaintext highlighter-rouge">~/.randomxterm.pl</code> Not all the colors look good with white text, so I needed to constrain the choices. Also I had to <code class="language-plaintext highlighter-rouge">chmod 755</code> it.</p>
+<p>Of course, there needed to be some modifications. I created a <a href="http://localhost:4000/assets/randomxterm.pl">perl script</a> and put it at this path: <code class="language-plaintext highlighter-rouge">~/.randomxterm.pl</code> Not all the colors look good with white text, so I needed to constrain the choices. Also I had to <code class="language-plaintext highlighter-rouge">chmod 755</code> it.</p>
 
 <p>The perl script needs to know the location of the X11 colors. For OSX Yosemite this file appears to be at <code class="language-plaintext highlighter-rouge">/opt/X11/share/X11/rgb.txt</code>, and the file looks like this:</p>
 
@@ -142,11 +142,11 @@
 
 <p>In X11, I then created a new terminal profile, called Color xterm, shown below:</p>
 
-<p><img src="http://jradavenport.github.io/assets/xtermcolors.jpg" alt="" /></p>
+<p><img src="http://localhost:4000/assets/xtermcolors.jpg" alt="" /></p>
 
 <p>I still get light/pink colored windows, so I should constrain the choices more… but it works well otherwise! Pointless and fun!</p>
 
-<p><img src="http://jradavenport.github.io/assets/xterm-random.png" alt="" /></p>
+<p><img src="http://localhost:4000/assets/xterm-random.png" alt="" /></p>
 
   </article>
 
