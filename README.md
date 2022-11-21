@@ -1,1 +1,1 @@
-website: [http://jradavenport.github.io](jradavenport.github.io)
+website: [jradavenport.github.io](https://jradavenport.github.io)
