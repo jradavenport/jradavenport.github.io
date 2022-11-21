@@ -14,6 +14,28 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 <hr>
 ## 2022-2023 Projects
 
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare temperatures in TESS & Kepler
+
+**[Tyler Gordon (UW)](http://www.tagordon.com):** Starspots & GPs
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (with Prof. Rory Barnes) Tidal synchronization in binaries.
+
+**[Anastasios (Andy) Tzanidakis (UW)](https://andytza.github.io):** Looking for long eclipses with Gaia ([REPO](https://github.com/AndyTza/deep-long-eclipses))
+
+**[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in TESS
+
+**[Valeria Hurtado (UW)](https://astro.washington.edu/people/valeria-hurtado):** Searching Gaia and WISE for Post-AGB stars
+
+
+**Josue Torres-Valdovinos (UW):** Data reduction and testing with PyKOSMOS
+
+**[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
+
+**[Anna Baum (Lehigh)](https://wordpress.lehigh.edu/acb220/):**  (with [Prof. Joshua Pepper](https://jpepper.cas.lehigh.edu)) Changing Inclination Eclipsing Binaries in TESS and KELT
+
+**[Andy Nilipour (Yale)](https://github.com/anilipour):** (with [Steve Croft](https://w.astro.berkeley.edu/~scroft/)) Searching the SETI Ellipsoid with Gaia DR3 ([REPO](https://github.com/anilipour/Gaia-DR3-SETI-Ellipsoid))
+
+
 
 
 <hr>
