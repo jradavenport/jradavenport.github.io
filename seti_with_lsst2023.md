@@ -15,7 +15,7 @@ This 1-day workshop will be held January 13th at the UW [eScience Institute](htt
 With the [Vera C. Rubin Observatory](https://www.lsst.org/about/project-status) less than 2 years from LSST operations, now is the time to begin ramping up preparations for science that will utilize this unique facility. The study of technosignatures has seen a significant increase in activity over the last decade, with projects using nearly every data type available in modern astronomy. The purpose of this workshop is to bring together researchers with backgrounds in SETI and/or LSST, to catalyze ideas that will enable the next generation of technosignature searches.
 
 
-**For information or to register your interest, reach out to <a href="mailto:jrad@uw.edu?subject=SETI with LSST Workshop">James Davenport</a>**.
+**For information or to register your interest [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSc1NWfgG_OO9ow7tPz9DqSq1wD8Drj7XL2o30hUqHk9PDQeIw/viewform?usp=sf_link)**, or reach out to <a href="mailto:jrad@uw.edu?subject=SETI with LSST Workshop">James Davenport</a>.
 This is an active in-person working meeting, and we have limited capacity for attendance. (We are currently exploring live-stream options.)  If you would like to give a short presentation, please indicate this in your email. All participants will provide a brief introduction slide. Additionally, interested colleagues who are unable to attend will be invited to share a brief (1 page or 1 slide) contribution.
 
 ## Goals
