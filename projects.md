@@ -10,6 +10,8 @@ I am putting these ideas online in the hopes of attracting people to help work o
 
 ## Astronomy Projects
 
+Here's a [break-out list for Gaia specific projects](https://jradavenport.github.io/gaia_projects/).
+
 ### SETI
 - **SETI with Big Surveys**
 	- have written a short intro paper on the idea of SETI with big time domain surveys ([Davenport 2019](https://arxiv.org/abs/1907.04443))
