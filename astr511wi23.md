@@ -7,7 +7,7 @@ show_in_nav: false
 
 # Galactic Astronomy
 
-This is the website for the graudate level Astronomy 511, Winter 2023 edition.
+This is the website for the graudate level Astronomy 511, Winter 2023 edition. This course is cross-listed as ASTR 497 for senior-level astro majors.
 
 
 ## Resources
@@ -15,8 +15,9 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition.
 - [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org) (Jo Bovy)
 
 ## Lectures
-- Lecture 01 
+- will be posted here as they are written/recorded
 
 
 ## Assignments
-
+- 4-5 problem sets
+- Term paper

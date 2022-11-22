@@ -13,7 +13,7 @@ Stars and stellar populations are the fundamental building-blocks of galaxies, a
 
 - **[Student Collaborators]({{ site.url }}/students/):** Present and past student work
 - **[Project Ideas]({{ site.url }}/projects/):** A semi-updated list of available project ideas for students or collaborators
-- **[Gaia Projects]({{ site.url }}/gaia_projects/):** NEW: projects ideas for Gaia DR3
+
 
 ## Values
 
