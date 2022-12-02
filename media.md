@@ -10,8 +10,13 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 *updated 2022.09.02*
 
 
+
+
 <table><tbody>
 <tr>
+<td>
+<a href="https://artsci.washington.edu/news/2022-12/big-data-night-sky"><img src="/assets/media_logos/UW_CAS.png" width=320 > </a>
+</td>
 <td>
 <a href="https://www.newscientist.com/article/0-the-time-lapse-telescope-that-will-transform-our-view-of-the-universe/">
 <img src = "/assets/media_logos/newscientist2022.png" width=195> </a>
