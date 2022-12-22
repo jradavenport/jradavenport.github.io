@@ -19,5 +19,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 
 
 ## Assignments
+- [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf), due Jan 13
+	- **AAS Scavenger Hunt**
 - 5-ish problem sets
 - Final Project
