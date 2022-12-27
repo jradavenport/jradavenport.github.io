@@ -19,7 +19,7 @@ Lectures will be posted here as they are written/recorded
 
 - Lecture 01 (Jan 03) - Introductions
 - Lecture 02 (Jan 05)
-- NO CLASS Jan 10 & 12: [AAS 241](http://aas.org/meetings/aas241). See HW 1!
+- NO CLASS Jan 10 & 12: [AAS 241](http://aas.org/meetings/aas241). 
 - Lecture 03 (Jan 17) - AAS Debrief
 - Lecture 04 (jan 19)
 
@@ -28,4 +28,4 @@ Lectures will be posted here as they are written/recorded
 - [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf), due Jan 13
 	- **AAS Scavenger Hunt**
 - 5-ish problem sets
-- Final Project
+- [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
