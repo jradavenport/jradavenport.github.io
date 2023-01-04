@@ -18,7 +18,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 This is a preliminary course outline. Lectures will be posted here as they are written/recorded
 
 <!-- W1 -->
-- Lecture 01 (Jan 03) - Introduction & Review, [Slides]({{ site.url }}/astr511src2023/Lecture01.pdf)
+- Lecture 01 (Jan 03) - Introduction & Review, [Slides]({{ site.url }}/astr511src2023/Lecture01.pdf), [Video](https://www.youtube.com/watch?v=wlrvaZL86Z0)
 - Lecture 02 (Jan 05) - The Solar Neighborhood
 <!-- W2 -->
 - NO CLASS Jan 10 & 12: ([AAS 241](http://aas.org/meetings/aas241)) 
