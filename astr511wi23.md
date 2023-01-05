@@ -19,7 +19,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 
 <!-- W1 -->
 - Lecture 01 (Jan 03) - Introduction & Review, [Slides]({{ site.url }}/astr511src2023/Lecture01.pdf), [Video](https://www.youtube.com/watch?v=wlrvaZL86Z0)
-- Lecture 02 (Jan 05) - The Solar Neighborhood
+- Lecture 02 (Jan 05) - The Solar Neighborhood, [Slides]({{ site.url }}/astr511src2023/Lecture02.pdf)
 <!-- W2 -->
 - NO CLASS Jan 10 & 12: ([AAS 241](http://aas.org/meetings/aas241)) 
     - [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf) due Jan 13
