@@ -15,8 +15,10 @@ This 1-day workshop will be held January 13th at the UW [eScience Institute](htt
 With the [Vera C. Rubin Observatory](https://www.lsst.org/about/project-status) less than 2 years from LSST operations, now is the time to begin ramping up preparations for science that will utilize this unique facility. The study of technosignatures has seen a significant increase in activity over the last decade, with projects using nearly every data type available in modern astronomy. The purpose of this workshop is to bring together researchers with backgrounds in SETI and/or LSST, to catalyze ideas that will enable the next generation of technosignature searches.
 
 
-**For information or to register your interest [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSc1NWfgG_OO9ow7tPz9DqSq1wD8Drj7XL2o30hUqHk9PDQeIw/viewform?usp=sf_link)**, or reach out to <a href="mailto:jrad@uw.edu?subject=SETI with LSST Workshop">James Davenport</a>.
+<!-- **For information or to register your interest [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSc1NWfgG_OO9ow7tPz9DqSq1wD8Drj7XL2o30hUqHk9PDQeIw/viewform?usp=sf_link)**, or reach out to <a href="mailto:jrad@uw.edu?subject=SETI with LSST Workshop">James Davenport</a>. -->
 This is an active in-person working meeting, and we have limited capacity for attendance. (We are currently exploring live-stream options.)  If you would like to give a short presentation, please indicate this in your email. All participants will provide a brief introduction slide. Additionally, interested colleagues who are unable to attend will be invited to share a brief (1 page or 1 slide) contribution.
+
+[Our working slides for introductions and notes](https://docs.google.com/presentation/d/12s2YgSyKJ5tGgo95tRjRCb4KODp6Gj-9BnIVOWkX-3Y/edit?pli=1#slide=id.p)
 
 ## Goals
 
@@ -38,14 +40,21 @@ There are a great many ways that technosignature work can be advanced by surveys
 
 ## Schedule
 
-Introductions (930AM)
+Coffee & Welcome (930AM)
 
-A few establishing talks (10AM - Noon)
+A few establishing talks (10AM - Noon) [(Video)](https://youtu.be/BjSUXTtrfwE)
+
+- Jim Davenport
+- Peter Yoachim
+- Chris Lintott
+- [Sarah Greenstreet](https://docs.google.com/presentation/d/1kmzEi_vLEVrEviJ47d5Z7tfOuBeM99yrGTXo73iti8U/edit#slide=id.p)
+- [Sofia Sheikh](https://docs.google.com/presentation/d/1Jef5TDTQoyR6dDSxl4Y99LUZKEdrjpNdxZHTxkurjk8/edit#slide=id.g1d0c39e06b1_0_47)
+- [Jason Wright](https://docs.google.com/presentation/d/1M7cNjoe_hpbDBvfdWlnFF_vlrSa9iuFV/edit#slide=id.p8)
 
 Lunch (12-1PM, provided)
 
-Breakout Groups (1-4PM)
+Breakout Discussion Groups (1-4PM)
 
 Wrap-up (4-5PM)
 
-Dinner (6-8PM, somewhere cool)
+Dinner (6-8PM, Ba Bar)

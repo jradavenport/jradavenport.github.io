@@ -7,10 +7,15 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
 
-*updated 2023.01.11*
+*updated 2023.01.18*
 
 <table><tbody>
 <tr>
+<td>
+<a href="https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive">
+<img src="/assets/media_logos/econ.png" width="170"/></a>
+
+</td>
 <td>
 <a href="https://www.washington.edu/news/2023/01/10/dusty-binary/">
 <img src="/assets/media_logos/uwnews.png" width="200"/></a>
