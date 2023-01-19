@@ -25,7 +25,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
     - [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf) due Jan 13
 <!-- W3 -->
 - Lecture 03 (Jan 17) - AAS Debrief
-- Lecture 04 (Jan 19) - History of Galactic Astronomy
+- Lecture 04 (Jan 19) - History of Galactic Astronomy, [Slides]({{ site.url }}/astr511src2023/Lecture03.pdf)
 <!-- W4 -->
 - Lecture 05 (Jan 24) - Clusters and "Simple" Stellar Populations
 - Lecture 06 (Jan 26) - Mass and Luminosity Functions
