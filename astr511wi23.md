@@ -54,5 +54,6 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 ## Assignments
 - [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf), due Jan 13
 	- **AAS Scavenger Hunt**
-- 4-ish problem sets
+- [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf), due Feb 07
+	- **Characterizing an Open Cluster**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
