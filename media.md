@@ -14,11 +14,14 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <td>
 <a href="https://www.economist.com/science-and-technology/2023/01/18/ideas-for-finding-et-are-getting-more-inventive">
 <img src="/assets/media_logos/econ.png" width="170"/></a>
-
 </td>
 <td>
 <a href="https://www.washington.edu/news/2023/01/10/dusty-binary/">
 <img src="/assets/media_logos/uwnews.png" width="200"/></a>
+</td>
+<td>
+<a href="https://www.geekwire.com/2022/artemis-webb-jwst-year-space-aerospace/">
+<img src = "/assets/media_logos/geekwire.png" width=195> </a>
 </td>
 </tr>
 </tbody></table>
@@ -44,7 +47,8 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <table><tbody>
 <tr>
 <td>
-<a href="https://artsci.washington.edu/news/2022-12/big-data-night-sky"><img src="/assets/media_logos/UW_CAS.png" width=320 > </a>
+<a href="https://artsci.washington.edu/news/2022-12/big-data-night-sky">
+<img src="/assets/media_logos/UW_CAS.png" width=320 > </a>
 </td>
 <td>
 <a href="https://www.newscientist.com/article/0-the-time-lapse-telescope-that-will-transform-our-view-of-the-universe/">

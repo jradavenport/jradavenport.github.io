@@ -24,27 +24,27 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - NO CLASS Jan 10 & 12: ([AAS 241](http://aas.org/meetings/aas241)) 
     - [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf) due Jan 13
 <!-- W3 -->
-- Lecture 03 (Jan 17) - AAS Debrief
-- Lecture 04 (Jan 19) - History of Galactic Astronomy, [Slides]({{ site.url }}/astr511src2023/Lecture03.pdf), [Video](https://youtu.be/mS26ebOGlFs)
+- Lecture  (Jan 17) - AAS Debrief
+- Lecture 03 (Jan 19) - History of Galactic Astronomy, [Slides]({{ site.url }}/astr511src2023/Lecture03.pdf), [Video](https://youtu.be/mS26ebOGlFs)
 <!-- W4 -->
-- Lecture 05 (Jan 24) - Clusters and "Simple" Stellar Populations
-- Lecture 06 (Jan 26) - Mass and Luminosity Functions
+- Lecture 04 (Jan 24) - Clusters and "Simple" Stellar Populations, [Slides]({{ site.url }}/astr511src2023/Lecture04.pdf)
+- Lecture 05 (Jan 26) - Mass and Luminosity Functions
 <!-- W5 -->
-- Lecture 07 (Jan 31) - Basic structure & properties of the Milky Way
-- Lecture 08 (Feb 02) - Star counts in the Milky Way
+- Lecture 06 (Jan 31) - Basic structure & properties of the Milky Way
+- Lecture 07 (Feb 02) - Star counts in the Milky Way
 <!-- W6 -->
-- Lecture 09 (Feb 07) - Halo substructure, tidal tails, merger history
-- Lecture 10 (Feb 09) - Chemical cartography and star formation history
+- Lecture 08 (Feb 07) - Halo substructure, tidal tails, merger history
+- Lecture 09 (Feb 09) - Chemical cartography and star formation history
 <!-- W7 -->
-- Lecture 11 (Feb 14) - Kinematics, rotation, Oort constants
-- Lecture 12 (Feb 16) - 
+- Lecture 10 (Feb 14) - Kinematics, rotation, Oort constants
+- Lecture 11 (Feb 16) - 
     - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Part 1 due Feb 17
 <!-- W8 -->
-- Lecture 13 (Feb 21) - Dynamics, potentials, orbits
-- Lecture 14 (Feb 23) - Galaxy morphology and classification
+- Lecture 12 (Feb 21) - Dynamics, potentials, orbits
+- Lecture 13 (Feb 23) - Galaxy morphology and classification
 <!-- W9 -->
-- Lecture 15 (Feb 28) - Nearby galaxies, SMC, LMC, M31...
-- Lecture 16 (Mar 02) - Galactic Astronomy in the Next Decade (Prospective Grad Visit)
+- Lecture 14 (Feb 28) - Nearby galaxies, SMC, LMC, M31...
+- Lecture 15 (Mar 02) - Galactic Astronomy in the Next Decade (Prospective Grad Visit)
 <!-- W10 -->
 - Mar 07 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Presentations
 - Mar 09 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Presentations
