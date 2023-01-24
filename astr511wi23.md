@@ -27,13 +27,14 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture  (Jan 17) - AAS Debrief
 - Lecture 03 (Jan 19) - History of Galactic Astronomy, [Slides]({{ site.url }}/astr511src2023/Lecture03.pdf), [Video](https://youtu.be/mS26ebOGlFs)
 <!-- W4 -->
-- Lecture 04 (Jan 24) - Clusters and "Simple" Stellar Populations, [Slides]({{ site.url }}/astr511src2023/Lecture04.pdf)
+- Lecture 04 (Jan 24) - Clusters and "Simple" Stellar Populations, [Slides]({{ site.url }}/astr511src2023/Lecture04.pdf), [Video](https://youtu.be/Ci6UMorefvI)
 - Lecture 05 (Jan 26) - Mass and Luminosity Functions
 <!-- W5 -->
 - Lecture 06 (Jan 31) - Basic structure & properties of the Milky Way
 - Lecture 07 (Feb 02) - Star counts in the Milky Way
 <!-- W6 -->
 - Lecture 08 (Feb 07) - Halo substructure, tidal tails, merger history
+    - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf) due
 - Lecture 09 (Feb 09) - Chemical cartography and star formation history
 <!-- W7 -->
 - Lecture 10 (Feb 14) - Kinematics, rotation, Oort constants
