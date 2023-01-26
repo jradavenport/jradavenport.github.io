@@ -28,7 +28,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture 03 (Jan 19) - History of Galactic Astronomy, [Slides]({{ site.url }}/astr511src2023/Lecture03.pdf), [Video](https://youtu.be/mS26ebOGlFs)
 <!-- W4 -->
 - Lecture 04 (Jan 24) - Clusters and "Simple" Stellar Populations, [Slides]({{ site.url }}/astr511src2023/Lecture04.pdf), [Video](https://youtu.be/Ci6UMorefvI)
-- Lecture 05 (Jan 26) - Mass and Luminosity Functions
+- Lecture 05 (Jan 26) - Mass and Luminosity Functions, [Slides]({{ site.url }}/astr511src2023/Lecture05.pdf),
 <!-- W5 -->
 - Lecture 06 (Jan 31) - Basic structure & properties of the Milky Way
 - Lecture 07 (Feb 02) - Star counts in the Milky Way
