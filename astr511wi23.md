@@ -10,10 +10,6 @@ show_in_nav: false
 This is the website for the graudate level Astronomy 511, Winter 2023 edition. This course is cross-listed as ASTR 497-C for senior-level astro majors.
 
 
-## Resources
-- [Syllabus]({{ site.url }}/astr511src2023/Syllabus.pdf)
-- [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org) (Jo Bovy)
-
 ## Schedule
 This is a preliminary course outline. Lectures will be posted here as they are written/recorded
 
@@ -57,4 +53,11 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 	- **AAS Scavenger Hunt**
 - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf), due Feb 07
 	- **Characterizing an Open Cluster**
+- Homework 3
+    - **Chemical Cartography**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
+
+
+## Resources
+- [Syllabus]({{ site.url }}/astr511src2023/Syllabus.pdf)
+- [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org) (Jo Bovy)
