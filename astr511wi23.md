@@ -26,8 +26,8 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture 04 (Jan 24) - Clusters and "Simple" Stellar Populations, [Slides]({{ site.url }}/astr511src2023/Lecture04.pdf), [Video](https://youtu.be/Ci6UMorefvI)
 - Lecture 05 (Jan 26) - Mass and Luminosity Functions, [Slides]({{ site.url }}/astr511src2023/Lecture05.pdf), [Video](https://youtu.be/RWKsykWwtpg)
 <!-- W5 -->
-- Lecture 06 (Jan 31) - Structure & Properties of the Milky Way, [Slides]({{ site.url }}/astr511src2023/Lecture06.pdf), [Video, PART 1](https://youtu.be/SYubXiFNRdk)
-- Lecture 07 (Feb 02) - Structure & Properties of the Milky Way PART 2; Star counts in the Milky Way
+- Lecture 06 (Jan 31) - Structure & Properties of the Milky Way, [Slides]({{ site.url }}/astr511src2023/Lecture06.pdf), [Video: PART 1](https://youtu.be/SYubXiFNRdk)
+- Lecture 07 (Feb 02) - Structure & Properties of the Milky Way PART 2, [Slides]({{ site.url }}/astr511src2023/Lecture06b.pdf) ~~Star counts in the Milky Way~~
 <!-- W6 -->
 - Lecture 08 (Feb 07) - Halo substructure, tidal tails, merger history
     - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf) due
