@@ -27,7 +27,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture 05 (Jan 26) - Mass and Luminosity Functions, [Slides]({{ site.url }}/astr511src2023/Lecture05.pdf), [Video](https://youtu.be/RWKsykWwtpg)
 <!-- W5 -->
 - Lecture 06 (Jan 31) - Structure & Properties of the Milky Way PART 1, [Slides]({{ site.url }}/astr511src2023/Lecture06.pdf), [Video](https://youtu.be/SYubXiFNRdk)
-- Lecture 07 (Feb 02) - Structure & Properties of the Milky Way PART 2, [Slides]({{ site.url }}/astr511src2023/Lecture07.pdf)
+- Lecture 07 (Feb 02) - Structure & Properties of the Milky Way PART 2, [Slides]({{ site.url }}/astr511src2023/Lecture07.pdf), [Video](https://youtu.be/xCBrE2DdfJU)
 <!-- W6 -->
 - Lecture 08 (Feb 07) - Chemical Cartography
     - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf) due
@@ -36,6 +36,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture 10 (Feb 14) - Kinematics, rotation, Oort constants
 - Lecture 11 (Feb 16) - <!--  Halo substructure, tidal tails, merger history... already done sorta ?-->
     - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Part 1 due Feb 17
+    - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf) due Feb 17
 <!-- W8 -->
 - Lecture 12 (Feb 21) - Dynamics, potentials, orbits
 - Lecture 13 (Feb 23) - Galaxy morphology and classification
@@ -53,7 +54,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 	- **AAS Scavenger Hunt**
 - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf), due Feb 07
 	- **Characterizing an Open Cluster**
-- Homework 3
+- [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf), due Feb 17
     - **Chemical Cartography**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
 
