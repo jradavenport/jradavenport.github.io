@@ -29,7 +29,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture 06 (Jan 31) - Structure & Properties of the Milky Way PART 1, [Slides]({{ site.url }}/astr511src2023/Lecture06.pdf), [Video](https://youtu.be/SYubXiFNRdk)
 - Lecture 07 (Feb 02) - Structure & Properties of the Milky Way PART 2, [Slides]({{ site.url }}/astr511src2023/Lecture07.pdf), [Video](https://youtu.be/xCBrE2DdfJU)
 <!-- W6 -->
-- Lecture 08 (Feb 07) - Chemical Cartography, [Slides]({{ site.url }}/astr511src2023/Lecture08.pdf)
+- Lecture 08 (Feb 07) - Chemical Cartography, [Slides]({{ site.url }}/astr511src2023/Lecture08.pdf), [Video](https://youtu.be/rj4zmOu9V3Y)
     - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf) due
 - Lecture 09 (Feb 09) - Star Formation History
 <!-- W7 -->
