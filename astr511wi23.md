@@ -31,7 +31,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 <!-- W6 -->
 - Lecture 08 (Feb 07) - [Slides]({{ site.url }}/astr511src2023/Lecture08.pdf), [Video](https://youtu.be/rj4zmOu9V3Y) - Chemical Cartography
     - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf) due
-- Lecture 09 (Feb 09) - [Slides]({{ site.url }}/astr511src2023/Lecture09.pdf), Video - Star Formation History
+- Lecture 09 (Feb 09) - [Slides]({{ site.url }}/astr511src2023/Lecture09.pdf), [Video](https://youtu.be/ytCvuph46qQ) - Star Formation History
 <!-- W7 -->
 - Lecture 10 (Feb 14) - Kinematics, rotation, Oort constants
 - Lecture 11 (Feb 16) - <!--  Halo substructure, tidal tails, merger history... already done sorta ?-->
