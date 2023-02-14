@@ -33,7 +33,7 @@ This is a preliminary course outline. Lectures will be posted here as they are w
     - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf) due
 - Lecture 09 (Feb 09) - [Slides]({{ site.url }}/astr511src2023/Lecture09.pdf), [Video](https://youtu.be/ytCvuph46qQ) - Star Formation History
 <!-- W7 -->
-- Lecture 10 (Feb 14) - Kinematics, rotation, Oort constants
+- Lecture 10 (Feb 14) -  [Slides]({{ site.url }}/astr511src2023/Lecture10.pdf), Video - Kinematics, rotation, Oort constants
 - Lecture 11 (Feb 16) - <!--  Halo substructure, tidal tails, merger history... already done sorta ?-->
     - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Part 1 due Feb 17
     - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf) due Feb 17
