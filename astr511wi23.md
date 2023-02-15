@@ -7,11 +7,11 @@ show_in_nav: false
 
 # Galactic Astronomy
 
-This is the website for the graudate level Astronomy 511, Winter 2023 edition. This course is cross-listed as ASTR 497-C for senior-level astro majors.
+This is the website for the graudate level Astronomy 511, Winter 2023 edition. The course is cross-listed as ASTR 497-C for senior-level astro majors. 
 
+### [Syllabus]({{ site.url }}/astr511src2023/Syllabus.pdf)
 
 ## Schedule
-This is a preliminary course outline. Lectures will be posted here as they are written/recorded
 
 <!-- W1 -->
 - Lecture 01 (Jan 03) - [Slides]({{ site.url }}/astr511src2023/Lecture01.pdf), [Video](https://www.youtube.com/watch?v=wlrvaZL86Z0) - Introduction & Review
@@ -34,15 +34,15 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 - Lecture 09 (Feb 09) - [Slides]({{ site.url }}/astr511src2023/Lecture09.pdf), [Video](https://youtu.be/ytCvuph46qQ) - Star Formation History
 <!-- W7 -->
 - Lecture 10 (Feb 14) -  [Slides]({{ site.url }}/astr511src2023/Lecture10.pdf), [Video](https://youtu.be/ZkQrRjuji5E) - Kinematics, Rotation, and the Oort Constants
-- Lecture 11 (Feb 16) - <!--  Halo substructure, tidal tails, merger history... already done sorta ?-->
+- Lecture 11 (Feb 16) - Slides, Video - Gravitaional Potentials & Dark Matter
     - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Part 1 due Feb 17
     - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf) due Feb 17
 <!-- W8 -->
-- Lecture 12 (Feb 21) - Dynamics, potentials, orbits
-- Lecture 13 (Feb 23) - Galaxy morphology and classification
+- Lecture 12 (Feb 21) - Slides, Video - Nearby Galaxies & Resolved Stellar Populations
+- Lecture 13 (Feb 23) - Slides, Video - Galaxy Morphology and Classification
 <!-- W9 -->
-- Lecture 14 (Feb 28) - Nearby galaxies, SMC, LMC, M31...
-- Lecture 15 (Mar 03) - Galactic Astronomy in the Next Decade (Prospective Grad Visit)
+- Lecture 14 (Feb 28) - Slides, Video - Ellipticals, Dwarfs, and Galaxy Clusters
+- Lecture 15 (Mar 03) - Slides, Video - Galactic Astronomy in the Next Decade 
 <!-- W10 -->
 - Mar 07 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Presentations
 - Mar 09 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Presentations
@@ -56,9 +56,10 @@ This is a preliminary course outline. Lectures will be posted here as they are w
 	- **Characterizing an Open Cluster**
 - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf), due Feb 17
     - **Chemical Cartography**
+- [Homework 4]({{ site.url }}/astr511src2023/hw4_astr511.pdf), due Mar 03
+    - **Destroy a Cluster**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
+    - Part 1, due Feb 17
+    - Part 2, Mar 7 and 9
+    - Part 3, due Mar 14
 
-
-## Resources
-- [Syllabus]({{ site.url }}/astr511src2023/Syllabus.pdf)
-- [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org) (Jo Bovy)
