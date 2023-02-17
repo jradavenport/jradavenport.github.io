@@ -50,6 +50,8 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 
 
 ## Assignments
+Homeworks for this course are all project based. Group work is encouraged. My grading philosophy is: no points are awarded for right answers, only for critical thinking. 
+
 - [Homework 1]({{ site.url }}/astr511src2023/hw1_astr511.pdf), due Jan 13
 	- **AAS Scavenger Hunt**
 - [Homework 2]({{ site.url }}/astr511src2023/hw2_astr511.pdf), due Feb 07
@@ -59,7 +61,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 - [Homework 4]({{ site.url }}/astr511src2023/hw4 _astr511.pdf), due Mar 03
     - **Destroy this Cluster**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
-    - Part 1, due Feb 17
-    - Part 2, Mar 7 and 9
-    - Part 3, due Mar 14
+    - Part 1, due Feb 17 (Topic Selection)
+    - Part 2, Mar 7 and 9 (Presentations)
+    - Part 3, due Mar 14 (Term Paper)
 
