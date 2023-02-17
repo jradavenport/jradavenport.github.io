@@ -58,7 +58,7 @@ Homeworks for this course are all project based. Group work is encouraged. My gr
 	- **Characterizing an Open Cluster**
 - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf), due Feb 17
     - **Chemical Cartography**
-- [Homework 4]({{ site.url }}/astr511src2023/hw4 _astr511.pdf), due Mar 03
+- [Homework 4]({{ site.url }}/astr511src2023/hw4_astr511.pdf), due Mar 03
     - **Destroy this Cluster**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
     - Part 1, due Feb 17 (Topic Selection)
