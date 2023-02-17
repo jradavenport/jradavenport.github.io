@@ -34,7 +34,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 - Lecture 09 (Feb 09) - [Slides]({{ site.url }}/astr511src2023/Lecture09.pdf), [Video](https://youtu.be/ytCvuph46qQ) - Star Formation History
 <!-- W7 -->
 - Lecture 10 (Feb 14) -  [Slides]({{ site.url }}/astr511src2023/Lecture10.pdf), [Video](https://youtu.be/ZkQrRjuji5E) - Kinematics, Rotation, and the Oort Constants
-- Lecture 11 (Feb 16) - [Slides]({{ site.url }}/astr511src2023/Lecture11.pdf), Video - Gravitaional Potentials 
+- Lecture 11 (Feb 16) - [Slides]({{ site.url }}/astr511src2023/Lecture11.pdf), [Video](https://youtu.be/lGX-Hd7biQk) - Gravitaional Potentials 
     - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Part 1 due Feb 17
     - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf) due Feb 17
 <!-- W8 -->
@@ -57,7 +57,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf), due Feb 17
     - **Chemical Cartography**
 - [Homework 4]({{ site.url }}/astr511src2023/hw4 _astr511.pdf), due Mar 03
-    - **Destroy a Cluster**
+    - **Destroy this Cluster**
 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf)
     - Part 1, due Feb 17
     - Part 2, Mar 7 and 9
