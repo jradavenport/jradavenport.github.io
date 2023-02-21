@@ -43,6 +43,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 <!-- W9 -->
 - Lecture 14 (Feb 28) - Slides, Video - Ellipticals, Dwarfs, and Galaxy Clusters
 - Lecture 15 (Mar 03) - Slides, Video - Galactic Astronomy in the Next Decade 
+    - [Homework 4]({{ site.url }}/astr511src2023/hw4_astr511.pdf) due
 <!-- W10 -->
 - Mar 07 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Presentations
 - Mar 09 - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Presentations
