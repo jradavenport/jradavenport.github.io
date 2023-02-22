@@ -38,7 +38,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
     - [Final Project]({{ site.url }}/astr511src2023/final_project.pdf) Part 1 due Feb 17
     - [Homework 3]({{ site.url }}/astr511src2023/hw3_astr511.pdf) due Feb 17
 <!-- W8 -->
-- Lecture 12 (Feb 21) - [Slides]({{ site.url }}/astr511src2023/Lecture12.pdf), Video - Nearby Galaxies & Resolved Stellar Populations
+- Lecture 12 (Feb 21) - [Slides]({{ site.url }}/astr511src2023/Lecture12.pdf), [Video](https://youtu.be/5rwTGkK-Fz0) - Nearby Galaxies & Resolved Stellar Populations
 - Lecture 13 (Feb 23) - Slides, Video - Galaxy Morphology and Classification
 <!-- W9 -->
 - Lecture 14 (Feb 28) - Slides, Video - Ellipticals, Dwarfs, and Galaxy Clusters
