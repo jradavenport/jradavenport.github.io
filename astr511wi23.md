@@ -41,7 +41,7 @@ This is the website for the graudate level Astronomy 511, Winter 2023 edition. T
 - Lecture 12 (Feb 21) - [Slides]({{ site.url }}/astr511src2023/Lecture12.pdf), [Video](https://youtu.be/5rwTGkK-Fz0) - Nearby Galaxies & Resolved Stellar Populations
 - Lecture 13 (Feb 23) - [Slides]({{ site.url }}/astr511src2023/Lecture13.pdf), [Video](https://youtu.be/ozaOzDpLymw) - Galaxy Morphology and Classification
 <!-- W9 -->
-- Lecture 14 (Feb 28) - [Slides]({{ site.url }}/astr511src2023/Lecture14.pdf), Video - Ellipticals
+- Lecture 14 (Feb 28) - [Slides]({{ site.url }}/astr511src2023/Lecture14.pdf), [Video](https://youtu.be/jGYBgLzJYpQ) - Ellipticals
 - Lecture 15 (Mar 03) - Slides, Video - Galactic Astronomy in the Next Decade 
     - [Homework 4]({{ site.url }}/astr511src2023/hw4_astr511.pdf) due
 <!-- W10 -->
