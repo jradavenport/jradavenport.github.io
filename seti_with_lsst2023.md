@@ -44,7 +44,7 @@ Coffee & Welcome (930AM)
 
 A few establishing talks (10AM - Noon) [(Video)](https://youtu.be/BjSUXTtrfwE)
 
-- Jim Davenport
+- Jim Davenport (Intro)
 - Peter Yoachim
 - Chris Lintott
 - [Sarah Greenstreet](https://docs.google.com/presentation/d/1kmzEi_vLEVrEviJ47d5Z7tfOuBeM99yrGTXo73iti8U/edit#slide=id.p)
@@ -58,3 +58,6 @@ Breakout Discussion Groups (1-4PM)
 Wrap-up (4-5PM)
 
 Dinner (6-8PM, Ba Bar)
+
+## Support
+This workshop was made possible by the generous support of the [Breakthrough Listen](https://breakthroughinitiatives.org/initiative/1) initiative, which is managed by the Breakthrough Initiatives, and sponsored by the Breakthrough Prize Foundation. The workshop was hosted by the [eScience Institute](https://escience.washington.edu), with organizational support from the [DiRAC Institute](https://dirac.astro.washington.edu).

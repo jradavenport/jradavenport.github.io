@@ -7,7 +7,7 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
 
-*updated 2023.01.18*
+*updated 2023.05.26*
 
 <table><tbody>
 <tr>
@@ -69,11 +69,15 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 </td>
 <td>
 <a href="https://muckrack.com/broadcast/savedclips/view/BqrDSpFD3L">
-<img src = "/assets/media_logos/knkx.png" width=195> </a>
+<img src = "/assets/media_logos/knkx.png" width=144> </a>
 </td>
 <td>
 <a href="https://muckrack.com/broadcast/savedclips/view/E3mHiR7n1f">
 <img src = "/assets/media_logos/kuow.png" width=195> </a>
+</td>
+<td>
+<a href="https://www.npr.org/transcripts/1122804873">
+<img src = "/assets/media_logos/shortwave.png" width=90> </a>
 </td>
 </tr>
 </tbody></table>

@@ -10,7 +10,7 @@
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://jradavenport.github.io/2017/03/06/galex.html">
+    <link rel="canonical" href="http://localhost:4000/2017/03/06/galex.html">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -101,15 +101,15 @@
           
         
           
-          <a class="page-link" href="/research/">Research Interests</a>
-          
-        
+          <a class="page-link" href="/research/">Research</a>
           
         
           
         
           
           <a class="page-link" href="/students/">Student Collaborators</a>
+          
+        
           
         
       </div>
@@ -138,7 +138,7 @@
 <p><strong>Note:</strong> <em>After corresponding with the gPhoton folks, it seems this may be a less efficient approach, and that an SQL-style database is also available for visit-level data that may suffice. Comparison of gPhoton with this coarser data is required!</em></p>
 
 <p>Here is the decade long light curve for one star, chosen to have the largest number of visits available (over 70). Each data point is the median flux value within the visit. The evolution is very interesting!
-<img src="http://jradavenport.github.io/assets/HD_3765.png" alt="" /></p>
+<img src="http://localhost:4000/assets/HD_3765.png" alt="" /></p>
 
 <p><strong>Next Steps</strong></p>
 <ol>
@@ -155,7 +155,7 @@
 
 <p>Instead of gPhoton, I used a dedicated dataset built from GALEX observations of the Kepler field by <a href="http://adsabs.harvard.edu/abs/2015ApJ...813..100O">Olmedo et al. (2015)</a>. Using the excellent CDS X Match Service, I quickly and effortlessly matched this catalog to the <a href="http://adsabs.harvard.edu/abs/2014ApJS..211...24M">McQuillan et al. (2014)</a> rotation period dataset. To get more photometry, I then matched <em>this</em> combined catalog to SIMBAD with X Match. In a matter of 30 minutes from the airport I was able to get the data to make this figure:</p>
 
-<p><img src="http://jradavenport.github.io/assets/galex_rot_test2.png" alt="" /></p>
+<p><img src="http://localhost:4000/assets/galex_rot_test2.png" alt="" /></p>
 
 <p>For stars with a small range of temperatures, we can see the NUV flux appears to decrease compared to the V-band as a function of rotation period. Here I use the NUV-V color, as it is distance independent, and small bins in temperature to minimize the effect of different stars inhabiting different ranges of rotation period causing artificial spreads in the color. The evolution of less UV activity with increasing age (rotation period) is in the direction that is expected. However, the scatter is quite large.</p>
 

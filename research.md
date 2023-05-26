@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Interests
+title: Research
 permalink: /research/
 show_in_nav: true
 ---
@@ -8,8 +8,7 @@ show_in_nav: true
 <img src="{{ site.url }}/assets/gp_lightcurve1.png" >
 
 
-My research generally involves large datasets of stars, time domain astronomy, and stellar populations.
-Stars and stellar populations are the fundamental building-blocks of galaxies, and I enjoy the using large databases of these tracers to understand the history of our Galaxy.
+My research generally involves large datasets of stars, time domain astronomy, and searching for technosignatures.
 
 - **[Student Collaborators]({{ site.url }}/students/):** Present and past student work
 - **[Project Ideas]({{ site.url }}/projects/):** A semi-updated list of available project ideas for students or collaborators
@@ -33,7 +32,6 @@ Stars and stellar populations are the fundamental building-blocks of galaxies, a
 - Publishing is broadly defined.
 - We will all be involved in writing papers and grants.
 - We will celebrate and document our process, our failures, and our victories.
-- A placeholder [GitHub group](https://github.com/TheAstroFactory) we can use for branding if we like.
 
 
 See my [CV]( {{ site.cv }} ) or [ADS link](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=AST) for my most recent work.

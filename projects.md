@@ -5,6 +5,9 @@ permalink: /projects/
 show_in_nav: false
 ---
 
+**Spring 2023:** this project list is slightly out of date, and will be revised this Summer.
+
+
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work with.
 I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out!
 
