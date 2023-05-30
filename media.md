@@ -7,7 +7,16 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
 
-*updated 2023.05.26*
+*updated 2023.05.29*
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.washington.edu/boundless/dirac-rubin-observatory/">
+<img src="/assets/media_logos/UW.png" width="400"/></a>
+</td>
+</tr>
+</tbody></table>
 
 <table><tbody>
 <tr>
@@ -48,7 +57,7 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <tr>
 <td>
 <a href="https://artsci.washington.edu/news/2022-12/big-data-night-sky">
-<img src="/assets/media_logos/UW_CAS.png" width=320 > </a>
+<img src="/assets/media_logos/UW_CAS.png" width=265 > </a>
 </td>
 <td>
 <a href="https://www.newscientist.com/article/0-the-time-lapse-telescope-that-will-transform-our-view-of-the-universe/">
@@ -56,7 +65,7 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 </td>
 <td>
 <a href="https://omny.fm/shows/the-gee-and-ursula-show/hour-3-gee-ursula-take-a-trip-through-the-universe#description">
-<img src = "/assets/media_logos/kiroradio.png" width=195> </a>
+<img src = "/assets/media_logos/kiroradio.png" width=165> </a>
 </td>
 </tr>
 </tbody></table>
