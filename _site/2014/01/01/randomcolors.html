@@ -131,11 +131,11 @@
   <article class="post-content">
     <p>I wanted to make my xterm a different color, to add spice to my life. After some quick searching, I started working from the directions <a href="http://entropicprincipal.blogspot.com/2006/03/picking-random-color-for-xterms.html">here</a>.</p>
 
-<p>Of course, there needed to be some modifications. I created a <a href="http://localhost:4000/assets/randomxterm.pl">perl script</a> and put it at this path: <code class="highlighter-rouge">~/.randomxterm.pl</code> Not all the colors look good with white text, so I needed to constrain the choices. Also I had to <code class="highlighter-rouge">chmod 755</code> it.</p>
+<p>Of course, there needed to be some modifications. I created a <a href="http://localhost:4000/assets/randomxterm.pl">perl script</a> and put it at this path: <code class="language-plaintext highlighter-rouge">~/.randomxterm.pl</code> Not all the colors look good with white text, so I needed to constrain the choices. Also I had to <code class="language-plaintext highlighter-rouge">chmod 755</code> it.</p>
 
-<p>The perl script needs to know the location of the X11 colors. For OSX Yosemite this file appears to be at <code class="highlighter-rouge">/opt/X11/share/X11/rgb.txt</code>, and the file looks like this:</p>
+<p>The perl script needs to know the location of the X11 colors. For OSX Yosemite this file appears to be at <code class="language-plaintext highlighter-rouge">/opt/X11/share/X11/rgb.txt</code>, and the file looks like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>255 250 250             snow
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>255 250 250             snow
 248 248 255             ghost white
 248 248 255             GhostWhite
 245 245 245             white smoke

@@ -13,7 +13,11 @@ Here is a list of media coverage, which I try to keep relatively up to date. For
 <tr>
 <td>
 <a href="https://www.washington.edu/boundless/dirac-rubin-observatory/">
-<img src="/assets/media_logos/UW.png" width="400"/></a>
+<img src="/assets/media_logos/UW.png" width="375"/></a>
+</td>
+<td>
+<a href="https://www.newscientist.com/article/2356626-supernovae-might-be-a-good-place-to-hunt-for-alien-broadcasts/">
+<img src = "/assets/media_logos/newscientist2022.png" width=195> </a>
 </td>
 </tr>
 </tbody></table>
