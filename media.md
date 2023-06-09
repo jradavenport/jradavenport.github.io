@@ -5,9 +5,21 @@ permalink: /media/
 show_in_nav: true
 ---
 
-Here is a list of media coverage, which I try to keep relatively up to date. For press or speaking inquiries, please reach out on email or [Twitter](https://twitter.com/jradavenport).
+Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.05.29*
+*updated 2023.06.09*
+
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.newscientist.com/article/2377791-astronomers-are-using-a-new-supernova-to-search-for-alien-signals/">
+<img src = "/assets/media_logos/newscientist2022.png" width=195> </a>
+</td>
+</tr>
+</tbody></table>
+
+
 
 <table><tbody>
 <tr>
