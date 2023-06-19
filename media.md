@@ -7,11 +7,18 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.06.09*
-
+*updated 2023.06.19*
 
 <table><tbody>
 <tr>
+<td>
+<a href="https://mashable.com/article/alien-contact-supernova">
+<img src = "/assets/media_logos/mashable.png" width=195> </a>
+</td>
+<td>
+<a href="https://www.inverse.com/science/how-a-supernova-could-finally-get-us-in-touch-with-aliens">
+<img src = "/assets/media_logos/inverse.png" width=195> </a>
+</td>
 <td>
 <a href="https://www.newscientist.com/article/2377791-astronomers-are-using-a-new-supernova-to-search-for-alien-signals/">
 <img src = "/assets/media_logos/newscientist2022.png" width=195> </a>
@@ -145,7 +152,7 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.king5.com/article/tech/science/lights-streaking-across-night-sky-in-western-washington-again/281-a4227a83-20ca-484d-8e0d-da48b4fa8f97"><img src="/assets/media_logos/king5.png"  width=200/></a>
+<a href="https://www.king5.com/article/tech/science/lights-streaking-across-night-sky-in-western-washington-again/281-a4227a83-20ca-484d-8e0d-da48b4fa8f97"><img src="/assets/media_logos/king5.png"  width=190/></a>
 </td>
 <td>
 <a href="https://physicstoday.scitation.org/doi/10.1063/PT.3.4746"><img src="/assets/media_logos/phystoday.png" width=170/></a>
@@ -266,7 +273,7 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 
 
 <table> <tbody>
-<tr><td><a href="http://www.seattletimes.com/business/technology/watch-24-hours-of-king-county-metro-bus-service-in-6-minutes/"><img src="https://2.bp.blogspot.com/-5UzBplpOdX0/VqEjecl6u4I/AAAAAAAACXg/4OIA-5Xxp8U/s320/seattletimes.png" /></a></td>
+<tr><td><a href="http://www.seattletimes.com/business/technology/watch-24-hours-of-king-county-metro-bus-service-in-6-minutes/"><img src="https://2.bp.blogspot.com/-5UzBplpOdX0/VqEjecl6u4I/AAAAAAAACXg/4OIA-5Xxp8U/s320/seattletimes.png"  width="195"/></a></td>
 <td>
 <a href="https://www.newscientist.com/article/2102892-proxima-bs-star-could-be-blasting-away-the-planets-atmosphere/">
 <img src="/assets/media_logos/newscientist.png" />
@@ -276,30 +283,32 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 </tbody></table>
 
 <table> <tbody>
-<tr> <td><a href="http://www.nature.com/news/journal-publishes-200-word-papers-1.16925"><img src="https://2.bp.blogspot.com/-8rgfuwumA10/VgNF6N6igOI/AAAAAAAACVU/4_h2lPBxmMc/s1600/nature.png" /></a></td>
-<td><a href="https://upvoted.com/2015/12/06/redditors-data-clouds-show-which-us-presidential-candidate-is-the-wordiest/"><img src="https://4.bp.blogspot.com/-iSrZDBBVmrE/VmX3o3XSsXI/AAAAAAAACWY/ZnLxOdE-nlg/s1600/upvoted.png" /></a>
+<tr> <td><a href="http://www.nature.com/news/journal-publishes-200-word-papers-1.16925"><img src="https://2.bp.blogspot.com/-8rgfuwumA10/VgNF6N6igOI/AAAAAAAACVU/4_h2lPBxmMc/s1600/nature.png" width="120"/></a></td>
+<td><a href="https://upvoted.com/2015/12/06/redditors-data-clouds-show-which-us-presidential-candidate-is-the-wordiest/">
+<img src="https://4.bp.blogspot.com/-iSrZDBBVmrE/VmX3o3XSsXI/AAAAAAAACWY/ZnLxOdE-nlg/s1600/upvoted.png" width="195"/></a>
 </td>
-<td><a href="https://www.youtube.com/watch?v=gdp44A2uDYc"><img src="/assets/media_logos/bloomberg.png" width="320"/></a> </td>
+<td><a href="https://www.youtube.com/watch?v=gdp44A2uDYc"><img src="/assets/media_logos/bloomberg.png" width="195"/></a> </td>
 </tr>
 </tbody></table>
 
 <table> <tbody>
 <tr>
-<td><a href="http://www.americanscientist.org/blog/pub/a-fools-errand"><img src="https://2.bp.blogspot.com/-7JdvKh5Iz0A/VR3kYZ-JR1I/AAAAAAAACSU/0Mkx6jiUoKI/s1600/aslogo.gif" /></a>
+<td><a href="http://www.americanscientist.org/blog/pub/a-fools-errand"><img src="https://2.bp.blogspot.com/-7JdvKh5Iz0A/VR3kYZ-JR1I/AAAAAAAACSU/0Mkx6jiUoKI/s1600/aslogo.gif" width=175/></a>
 </td>
 <td><a href="http://www.nature.com/news/data-visualization-science-on-the-map-1.17024"><img src="https://1.bp.blogspot.com/-LWUmkkPAPKs/VPo7PlajhXI/AAAAAAAACPQ/Qg_eHOIi9gI/s1600/nature.png" /></a>
 </td>
-<td><a href="http://seattle.curbed.com/tags/james-davenport"><img src="https://3.bp.blogspot.com/-udiYi6Rgmy4/VRHaA7ByWlI/AAAAAAAACRw/sjP19bqcQmk/s1600/curbed.png" /></a></td>
+<td><a href="https://seattle.curbed.com/2014/3/6/10135780/watch-24-hours-in-the-life-of-king-county-metro">
+<img src="https://3.bp.blogspot.com/-udiYi6Rgmy4/VRHaA7ByWlI/AAAAAAAACRw/sjP19bqcQmk/s1600/curbed.png" /></a></td>
 </tr>
 </tbody> </table>
 
 <table> <tbody>
 <tr> <td><a href="http://sportsanalyticsblog.com/articles/roundup-10-trending-stories-in-sports-analytics-before-the-mit-sloan-conference" style="margin-left: 1em; margin-right: 1em;"><img height="20" src="https://2.bp.blogspot.com/-BfaIBrtnFtM/VOuwg-uQxKI/AAAAAAAACN8/bjHApvI-sQY/s1600/sports-analytics-2014.jpg" width="200" /></a>
-</td><td><a href="http://news.harvard.edu/gazette/story/2014/03/grasping-with-the-eyes/" style="margin-left: 1em; margin-right: 1em;"><img height="44" src="https://1.bp.blogspot.com/-0SiU19_IAB0/VOuwl2y9fuI/AAAAAAAACOE/IkkFSgbvNq8/s1600/hvdg.png" width="320" /></a>
+</td><td><a href="http://news.harvard.edu/gazette/story/2014/03/grasping-with-the-eyes/" style="margin-left: 1em; margin-right: 1em;"><img src="https://1.bp.blogspot.com/-0SiU19_IAB0/VOuwl2y9fuI/AAAAAAAACOE/IkkFSgbvNq8/s1600/hvdg.png" width="195" /></a>
 </td> </tr>
 </tbody> </table>
 <table><tbody>
-<tr><td><a href="http://sploid.gizmodo.com/the-best-selling-books-of-of-the-last-decade-visualized-1641794816"> <img src="https://3.bp.blogspot.com/-S4vRTKZQ3q8/VC3CPFohTAI/AAAAAAAACJY/7vfZRogK5Nw/s1600/sploid.png" width="220"/></a>
+<tr><td><a href="http://sploid.gizmodo.com/the-best-selling-books-of-of-the-last-decade-visualized-1641794816"> <img src="https://3.bp.blogspot.com/-S4vRTKZQ3q8/VC3CPFohTAI/AAAAAAAACJY/7vfZRogK5Nw/s1600/sploid.png" width="185"/></a>
 </td>
 
 <td><a href="http://knowmore.washingtonpost.com/2015/02/17/charting-the-shape-of-65000-pieces-of-art/"><img src="https://2.bp.blogspot.com/-xGb01kSXPjo/VOOJYM_riTI/AAAAAAAACMo/-O4-DeOxjXE/s1600/km.png" /></a>
@@ -310,8 +319,8 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 <table>
 <tbody>
 <tr>
-<td><a href="http://thinkprogress.org/health/2014/08/20/3473332/pope-francis-might-retire-early/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="24" src="https://3.bp.blogspot.com/-hq-7HkdYiYY/U_TnvA8-NXI/AAAAAAAACHU/CUQUqzhsdGI/s1600/TP-logo-health.png" width="320" /></a></td>
-<td><a href="http://bl.ocks.org/mbostock/11415064" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="40" src="https://2.bp.blogspot.com/-7boGzQFNPRQ/U_UEGg7TQwI/AAAAAAAACHk/1akPR0GTGT8/s1600/mb.png" width="200" /></a> </td>
+<td><a href="http://thinkprogress.org/health/2014/08/20/3473332/pope-francis-might-retire-early/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="24" src="https://3.bp.blogspot.com/-hq-7HkdYiYY/U_TnvA8-NXI/AAAAAAAACHU/CUQUqzhsdGI/s1600/TP-logo-health.png" width="195" /></a></td>
+<td><a href="http://bl.ocks.org/mbostock/11415064" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="40" src="https://2.bp.blogspot.com/-7boGzQFNPRQ/U_UEGg7TQwI/AAAAAAAACHk/1akPR0GTGT8/s1600/mb.png" width="195" /></a> </td>
 </tr>
 </tbody></table>
 <table>
@@ -337,14 +346,14 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 <td><a href="http://visualoop.com/18764/data-viz-news-46">
 <img src="https://2.bp.blogspot.com/-mVmKsCqEB4Q/VMGuCI-VKRI/AAAAAAAACMM/g_jJYcklxFI/s1600/visualoop.png" /></a>
 </td>
-<td><a href="http://physicsworld.com/cws/article/indepth/2012/oct/25/web-life"><img src="https://2.bp.blogspot.com/-axBgOS6MuMM/UPetKQEWFwI/AAAAAAAABdw/6twfm7Zrh6Q/s1600/physworld.png"  width=300/></a>
+<td><a href="http://physicsworld.com/cws/article/indepth/2012/oct/25/web-life"><img src="https://2.bp.blogspot.com/-axBgOS6MuMM/UPetKQEWFwI/AAAAAAAABdw/6twfm7Zrh6Q/s1600/physworld.png"  width=195/></a>
 </td></tr>
 </tbody></table>
 
 <table border="0">
 <tbody>
 <tr>
-<td><a href="http://gizmodo.com/a-map-of-the-world-as-plotted-by-airports-592730526"><img src="https://2.bp.blogspot.com/-4Ao-tuQ9r3Q/UcvIM1oNTeI/AAAAAAAABzI/4hAeOS7bNk8/s1600/gizmodo.png" /></a></td>
+<td><a href="http://gizmodo.com/a-map-of-the-world-as-plotted-by-airports-592730526"><img src="https://2.bp.blogspot.com/-4Ao-tuQ9r3Q/UcvIM1oNTeI/AAAAAAAABzI/4hAeOS7bNk8/s1600/gizmodo.png"  width="195"/></a></td>
 <td><a href="http://www.fastcodesign.com/1672867/infographic-how-the-worlds-airports-and-runways-map-global-inequality"><img src="https://1.bp.blogspot.com/-LiYSVfz-h8k/UcvKFqtDo8I/AAAAAAAABzY/raPR_d6AMP8/s1600/fastco.png" /></a>
 </td>
 <td><a href="http://www.washingtonpost.com/blogs/the-fix/wp/2013/11/20/the-united-states-of-starbucks/"><img src="https://2.bp.blogspot.com/-OY5HFx0vqDA/Uo59OwfdKNI/AAAAAAAAB5E/qSzg2RPpJZ8/s1600/the_fix.png" /></a>
@@ -384,14 +393,14 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 <table>
 <tbody>
 <tr>
-<td><a href="http://arimelber.tumblr.com/post/33233425593/the-united-states-of-starbucks-no-resident-is#notes"><img src="https://3.bp.blogspot.com/-C2MtgXfWiGA/UPetIxJywjI/AAAAAAAABdo/BGOdHQEACVU/s1600/arimelber.png" /></a></td>
+<td><a href="http://arimelber.tumblr.com/post/33233425593/the-united-states-of-starbucks-no-resident-is#notes"><img src="https://3.bp.blogspot.com/-C2MtgXfWiGA/UPetIxJywjI/AAAAAAAABdo/BGOdHQEACVU/s1600/arimelber.png"  width="195"/></a></td>
 
 <td><a href="http://www.businessinsider.com/starbucks-map-2012-10"><img src="https://3.bp.blogspot.com/-iiGGN0YDJ4U/UPetJLfArWI/AAAAAAAABdQ/QOHtSs67WMg/s1600/bi.png" /></a> </td>
 </tr>
 <tr>
-<td><a href="http://consumerist.com/2012/10/11/chances-are-youll-never-have-to-drive-more-than-20-miles-to-find-a-starbucks/"><img src="https://1.bp.blogspot.com/-u6QLH5B7-oo/UPetJTjpZXI/AAAAAAAABdY/zXhhchGlmJA/s1600/consumerist.png"  width=300/></a> </td>
+<td><a href="http://consumerist.com/2012/10/11/chances-are-youll-never-have-to-drive-more-than-20-miles-to-find-a-starbucks/"><img src="https://1.bp.blogspot.com/-u6QLH5B7-oo/UPetJTjpZXI/AAAAAAAABdY/zXhhchGlmJA/s1600/consumerist.png"  width="195"/></a> </td>
 
-<td><a href="http://blog.mindjet.com/2012/11/qa-with-james-davenport-blogger-at-if-we-assume/"><img src="https://2.bp.blogspot.com/-Vo1BPrSjUy8/UPetJBKcNmI/AAAAAAAABdU/UVV8GkUcSA8/s1600/consipre.png" /></a></td>
+<td><a href="http://blog.mindjet.com/2012/11/qa-with-james-davenport-blogger-at-if-we-assume/"><img src="https://2.bp.blogspot.com/-Vo1BPrSjUy8/UPetJBKcNmI/AAAAAAAABdU/UVV8GkUcSA8/s1600/consipre.png"  width="195"/></a></td>
 
 </tr>
 </tbody></table>
