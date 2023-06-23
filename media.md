@@ -7,7 +7,29 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.06.19*
+*updated 2023.06.23*
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.livescience.com/space/extraterrestrial-life/aliens-might-be-using-a-nearby-supernova-to-get-our-attention-new-study-suggests">
+<img src = "/assets/media_logos/livescience.png" width=165> </a>
+</td>
+<td>
+<a href="https://www.thedailybeast.com/an-intergalactic-game-of-marco-polo-could-point-us-to-aliens?ref=author">
+<img src = "/assets/media_logos/dailybeast.png" width=140> </a>
+</td>
+<td>
+<a href="https://www.dailymail.co.uk/sciencetech/article-12187175/Aliens-use-21-million-year-old-supernova-beacon-communication.html">
+<img src = "/assets/media_logos/dailymail.png" width=140> </a>
+</td>
+<td>
+<a href="https://www.independent.co.uk/space/aliens-supernova-earth-humans-message-b2362083.html">
+<img src = "/assets/media_logos/independent.png" width=175> </a>
+</td>
+</tr>
+</tbody></table>
+
 
 <table><tbody>
 <tr>
@@ -26,13 +48,15 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 </tr>
 </tbody></table>
 
-
-
 <table><tbody>
 <tr>
 <td>
+<a href="https://phys.org/news/2023-06-nearby-supernova-aliens-attention.html">
+<img src = "/assets/media_logos/physorg.png" width=130> </a>
+</td>
+<td>
 <a href="https://www.washington.edu/boundless/dirac-rubin-observatory/">
-<img src="/assets/media_logos/UW.png" width="375"/></a>
+<img src="/assets/media_logos/UW.png" width="315"/></a>
 </td>
 <td>
 <a href="https://www.newscientist.com/article/2356626-supernovae-might-be-a-good-place-to-hunt-for-alien-broadcasts/">

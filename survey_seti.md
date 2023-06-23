@@ -19,6 +19,7 @@ show_in_nav: false
 
 ## Papers
 * SETI with LSST Whitepaper (in prep)
+* [Real-Time Technosignature Strategies with SN 2023ixf](https://arxiv.org/abs/2306.03118)
 * [Searching the SETI Ellipsoid with Gaia (Davenport+2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....164..117D/abstract)
 * [From Data to Software to Science with the Rubin Observatory LSST (Breivik+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220802781B/abstract) - Section B.6.9
 * [Rubin Observatory LSST Transients and Variable Stars Roadmap (Hambleton+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220804499H/abstract) - Section 2.3.3
