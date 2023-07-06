@@ -7,7 +7,20 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.06.23*
+*updated 2023.07.06*
+
+
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.sciencefocus.com/space/alien-message-supernova-explosions/">
+<img src = "/assets/media_logos/sciencefocus.png" width=175> </a>
+</td>
+</tr>
+</tbody></table>
+
+
 
 <table><tbody>
 <tr>
