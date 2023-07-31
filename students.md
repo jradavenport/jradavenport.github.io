@@ -2,7 +2,7 @@
 layout: page
 title: Student Collaborators
 permalink: /students/
-show_in_nav: true
+show_in_nav: false
 ---
 
 <!-- # Student Collaborators -->
