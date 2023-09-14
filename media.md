@@ -7,10 +7,14 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.09.13*
+*updated 2023.09.14*
 
 <table><tbody>
 <tr>
+<td>
+<a href="https://themessenger.com/tech/mexico-congress-uap-ufo-alien-corpses-mummies">
+<img src = "/assets/media_logos/themessenger.png" width=165> </a>
+</td>
 <td>
 <a href="https://www.wired.com/story/scientists-say-youre-looking-for-alien-civilizations-all-wrong/">
 <img src = "/assets/media_logos/wired.png" width=165> </a>
