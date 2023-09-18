@@ -7,10 +7,14 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.09.14*
+*updated 2023.09.18*
 
 <table><tbody>
 <tr>
+<td>
+<a href="https://www.npr.org/2023/09/18/1198748542/why-the-earliest-galaxies-are-sparking-drama-and-controversy-among-astronomers">
+<img src = "/assets/media_logos/shortwave.png" width=90> </a>
+</td>
 <!-- add link if possible to live TV interview recording from 2023-Sept-14 -->
 <td><img src = "/assets/media_logos/scripps_news.png" width=152> 
 </td>
