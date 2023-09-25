@@ -19,7 +19,8 @@ show_in_nav: false
 
 ## Papers
 * SETI with LSST Whitepaper (in prep)
-* [Real-Time Technosignature Strategies with SN 2023ixf](https://arxiv.org/abs/2306.03118)
+* [Signal Synchronization Strategies and Time Domain SETI with Gaia DR3 (Nilipour+2023)](https://arxiv.org/abs/2308.00066)
+* [Real-Time Technosignature Strategies with SN 2023ixf (Davenport+2023)](https://arxiv.org/abs/2306.03118)
 * [Searching the SETI Ellipsoid with Gaia (Davenport+2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....164..117D/abstract)
 * [From Data to Software to Science with the Rubin Observatory LSST (Breivik+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220802781B/abstract) - Section B.6.9
 * [Rubin Observatory LSST Transients and Variable Stars Roadmap (Hambleton+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220804499H/abstract) - Section 2.3.3
@@ -27,8 +28,9 @@ show_in_nav: false
 
 
 
-## Meetings
+## Meetings & Workshops
 * [SETI with LSST 2023](http://jradavenport.github.io/seti_with_lsst2023/)
+* LSST Solar System Science Collaboration, Summer Sprint
 
 
 ## Collaborators

@@ -10,5 +10,6 @@ show_in_nav: true
 - ASTR 511, Galactic Astronomy [(Winter 2023)]({{ site.url }}/astr511wi23)
 
 ## In Development
+- ASTR 270, Public Outreach in Astronomy ([Spring 2024]({{ site.url }}/astr270sp24))
 - Observation and Theory of Variability
 - Technosignatures and Modern SETI
