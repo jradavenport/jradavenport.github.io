@@ -6,7 +6,7 @@ layout: page
 <div>
 <!-- <img align="left" src="{{ site.url }}/assets/davenport_bw_2020.JPG" hspace="25" width="200"> -->
 <!-- <figure> -->
-<img align="right" src="{{ site.url }}/assets/headshot2023_350.jpeg" hspace="25" width="200">
+<img align="right" src="{{ site.url }}/assets/headshot2023_350.jpeg" hspace="25" width="300">
 <!-- </figure> -->
 
 I am a Research Assistant Professor in the University of Washington's <a href="http://astro.washington.edu">Department of Astronomy</a>, and Associate Director of the
