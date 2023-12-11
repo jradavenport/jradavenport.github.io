@@ -7,7 +7,7 @@ show_in_nav: false
 
 # Public Outreach in Astronomy
 
-This is the website for Astronomy 270, Spring 2024 edition. This year we will be focusing on online outreach, such as videos and podcasts. 
+This is the website for Astronomy 270, Spring 2024 edition. This year we will be teaching the Planetarium, and focusing on online media (such as videos and podcasts).
 
 ## Resources 
 - [Syllabus]({{ site.url }}/astr270sp24src/Syllabus.pdf)

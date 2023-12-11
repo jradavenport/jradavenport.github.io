@@ -10,6 +10,7 @@ show_in_nav: false
 ## Introduction
 
 ## Projects
+* LSST Solar System Science Collaboration: Technosignature Thinktank
 * SETI Ellipsoid & timing-based approaches
 * Outliers and unusual variability
 * Anomalous Lines in APOGEE Spectra (ALIAS) & spectroscopic methods
