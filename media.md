@@ -12,6 +12,10 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 <table><tbody>
 <tr>
 <td>
+<a href="https://www.universetoday.com/164883/astronomers-scan-hundreds-of-stars-for-anomalous-transits/">
+<img src = "/assets/media_logos/universetoday.png" width=180> </a>
+</td>
+<td>
 <a href="https://www.npr.org/2023/09/18/1198748542/why-the-earliest-galaxies-are-sparking-drama-and-controversy-among-astronomers">
 <img src = "/assets/media_logos/shortwave.png" width=90> </a>
 </td>

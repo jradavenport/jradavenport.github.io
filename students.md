@@ -12,6 +12,26 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 ## *Student Collaborations*
 <hr>
+## 2023-2024 Projects
+
+**[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare temperatures in TESS & Kepler
+
+**[Anastasios (Andy) Tzanidakis (UW)](https://andytza.github.io):** Looking for Boyajian's Star analogs in surveys.
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (with Prof. Rory Barnes) Tidal synchronization in binaries.
+
+**[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in TESS
+
+**[Tom Wagg (UW)](https://www.tomwagg.com):** Flare activity variations in TESS
+
+**[Valeria Hurtado (UW)](https://astro.washington.edu/people/valeria-hurtado):** Post-AGB candidates in WISE
+
+
+**[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
+
+
+
+<hr>
 ## 2022-2023 Projects
 
 **[Lupita Tovar Mendoza (UW)](http://depts.washington.edu/astron/profile/tovar-guadalupe/):** Flare temperatures in TESS & Kepler
@@ -25,7 +45,6 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 **[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in TESS
 
 **[Valeria Hurtado (UW)](https://astro.washington.edu/people/valeria-hurtado):** Searching Gaia and WISE for Post-AGB stars
-
 
 **Josue Torres-Valdovinos (UW):** Data reduction and testing with PyKOSMOS
 
