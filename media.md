@@ -7,10 +7,17 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2024.02.15*
+
+*updated 2024.02.16*
+
 
 <table><tbody>
 <tr>
+
+<td>
+<a href="https://thedebrief.org/strategic-anomaly-detection-effort-uses-seti-ellipsoid-technique-to-scour-the-cosmos-for-technosignatures/">
+<img src="/assets/media_logos/thedebrief.png" width=170/></a>
+</td>
 <td>
 <a href="https://www.space.com/seti-alien-signals-supernova-1987a-ellipsoid">
 <img src="/assets/media_logos/spacedotcom.png" width=170/></a>
