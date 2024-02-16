@@ -7,7 +7,21 @@ show_in_nav: true
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
-*updated 2023.09.18*
+*updated 2024.02.15*
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.space.com/seti-alien-signals-supernova-1987a-ellipsoid">
+<img src="/assets/media_logos/spacedotcom.png" width=170/></a>
+</td>
+<td>
+<a href="https://www.seti.org/press-release/seti-institute-employs-seti-ellipsoid-technique-searching-signals-distant-civilizations">
+<img src="/assets/media_logos/setiinstitute.png" width=111/></a>
+</td>
+</tr>
+</tbody></table>
+
 
 <table><tbody>
 <tr>
@@ -143,7 +157,7 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 </td>
 <td>
 <a href="https://www.space.com/dusty-white-dwarf-star-dimming-once-in-lifetime">
-<img src="/assets/media_logos/spacedotcom.png" width=200/></a>
+<img src="/assets/media_logos/spacedotcom.png" width=170/></a>
 </td>
 <td>
 <a href="https://skyandtelescope.org/astronomy-news/astronomers-discover-giant-blinking-star/">

@@ -10,16 +10,20 @@ show_in_nav: false
 ## Introduction
 
 ## Projects
-* LSST Solar System Science Collaboration: Technosignature Thinktank
+* LSST Solar System Science Collaboration: Technosignature Think Tank
 * SETI Ellipsoid & timing-based approaches
 * Outliers and unusual variability
 * Anomalous Lines in APOGEE Spectra (ALIAS) & spectroscopic methods
 * Changes in exoplanet transits over time
-* Searches for artificial motion and interstellar objects
+* Searches for interstellar objects and anomalous solar system objects
 * [SETI.news](http://seti.news) - Newsletter for SETI research
+* Outreach projects, including Comic Con panels
 
 ## Papers
 * SETI with LSST Whitepaper (in prep)
+* Searching the SN 1987A SETI Ellipsoid with TESS (Cabrales+2024, In Press)
+* [The weird and the wonderful in our Solar System: Searching for serendipity in the Legacy Survey of Space and Time (Rogers+2024)](https://arxiv.org/abs/2401.08763)
+* [The Breakthrough Listen Search for Intelligent Life: Detection and Characterization of Anomalous Transits in Kepler Lightcurves (Zuckerman+2023)](https://arxiv.org/abs/2312.07903)
 * [Signal Synchronization Strategies and Time Domain SETI with Gaia DR3 (Nilipour+2023)](https://arxiv.org/abs/2308.00066)
 * [Real-Time Technosignature Strategies with SN 2023ixf (Davenport+2023)](https://arxiv.org/abs/2306.03118)
 * [Searching the SETI Ellipsoid with Gaia (Davenport+2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....164..117D/abstract)
@@ -40,3 +44,4 @@ We are fortunate to have collaborators and supporters at many institutions, incl
 * Breakthrough Listen
 * PSETI
 * SETI Institute
+* Oxford
