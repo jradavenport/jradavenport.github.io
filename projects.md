@@ -5,15 +5,15 @@ permalink: /projects/
 show_in_nav: false
 ---
 
-**Spring 2023:** this project list is slightly out of date, and will be revised this Summer.
-
 
 Below is a list of project ideas that either A) I am hoping to work on, or B) I would love a student or collaborator to work with.
 I am putting these ideas online in the hopes of attracting people to help work on them. If you see something you'd like to collaborate on, please reach out!
 
 ## Astronomy Projects
 
-Here's a [break-out list for Gaia specific projects](https://jradavenport.github.io/gaia_projects/).
+<!-- Here's a [break-out list for Gaia specific projects](https://jradavenport.github.io/gaia_projects/). -->
+
+- contextual outliers in surveys (optical and photometry)
 
 ### SETI
 - **SETI with Big Surveys**
@@ -25,12 +25,8 @@ Here's a [break-out list for Gaia specific projects](https://jradavenport.github
 	- Searching for signals/alerts in the SETI Ellipsoid ([repo](https://github.com/jradavenport/daen))
 	- Gaia positions + ZTF alerts
 	- Working with e.g. SN 1987A and galactic novae
-- **Searching for "missing transits" in Kepler/K2/TESS**
-	- are there any exoplanet transits that are "missing", i.e. *should* have been visible but didn't occur?
-	- a potential SETI signal, according to a [Kipping & Teachey](https://arxiv.org/abs/1603.08928)
-	- some more detail in [this blog post](https://jradavenport.github.io/2017/03/09/missing.html)
 - **Exploring Repeating but Non-Periodic Signals in Data**
-	- "Sequence Dispersion Minimization" ([repo](https://github.com/TheAstroFactory/SDM))
+	- "Sequence Dispersion Minimization" ([repo](https://github.com/StellarCartography/SDM))
 	- some interesting algorithm challenges - can we reproduce period-finding techniques using *non*-periodic patterns?
 	- Fun with Fibonacci! Plus MANY other neat integer sequence available ([OEIS](https://oeis.org))
 - **Searching the Earth Transit Zone**
@@ -45,7 +41,7 @@ Here's a [break-out list for Gaia specific projects](https://jradavenport.github
 	- Update with bigger/better datasets! Newer Gaia (EDR3 as of early 2021), other sources of spectroscopy (LAMOST, APOGEE, SDSS)
 	- Similar game can be played using photometry alone ([photometric parallax](https://en.wikipedia.org/wiki/Photometric_parallax)), but with worse distance precision...
 	- Could also search the Gaia Color-Mag diagram for outliers (i.e. points falling below subdwarfs, points between WD and Main Seq tracks)
-		- I *think* this idea is new... and maybe "easy"!
+		- I *think* this idea is new... and maybe "easy"?
 - **Statistical Outliers**
 	- These might include outliers in spectral energy distribution (multi-color space), unusual variability, correlation between objects...
 	- Also other tools for statistical explorations of variability to be explored (e.g. [stumpy](https://github.com/TDAmeritrade/stumpy))
@@ -149,11 +145,16 @@ Here's a [break-out list for Gaia specific projects](https://jradavenport.github
 - *Many* projects in other groups above are primarily "coding" or algorithm based.
 
 
-### Recent Stuff
+### Finished Stuff
 *Projects from this page that students have recently picked up. If interested, still worth talking about!*
 
-- **Using WISE to look for variable stars**
-	- *T. Dorn-Wallenstein working on this for massive stars*
+- **Searching for "missing transits" in Kepler/K2/TESS**
+	- are there any exoplanet transits that are "missing", i.e. *should* have been visible but didn't occur?
+	- a potential SETI signal, according to a [Kipping & Teachey](https://arxiv.org/abs/1603.08928)
+	- some more detail in [this blog post](https://jradavenport.github.io/2017/03/09/missing.html)
+	- PUBLISHED: [(Zuckerman+2023)](https://arxiv.org/abs/2312.07903)
+- **Using WISE to identify variable stars**
+	- *T. Dorn-Wallenstein worked on this for massive stars*
 	- **many other areas of star parameter space available!!**
 	- WISE provides ~7 year light curves, with very unique sampling, interesting challenge for e.g. GP modeling
 	- Good for long-term variability, and *some* short term

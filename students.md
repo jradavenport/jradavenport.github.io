@@ -20,12 +20,13 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Jessica Birky (UW)](https://jbirky.github.io):** (with Prof. Rory Barnes) Tidal synchronization in binaries.
 
-**[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in TESS
+**[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in Kepler & TESS
 
-**[Tom Wagg (UW)](https://www.tomwagg.com):** Flare activity variations in TESS
+**[Tom Wagg (UW)](https://www.tomwagg.com):** Flare activity variations in the TESS CVZ
 
 **[Valeria Hurtado (UW)](https://astro.washington.edu/people/valeria-hurtado):** Post-AGB candidates in WISE
 
+**Francisca Chabour Barra (UW):** "Sequence Dispersion Minimization" ([repo](https://github.com/StellarCartography/SDM))
 
 **[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
 

@@ -20,8 +20,8 @@ show_in_nav: false
 * Outreach projects, including Comic Con panels
 
 ## Papers
-* SETI with LSST Whitepaper (in prep)
-* Searching the SN 1987A SETI Ellipsoid with TESS (Cabrales+2024, In Press)
+* The Breakthrough Listen Search for Intelligent Life: Searching for Anomalous Lines In APOGEE Spectra (ALIAS) (Hand+2024 in prep)
+* [Searching the SN 1987A SETI Ellipsoid with TESS (Cabrales+2024)](https://arxiv.org/abs/2402.11037)
 * [The weird and the wonderful in our Solar System: Searching for serendipity in the Legacy Survey of Space and Time (Rogers+2024)](https://arxiv.org/abs/2401.08763)
 * [The Breakthrough Listen Search for Intelligent Life: Detection and Characterization of Anomalous Transits in Kepler Lightcurves (Zuckerman+2023)](https://arxiv.org/abs/2312.07903)
 * [Signal Synchronization Strategies and Time Domain SETI with Gaia DR3 (Nilipour+2023)](https://arxiv.org/abs/2308.00066)
@@ -30,6 +30,7 @@ show_in_nav: false
 * [From Data to Software to Science with the Rubin Observatory LSST (Breivik+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220802781B/abstract) - Section B.6.9
 * [Rubin Observatory LSST Transients and Variable Stars Roadmap (Hambleton+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220804499H/abstract) - Section 2.3.3
 * [SETI in the Spatio-Temporal Survey Domain (Davenport 2019)](https://ui.adsabs.harvard.edu/abs/2019arXiv190704443D/abstract)
+* SETI with LSST Whitepaper (in prep)
 
 
 
