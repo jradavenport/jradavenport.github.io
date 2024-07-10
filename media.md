@@ -8,7 +8,10 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2024.02.16*
+*updated 2024.07.10*
+<a href="https://www.rollingstone.com/culture/culture-features/space-trash-pollution-starlink-spacex-1235039587/">
+<img src="/assets/media_logos/rollingstone.png" width=190/> </a>
+
 
 
 <table><tbody>

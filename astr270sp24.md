@@ -32,7 +32,7 @@ This is the website for Astronomy 270, Spring 2024 edition. This year we will be
     * Thur: Solar Telescope Viewing
 * Week 5
     * Tues: [Public Talks and Stage Fright]({{ site.url }}/astr270sp24src/Lecture09.pdf)
-    * Thur: Social Media
+    * Thur: Social Media, TJO tour
 * Week 6
     * Tues: Presentation 1, Day 1
     * Thur: Presentation 1, Day 2
