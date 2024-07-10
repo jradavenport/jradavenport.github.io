@@ -9,9 +9,17 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 
 
 *updated 2024.07.10*
-<a href="https://www.rollingstone.com/culture/culture-features/space-trash-pollution-starlink-spacex-1235039587/">
-<img src="/assets/media_logos/rollingstone.png" width=190/> </a>
 
+
+
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.rollingstone.com/culture/culture-features/space-trash-pollution-starlink-spacex-1235039587/">
+<img src="/assets/media_logos/rollingstone.png" width=250/> </a>
+</td>
+</tr>
+</tbody></table>
 
 
 <table><tbody>
