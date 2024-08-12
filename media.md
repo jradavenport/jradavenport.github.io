@@ -8,12 +8,16 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2024.07.10*
+*updated 2024.08.11*
 
 
 
 <table><tbody>
 <tr>
+<td>
+<a href="https://komonews.com/amp/news/local/stargazers-advised-to-seek-dark-skies-for-optimal-meteor-shower-viewing-sky-meteor-shower-stars-nasa-viewing-dark-skies-this-weekend-astronomer-perseid-bright-adjust-eyes-look-up-midnight">
+<img src="/assets/media_logos/komonews.png" width=250/> </a>
+</td>
 <td>
 <a href="https://www.rollingstone.com/culture/culture-features/space-trash-pollution-starlink-spacex-1235039587/">
 <img src="/assets/media_logos/rollingstone.png" width=250/> </a>
