@@ -35,8 +35,8 @@ show_in_nav: false
 
 
 ## Meetings & Workshops
-* [SETI with LSST 2023](http://jradavenport.github.io/seti_with_lsst2023/)
-* LSST Solar System Science Collaboration, Summer Sprint
+* [SETI with LSST 2023](http://jradavenport.github.io/seti_with_lsst2023/) (Seattle)
+* [LSST Solar System Science Collaboration, 2024 Readiness Sprint](https://lsst-sssc.github.io/Sprint2024/day2.html) (Oxford)
 
 
 ## Collaborators

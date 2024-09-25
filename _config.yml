@@ -10,10 +10,7 @@ linkedin_username: jradavenport
 #cv: "https://www.dropbox.com/s/r2xdam303rge7c9/davenport.cv.pdf?dl=1"
 #cv: "https://www.dropbox.com/s/v1m5iek32a69434/davenport.cv.pdf?dl=1"
 cv: "https://www.dropbox.com/s/du48mz4el33xr7m/davenport.cv_full.pdf?dl=1"
-ads_link: "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=PRE"
-mastodon:
-- username: jradavenport
-- instance: mastodon.social 
+ads_link: "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Davenport,%20James%20R.%20A.&db_key=PRE" 
 
 # Build settings
 # markdown: kramdown
