@@ -8,7 +8,7 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2024.08.11*
+*updated 2024.10.11*
 
 
 
