@@ -8,8 +8,19 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2024.10.11*
+*updated 2024.10.15*
 
+<table><tbody>
+<tr>
+<td>
+<a href="https://www.npr.org/2025/01/10/1223918034/short-wave-space-earth-birthday-science-ocean-biology">
+<img src = "/assets/media_logos/shortwave.png" width=120> </a>
+</td>
+<td>
+<img src = "/assets/media_logos/kuow.png" width=155>
+</td>
+</tr>
+</tbody></table>
 
 
 <table><tbody>
