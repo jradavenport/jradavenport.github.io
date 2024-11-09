@@ -37,3 +37,6 @@ The AoT Seattle Roadshow is different from typical AoT shows, by directly target
 "Third places" in society (i.e. those besides work and home), such as cafes and pubs, contribute to positive senses of community and quality of life ([Jeffres+2009](https://doi.org/10.1007/s11482-009-9084-8)), and in rural areas third places can have an out-sized impact on social cohesion ([Cabras+2010](https://doi.org/10.1080/09640568.2010.495488)). 
 As such, our program is ideally matched to bring science outreach to venues that often already host engaging events like trivia nights, and which play a crucial role in connecting their local community. By bringing regional scientists and students to give engaging science talks, we aim to encourage public trust in science as a human discipline. This helps dispel myths of the "lone genius", and makes our outreach more effective ([Varner 2014](https://doi.org/10.1093/biosci/biu021)).
 
+
+
+<img src="{{ site.url }}/assets/WA_map2024.jpg" >
