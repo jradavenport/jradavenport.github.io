@@ -8,12 +8,13 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2024.10.15*
+*updated 2025.01.22*
 
 <table><tbody>
 <tr>
 <td>
-<a href="https://www.npr.org/2025/01/10/1223918034/short-wave-space-earth-birthday-science-ocean-biology">
+<!-- <a href="https://www.npr.org/2025/01/10/1223918034/short-wave-space-earth-birthday-science-ocean-biology"> -->
+<a href="https://www.npr.org/2025/01/22/1226038388/space-aliens-astronomy-seti-institute">
 <img src = "/assets/media_logos/shortwave.png" width=120> </a>
 </td>
 <td>
