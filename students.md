@@ -11,6 +11,38 @@ I am fortunate to work with many wonderful students working on a variety of topi
 This website is an overview (and brag sheet!) for many of their projects & accomplishments. These include long-term projects, as well as summer or short-term efforts.
 
 ## *Student Collaborations*
+
+<hr>
+## 2024-2025 Projects
+
+**[Anastasios (Andy) Tzanidakis (UW)](https://andytza.github.io):** Looking for rare dipper stars in surveys.
+
+
+**[Ranger Liu (UW)](https://ryurongliu.com/):** Information complexity metrics for optical technosignature studies
+
+
+**[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in Kepler & TESS.
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (with Prof. Rory Barnes) Tidal evolution of binary stars.
+
+**Francisca Chabour Barra (UW):** PyKOSMOS workflow, calibration, and technical improvements.
+
+**Sam Charney (UW):** Searching for V1309 Sco analogs with ZTF and real-time alert Brokers
+
+**[Ishan Ghosh-Coutinho (UW)](https://github.com/ifgc):** (with T. Dorn-Wallenstein) Using ZTF photometric variability to constrain stellar surface gravity
+
+**Riley Baker (UW):** Exploring long period evolution of eclipsing binaries with TESS
+
+**Giovanni Gollotti (UW):** (With A. Tzanidakis and T. Wainer) [The Intriguing Transits of HIP 23309](https://iopscience.iop.org/article/10.3847/2515-5172/ad9743). 
+[AAS 245 Chambliss Winner](https://aas.org/posts/news/2025/01/congratulations-aas-245-chambliss-student-award-winners)
+
+**[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) Flares in LSST 
+
+**[Eleanor Gallay (Smith College)](https://github.com/eleanorgallay):** Technosignature Searches with Real-time Alert Brokers
+
+
+
+
 <hr>
 ## 2023-2024 Projects
 
@@ -26,9 +58,21 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Valeria Hurtado (UW)](https://astro.washington.edu/people/valeria-hurtado):** Post-AGB candidates in WISE
 
-**Francisca Chabour Barra (UW):** "Sequence Dispersion Minimization" ([repo](https://github.com/StellarCartography/SDM))
+**Francisca Chabour Barra (UW):** Morse Code as a Technosignature Analogy
+
+**Giovanni Gollotti (UW):** (With A. Tzanidakis and T. Wainer) [The Intriguing Transits of HIP 23309]
+
+**[Ishan Ghosh-Coutinho (UW)](https://github.com/ifgc):** (with T. Dorn-Wallenstein) Classifying massive stars with photometry and spectroscopy. ([Research Note](https://iopscience.iop.org/article/10.3847/2515-5172/ad0fe6/meta))
+
 
 **[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) DCR & Flares in LSST ([REPO](https://github.com/RileyWClarke/Flarubin))
+
+
+**[Eleanor Gallay (Smith College)](https://github.com/eleanorgallay):** Technosignature Searches with Real-time Alert Brokers (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
+
+**[Lipika Chatur (UT Austin)](https://github.com/lipikachatur):** Searching for Laser Signals in SDSS Spectra (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
+
+
 
 
 
@@ -53,7 +97,11 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Anna Baum (Lehigh)](https://wordpress.lehigh.edu/acb220/):**  (with [Prof. Joshua Pepper](https://jpepper.cas.lehigh.edu)) Changing Inclination Eclipsing Binaries in TESS and KELT
 
+**[Ishan Ghosh-Coutinho (UW)](https://github.com/ifgc):** (with T. Dorn-Wallenstein) Classifying massive stars with photometry and spectroscopy.
+
 **[Andy Nilipour (Yale)](https://github.com/anilipour):** (with [Steve Croft](https://w.astro.berkeley.edu/~scroft/)) Searching the SETI Ellipsoid with Gaia DR3 ([REPO](https://github.com/anilipour/Gaia-DR3-SETI-Ellipsoid))
+
+**[Jospeh Hand (KU)](https://github.com/josephhand):** Anomalous Lines in APOGEE Spectra (ALIAS) (with [Howard Isaacson](https://hisaacson2.wixsite.com/website)) (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
 
 
 
@@ -90,9 +138,9 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 **[Anna Zuckerman (Brown)](https://github.com/annazuckerman):** Searching for "missing transits" with Kepler. (NSF GRFP Awarded)
 
 
-**[Tien Nguyen (Agnes Scott College)](https://github.com/fairytien) :** (with [Howard Isaacson](https://hisaacson2.wixsite.com/website)) Anomalous Lines in APOGEE Spectra (ALIAS) ([REPO](https://github.com/fairytien/ALIAS), [REPO](https://github.com/jradavenport/ALIAS)) 
+**[Tien Nguyen (Agnes Scott College)](https://github.com/fairytien) :** (with [Howard Isaacson](https://hisaacson2.wixsite.com/website)) Anomalous Lines in APOGEE Spectra (ALIAS) ([REPO](https://github.com/fairytien/ALIAS), [REPO](https://github.com/jradavenport/ALIAS))  (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
 
-**[Andy Nilipour (Yale)](https://github.com/anilipour):** (with [Steve Croft](https://w.astro.berkeley.edu/~scroft/)) Searching the SETI Ellipsoid with Gaia DR3 ([REPO](https://github.com/anilipour/Gaia-DR3-SETI-Ellipsoid))
+**[Andy Nilipour (Yale)](https://github.com/anilipour):** (with [Steve Croft](https://w.astro.berkeley.edu/~scroft/)) Searching the SETI Ellipsoid with Gaia DR3 ([REPO](https://github.com/anilipour/Gaia-DR3-SETI-Ellipsoid)) (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
 
 <hr>
 
@@ -113,9 +161,9 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **Jaide Swanson (UW):** (with [Dr. Keaton Bell](http://faculty.washington.edu/keatonb/)) Calibrating the "crowdedness factor" for TESS with eclipsing bianries.
 
-**[Bárbara Cabrales](https://github.com/barbaracabrales) (Smith):** (with [Dr. Sofia Sheikh](https://sofiazsheikh.wordpress.com)) Breakthrough Listen summer 2021 intern, exploring the SETI Ellipsoid with TESS
+**[Bárbara Cabrales](https://github.com/barbaracabrales) (Smith):** (with [Dr. Sofia Sheikh](https://sofiazsheikh.wordpress.com)) Exploring the SETI Ellipsoid with TESS (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
 
-**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** Summer 2021 postbac, (with Steve Croft, Breakthrough Listen), searching for "missing transits" with Kepler.
+**[Anna Zuckerman](https://github.com/annazuckerman) (Brown):** (with Steve Croft, Breakthrough Listen), Searching for "missing transits" with Kepler.
 
 **Peter Gwartney (UW):** (with Jessica Birkey & Tyler Gordon) studying eclipsing binaries in open clusters with TESS.
 
