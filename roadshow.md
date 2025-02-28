@@ -6,14 +6,19 @@ show_in_nav: false
 ---
 
 <img src="{{ site.url }}/assets/aot_seattle.jpg" >
+*Taking the Astronomy on Tap Seattle show on the road!*
 
 
-*Taking the Astronomy on Tap Seattle show on the road...*
+After 10 years of giving science talks to audiences across Seattle, we're bringing the [AoT Seattle](https://astronomyontap.org/locations/seattle-wa/) show on the road! 
+We're looking for partners around Washington state that are interested in hosting a night of fun and engaging science talks and triva. Our goal is to put on 3-4 shows per year around WA. While we're in town, we might also organize other outreach type events, such as bringing our [mobile planetarium](https://astro.washington.edu/uw-mobile-planetarium), or giving talks to local schools or astronomy clubs. We want to partner with local astronomers and astronomy clubs.
+If you have location recommendations, venue suggestions, or general inquiries, please reach out to [Prof. James Davenport](mailto:jrad@uw.edu).
 
 
-After nearly 10 years of giving science talks to audiences across Seattle, we're bringing the [AoT Seattle](https://astronomyontap.org/locations/seattle-wa/) show on the road! 
-We're looking for partners around Washington state that are interesting in hosting a night of fun and engaging science talks and triva. Our goal is to put on 3-4 shows per year around WA. While we're in town, we can also organize other astronomy outreach type events, such as bringing our [mobile planetarium](https://astro.washington.edu/uw-mobile-planetarium), or giving talks to local schools or astronomy clubs. 
-If you have location recommendations, suggestions, or general inquiries, please reach out to [Prof. James Davenport](mailto:jrad@uw.edu).
+## Logistics 
+
+* Next Event: Yakima, WA (May 7, 2025)
+* [Run of show template](https://docs.google.com/document/d/1yv5VXPvrTL3JFOtMUOWvvegTAwUZjMqNaxYXlDQoCK8/edit?usp=sharing)
+
 
 
 ## Motivation
