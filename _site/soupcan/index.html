@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Recover Differential Rotation using ML?</title>
+    <title>James R. A. Davenport</title>
     <meta name="description" content="">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/2015/11/14/diffrot-ml.html">
+    <link rel="canonical" href="http://localhost:4000/soupcan/">
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -124,6 +124,8 @@ https://jradavenport.github.io -->
         
           
         
+          
+        
       </div>
     </nav>
 
@@ -137,22 +139,19 @@ https://jradavenport.github.io -->
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Recover Differential Rotation using ML?</h1>
-    <p class="post-meta">Nov 14, 2015</p>
+    <h1 class="post-title"></h1>
   </header>
 
   <article class="post-content">
-    <p>We showed in Aigrain et al. (2015) that, so far, nobody has an accurate way to recover differential rotation from simulated light curves.</p>
+    <p><strong>James Davenport</strong> (b. 1983)</p>
 
-<p>The most promising approaches revolved around studying the power spectrum or periodogram. The main peak (due to rotation) would be broadened or split.</p>
+<p><strong><em>Astrobiology’s Soup Can</em></strong> (2025)</p>
 
-<p>However, this signature can also be caused by starspot decay and evolution, or the appearance of many spots, even without any differential rotation in our model (alpha).</p>
+<p>We live in a remarkable time, where the extraordinary search for exoplanets has become mundane, and the mundane study of weather on exoplanets has become extraordinary. 
+This playful homage to Warhol embraces the evolution and rigorous standardization of our work as scientists, where the work is half done before the grant proposal is even written.</p>
 
-<p>I hypothesized that the periodogram peak structure might be able to recover some type of combined parameter that includes many of these degenerate stellar properties. Perhaps this would be enough information to be useful to theorists?</p>
+<p><img src="http://localhost:4000/assets/soupcan_2k.jpg" /></p>
 
-<p>My attempts to find such a “starspot evolution parameter” based on the peak broadening in the periodogram has not shown any correlation with simulated properties from the Aigrain model light curves. I also tried a simple Random Forest regression of the peak width (and width relative to the period) versus every simulated property for all 1000 light curves. Nada</p>
-
-<p>So the question/idea is: can we invert the problem, do machine learning on the power spectrum or periodogram itself to try and learn what the features of interest are? A giant amount of simulated light curves (even just using a super crappy evolving sine-curve code) would be helpful to tease out results….</p>
 
   </article>
 
