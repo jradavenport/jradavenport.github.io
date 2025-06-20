@@ -8,7 +8,19 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2025.06.05*
+*updated 2025.06.20*
+
+
+
+<tr>
+<td>
+<a href="https://www.universetoday.com/articles/the-search-for-advanced-civilizations-is-going-real-time">
+<img src = "/assets/media_logos/universetoday2.png" width=200> </a>
+</td>
+</tr>
+</tbody></table>
+
+
 
 <table><tbody>
 <tr>
