@@ -9,18 +9,10 @@ show_in_nav: false
 
 ## Introduction
 
-## Projects
-* LSST Solar System Science Collaboration: Technosignature Think Tank
-* SETI Ellipsoid & timing-based approaches
-* Outliers and unusual variability
-* Anomalous Lines in APOGEE Spectra (ALIAS) & spectroscopic methods
-* Changes in exoplanet transits over time
-* Searches for interstellar objects and anomalous solar system objects
-* [SETI.news](http://seti.news) - Newsletter for SETI research
-* Outreach projects, including Comic Con panels
 
 ## Papers
-* The Breakthrough Listen Search for Intelligent Life: Searching for Anomalous Lines In APOGEE Spectra (ALIAS) (Hand+2024 in prep)
+* The Breakthrough Listen Search for Intelligent Life: Searching for Anomalous Lines In APOGEE Spectra (ALIAS) (Hand in prep)
+* [Technosignature Searches with Real-time Alert Brokers (Gallay+2025)](https://arxiv.org/abs/2506.14744)
 * [Searching the SN 1987A SETI Ellipsoid with TESS (Cabrales+2024)](https://arxiv.org/abs/2402.11037)
 * [The weird and the wonderful in our Solar System: Searching for serendipity in the Legacy Survey of Space and Time (Rogers+2024)](https://arxiv.org/abs/2401.08763)
 * [The Breakthrough Listen Search for Intelligent Life: Detection and Characterization of Anomalous Transits in Kepler Lightcurves (Zuckerman+2023)](https://arxiv.org/abs/2312.07903)
@@ -32,6 +24,16 @@ show_in_nav: false
 * [SETI in the Spatio-Temporal Survey Domain (Davenport 2019)](https://ui.adsabs.harvard.edu/abs/2019arXiv190704443D/abstract)
 * SETI with LSST Whitepaper (in prep)
 
+
+## Projects
+* LSST Solar System Science Collaboration: Technosignature Think Tank
+* SETI Ellipsoid & timing-based approaches
+* Outliers and unusual variability
+* Anomalous Lines in APOGEE Spectra (ALIAS) & spectroscopic methods
+* Changes in exoplanet transits over time
+* Searches for interstellar objects and anomalous solar system objects
+* [SETI.news](http://seti.news) - Newsletter for SETI research
+* Outreach projects, including Comic Con panels
 
 
 ## Meetings & Workshops

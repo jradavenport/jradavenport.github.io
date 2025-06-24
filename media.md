@@ -14,6 +14,10 @@ Here is a list of media coverage, which I try to keep up to date. For press or s
 <table><tbody>
 <tr>
 <td>
+<a href="https://www.washington.edu/news/2025/06/23/rubinfirstlook/">
+<img src="/assets/media_logos/uwnews.png" width="200"/></a>
+</td>
+<td>
 <a href="https://www.universetoday.com/articles/the-search-for-advanced-civilizations-is-going-real-time">
 <img src = "/assets/media_logos/universetoday2.png" width=200> </a>
 </td>
