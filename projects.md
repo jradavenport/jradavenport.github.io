@@ -133,9 +133,6 @@ If you see something you'd like to collaborate on, please reach out!
 	- could be small fishing expedition, could be a PhD thesis!
 
 
-	<!-- - Despite [excellent work](http://adsabs.harvard.edu/abs/2015MNRAS.450.3211A) showing it may be nearly impossible, I think there is still some room to explore here...
-	- maybe use auto-encoders or other ML/Vision ideas? -->
-
 ### Software & Algorithms
 - **Creating a Python-based long slit spectroscopy pipeline for KOSMOS @ APO**
 	- Many coding and data analysis pieces available, big and small!
