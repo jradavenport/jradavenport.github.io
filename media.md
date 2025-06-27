@@ -8,11 +8,14 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2025.06.20*
-
+*updated 2025.06.27*
 
 <table><tbody>
 <tr>
+<td>
+<a href="https://www.geekwire.com/2025/university-of-washington-rubin-observatory/">
+<img src = "/assets/media_logos/geekwire.png" width=195> </a>
+</td>
 <td>
 <a href="https://www.washington.edu/news/2025/06/23/rubinfirstlook/">
 <img src="/assets/media_logos/uwnews.png" width="200"/></a>
