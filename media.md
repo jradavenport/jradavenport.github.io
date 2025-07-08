@@ -8,7 +8,10 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2025.06.27*
+*updated 2025.07.08*
+
+<a href="https://www.youtube.com/watch?v=56DeEEWOstk">
+<img src = "/assets/media_logos/fox13.png" width=150> </a>
 
 <table><tbody>
 <tr>
