@@ -18,6 +18,7 @@ show_in_nav: false
 * [The Breakthrough Listen Search for Intelligent Life: Detection and Characterization of Anomalous Transits in Kepler Lightcurves (Zuckerman+2023)](https://arxiv.org/abs/2312.07903)
 * [Signal Synchronization Strategies and Time Domain SETI with Gaia DR3 (Nilipour+2023)](https://arxiv.org/abs/2308.00066)
 * [Real-Time Technosignature Strategies with SN 2023ixf (Davenport+2023)](https://arxiv.org/abs/2306.03118)
+* [The Breakthrough Listen Search for Intelligent Life: A Roadmap for Advancing Optical & Infrared SETI]({{ site.url }}/assets/BL_Optical_Roadmap2023.pdf) 
 * [Searching the SETI Ellipsoid with Gaia (Davenport+2022)](https://ui.adsabs.harvard.edu/abs/2022AJ....164..117D/abstract)
 * [From Data to Software to Science with the Rubin Observatory LSST (Breivik+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220802781B/abstract) - Section B.6.9
 * [Rubin Observatory LSST Transients and Variable Stars Roadmap (Hambleton+2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220804499H/abstract) - Section 2.3.3
