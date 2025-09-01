@@ -8,10 +8,23 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2025.07.08*
-
+*updated 2025.09.01*
+<table><tbody>
+<tr>
+<td>
+<a href="https://starxiv.com/2025/09/01/episode-19-peering-into-the-local-universe-distant-blackholes-forming-planets-and-alien-signatures/">
+<img src = "/assets/media_logos/starxiv.png" width=170> </a>
+</td>
+<td>
+<a href="https://www.universetoday.com/articles/what-technosignatures-would-interstellar-objects-have">
+<img src = "/assets/media_logos/universetoday2.png" width=200> </a>
+</td>
+<td>
 <a href="https://www.youtube.com/watch?v=56DeEEWOstk">
 <img src = "/assets/media_logos/fox13.png" width=150> </a>
+</td>
+</tr>
+</tbody></table>
 
 <table><tbody>
 <tr>
