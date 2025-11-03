@@ -11,8 +11,9 @@ show_in_nav: false
 
 
 ## Papers
-* The Breakthrough Listen Search for Intelligent Life: Searching for Anomalous Lines In APOGEE Spectra (ALIAS) (Hand in prep)
+* [Technosignature Searches of Interstellar Objects](https://ui.adsabs.harvard.edu/abs/2025arXiv250816825D/abstract) (Davenport+2025)
 * [Technosignature Searches with Real-time Alert Brokers (Gallay+2025)](https://arxiv.org/abs/2506.14744)
+* Searching for Anomalous Lines In APOGEE Spectra (ALIAS) (Hand in prep)
 * [Searching the SN 1987A SETI Ellipsoid with TESS (Cabrales+2024)](https://arxiv.org/abs/2402.11037)
 * [The weird and the wonderful in our Solar System: Searching for serendipity in the Legacy Survey of Space and Time (Rogers+2024)](https://arxiv.org/abs/2401.08763)
 * [The Breakthrough Listen Search for Intelligent Life: Detection and Characterization of Anomalous Transits in Kepler Lightcurves (Zuckerman+2023)](https://arxiv.org/abs/2312.07903)

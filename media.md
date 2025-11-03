@@ -8,7 +8,16 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2025.09.01*
+*updated 2025.11.04*
+<table><tbody>
+<tr>
+<td>
+<a href="https://orbitaltoday.com/2025/09/04/could-interstellar-objects-be-alien-ships-scientists-search-for-technosignatures/">
+<img src = "/assets/media_logos/orbital_today.png" width=170> </a>
+</td>
+</tr>
+</tbody></table>
+
 <table><tbody>
 <tr>
 <td>
