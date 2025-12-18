@@ -16,7 +16,7 @@ If you have location recommendations, venue suggestions, or general inquiries, p
 
 ## Logistics 
 
-* Next Event: Yakima, WA (May 7, 2025)
+* First Event: Yakima, WA (May 7, 2025)
 * [Run of show template](https://docs.google.com/document/d/1yv5VXPvrTL3JFOtMUOWvvegTAwUZjMqNaxYXlDQoCK8/edit?usp=sharing)
 
 

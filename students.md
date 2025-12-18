@@ -13,13 +13,22 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 ## *Student Collaborations*
 
 <hr>
+## 2025-2026 Projects
+
+**[Anastasios (Andy) Tzanidakis (UW)](https://andytza.github.io):** Looking for rare dipper stars in surveys.
+
+**[Ranger Liu (UW)](https://ryurongliu.com/):** Information complexity metrics for optical technosignature studies
+
+**[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in Kepler & TESS.
+
+**[Jessica Birky (UW)](https://jbirky.github.io):** (with Prof. Rory Barnes) Tidal evolution of binary stars.
+
+<hr>
 ## 2024-2025 Projects
 
 **[Anastasios (Andy) Tzanidakis (UW)](https://andytza.github.io):** Looking for rare dipper stars in surveys.
 
-
 **[Ranger Liu (UW)](https://ryurongliu.com/):** Information complexity metrics for optical technosignature studies
-
 
 **[Tobin Wainer (UW)](https://tobin-wainer.github.io):** Flare activity variations in Kepler & TESS.
 
@@ -38,7 +47,11 @@ This website is an overview (and brag sheet!) for many of their projects & accom
 
 **[Riley Clark (UDel)](https://rileywclarke.github.io):** (with [Prof. Federica Bianco](http://fbb.space)) Flares in LSST 
 
-**[Eleanor Gallay (Smith College)](https://github.com/eleanorgallay):** Technosignature Searches with Real-time Alert Brokers
+**[Eleanor Gallay (Smith College)](https://github.com/eleanorgallay):** Technosignature Searches with Real-time Alert Brokers. [Papepr published](https://arxiv.org/abs/2506.14744)
+
+**[Emma Yu (Berkeley)](https://github.com/eyu22):** Searching for Lasers Within 100pc Using High-Resolution Spectroscopy (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
+
+**[Valeria Garcia Lopez (Furman)](https://github.com/valegl04):** Using the Allen Telescope Array to follow up transient alerts from LSST (with Sofia Sheikh) (via the [Breakthrough Listen Research Internship](https://seti.berkeley.edu/Internship.html))
 
 
 
