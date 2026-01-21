@@ -8,12 +8,16 @@ show_in_nav: true
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
 
 
-*updated 2025.12.19*
+*updated 2026.01.21*
 <table><tbody>
 <tr>
 <td>
+<a href="https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/">
+<img src="/assets/media_logos/wired.png" width=185/> </a>
+</td>
+<td>
 <a href="https://komonews.com/news/arc-seattle/3iatlas-makes-closest-approach-to-earth">
-<img src="/assets/media_logos/komonews.png" width=200/> </a>
+<img src="/assets/media_logos/komonews.png" width=185/> </a>
 </td>
 <td>
 <a href="https://orbitaltoday.com/2025/09/04/could-interstellar-objects-be-alien-ships-scientists-search-for-technosignatures/">
