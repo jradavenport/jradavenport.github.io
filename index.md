@@ -6,9 +6,9 @@ layout: page
 <div>
 <!-- <img align="left" src="{{ site.url }}/assets/davenport_bw_2020.JPG" hspace="25" width="200"> -->
 <!-- <figure> -->
-<a href="{{ site.url }}/assets/headshot2023_900.jpg"> 
+<!-- <a href="{{ site.url }}/assets/headshot2023_900.jpg">  -->
 <img align="right" src="{{ site.url }}/assets/James_127A2213HurstFrye_4x5_BWsmall.jpg" hspace="25" width="300">
-</a>
+<!-- </a> -->
 <!-- </figure> -->
 
 I am a Research Assistant Professor and Faculty Director for Outreach in the University of Washington's <a href="http://astro.washington.edu">Department of Astronomy</a>, and as of 2025 am  Director of the
