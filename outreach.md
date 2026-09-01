@@ -5,6 +5,7 @@ permalink: /outreach/
 show_in_nav: true
 ---
 
+
 I am currently the Faculty Director of Outreach for the Department of Astronomy at the University of Washington. In this role I oversee the administration of many UW Astro outreach programs, including the [UW Planetarium](https://astro.washington.edu/uw-planetarium), the [Mobile Planetarium](https://astro.washington.edu/uw-mobile-planetarium), the [Theodor Jacobsen Observatory (TJO)](https://astro.washington.edu/jacobsen-observatory), and serve as an advisor to programs such as [Astronomy on Tap Seattle](https://astro.washington.edu/astronomy-tap). 
 
 I also am currently the instructor for ASTR 270, a science communication course where we work to teach traditional astronomy outreach (planetarium shows and public talks) using a blend of sci-comm theory and improv/theater activities.

@@ -11,9 +11,9 @@ layout: page
 <!-- </a> -->
 <!-- </figure> -->
 
-I am a Research Assistant Professor and Faculty Director for Outreach in the University of Washington's <a href="http://astro.washington.edu">Department of Astronomy</a>, and as of 2025 am  Director of the
-<a href="http://dirac.astro.washington.edu">DiRAC Institute</a>.
-My research program focuses on studying time domain, large survey astronomy, with an emphasis on studying magnetically active stars and searching for technosignatures in surveys like Kepler, TESS, and LSST.
+I am a Research Assistant Professor in the University of Washington's <a href="http://astro.washington.edu">Department of Astronomy</a>, where I serve as the Director of the
+<a href="http://dirac.astro.washington.edu">DiRAC Institute</a>,  and Faculty Director for Outreach.
+My research program focuses on studying time domain survey astronomy, with an emphasis on technosignatures and variable stars in surveys like TESS and Rubin/LSST.
 <span class="clear: both"></span>
 </div>
 <br>

@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-show_in_nav: true
+show_in_nav: false
 ---
 
 <img src="{{ site.url }}/assets/gp_lightcurve1.png" >

@@ -2,7 +2,7 @@
 layout: page
 title: Media
 permalink: /media/
-show_in_nav: true
+show_in_nav: false
 ---
 
 Here is a list of media coverage, which I try to keep up to date. For press or speaking inquiries, please reach out via email or social media.
