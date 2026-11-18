@@ -18,7 +18,9 @@ Some outreach initiatives I have helped create recently include:
 * Interstellar Insights, a recurring panel at [Emerald City Comic Con](https://www.emeraldcitycomiccon.com)
 * [Art Among the Stars](https://astro.washington.edu/art-among-stars-astronomy-x-art-exhibition-2025), an Astronomy x Arts exhibition organized by R. Liu. In 2025 I presented "[*Astrobiology's Soup Can*](http://jradavenport.github.io/soupcan/)"
 * Cosmic Connections (working title), an upcoming collaboration with the Burke Museum.
+* [Minecraft Rubin](https://github.com/jradavenport/minecraft-rubin), a full-size model of the NSF-DOE Vera C. Rubin Observatory built in Minecraft.
 
 
 I am a frequent presenter at local venues, and you can see many of my public talks and lectures [online](https://www.youtube.com/watch?v=YMQXilHRGuU&list=PLWutIaedlwKTBicKbLlt51HgdfkzfKM8k). 
+
 **If you'd like to invite me to speak at your event, please [reach out!]({{ site.url }}/speaking)** 
